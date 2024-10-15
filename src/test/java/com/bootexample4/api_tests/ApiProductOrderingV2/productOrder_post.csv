@@ -1,0 +1,12 @@
+orderType,body,expectedResponse
+"Associate CPE Order Type FTTP","read('examples/associate-cpe-fttp.json')","read('responses/201-created.json')"
+"Installation Order Type FTTH","read('examples/installation-ftth.json')","read('responses/201-created.json')"
+"Installation Order Type FTTH address change","read('examples/installation-ftth-ac.json')","read('responses/201-created.json')"
+"Installation Order Type FTTH partial viability","read('examples/installation-ftth-pv.json')","read('responses/201-created.json')"
+"Installation Order Type FTTP","read('examples/installation-fttp.json')","read('responses/201-created.json')"
+"Partial Block Order Type FTTH","read('examples/partial-block-ftth.json')","read('responses/201-created.json')"
+"Point Relocation Order Type FTTH","read('examples/point-relocation-ftth.json')","read('responses/201-created.json')"
+"Removal Order Type FTTH","read('examples/removal-ftth.json')","read('responses/201-created.json')"
+"Speed Modification Order Type FTTH","read('examples/speed-mod-ftth.json')","read('responses/201-created.json')"
+"Total Block Order Type FTTH","read('examples/total-block-ftth.json')","read('responses/201-created.json')"
+"Unblock Order Type FTTH","read('examples/unblock-ftth.json')","read('responses/201-created.json')"
