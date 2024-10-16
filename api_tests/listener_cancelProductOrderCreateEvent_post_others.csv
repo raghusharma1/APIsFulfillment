@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^code^|^description^|^action^|^statusCode^|^scenario
+1234567890^|^VTT001^|^1^|^Ordem encerrada com sucesso^|^abrir^|^200^|^Normal
+9876543210^|^VTT002^|^2^|^Ordem cancelada^|^fechar^|^404^|^Urgent
+1234509876^|^VTT003^|^3^|^Início do Processo de Obra^|^redirecionar^|^500^|^High Priority
+0987654321^|^VTT004^|^-1^|^O Equipamento já está em uso por outro cliente^|^abrir^|^503^|^Maintenance
+5556667778^|^VTT005^|^4^|^Término do Processo de Obra^|^fechar^|^202^|^Scheduled
+3332221110^|^VTT006^|^0^|^Ordem encerrada com sucesso^|^redirecionar^|^204^|^Normal
+9998887776^|^VTT007^|^1^|^Enviando Atualização de Ordem^|^abrir^|^400^|^Critical
+6665554443^|^VTT008^|^2^|^Ordem cancelada^|^fechar^|^401^|^Immediate
+4443332221^|^VTT009^|^3^|^null^|^redirecionar^|^403^|^Low Priority
+7778889990^|^VTT010^|^4^|^Término do Processo de Obra^|^abrir^|^405^|^Delayed

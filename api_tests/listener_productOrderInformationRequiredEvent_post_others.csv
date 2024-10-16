@@ -1,0 +1,11 @@
+id^|^code^|^description^|^statusCode^|^scenario
+1^|^7029^|^Pendencia de agendamento^|^active^|^base
+2^|^7030^|^Valid description^|^pending^|^extended
+3^|^hello^|^Inappropriate data type for code^|^completed^|^main
+4^|^7016^|^Pendencia Cliente Ausente^|^inactive^|^alternative
+5^|^7021^|^Another valid description^|^error^|^default
+6^|^7031^|^Pendencia Agendamento^|^active^|^primary
+7^|^7035^|^Pendencia area de Risco Momentanea^|^pending^|^secondary
+8^|^7024^|^Pendencia de Rede 3 dias^|^completed^|^variant
+9^|^7043^|^Incorrect data type here^|^error^|^variation
+10^|^7095^|^Pendencia agendamento nao cumprido^|^active^|^special
