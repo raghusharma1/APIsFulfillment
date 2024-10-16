@@ -1,0 +1,3 @@
+requestBody,expectedResponse
+"{""order"":{""type"":""Instalacao"",""infraType"":""FTTH"",""customer"":{""subscriberId"":""SVTAL001""},""appointment"":{""hasSlot"":true,""mandatoryType"":""Obrigatorio""}}}","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""#string""}}"
+"{""order"":{""type"":""Retirada"",""infraType"":""FTTP"",""customer"":{""subscriberId"":""SVTAL002""},""appointment"":{""hasSlot"":false,""mandatoryType"":""Permitido""}}}","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""#string""}}"
