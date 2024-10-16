@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^code^|^description^|^action^|^statusCode^|^scenario
+1234567890^|^DOC-001^|^3^|^Ordem encerrada com sucesso^|^abrir^|^200^|^Normal
+9876543210^|^DOC-002^|^1^|^Enviando Atualização de Ordem^|^fechar^|^404^|^Urgent
+1122334455^|^DOC-003^|^2^|^Ordem cancelada^|^redirecionar^|^500^|^High Priority
+4433221100^|^DOC-004^|^4^|^Término do Processo de Obra^|^abrir^|^^|^Standard
+6677889900^|^DOC-005^|^0^|^Ordem encerrada com sucesso^|^fechar^|^200^|^Routine
+9988776655^|^DOC-006^|^3^|^Início do Processo de Obra^|^redirecionar^|^403^|^Critical
+2233445566^|^DOC-007^|^4^|^Término do Processo de Obra^|^abrir^|^^|^Low
+5566778899^|^DOC-008^|^1^|^Enviando Atualização de Ordem^|^fechar^|^202^|^Normal
+3344556677^|^DOC-009^|^2^|^Ordem cancelada^|^redirecionar^|^^|^High
+7788990011^|^DOC-010^|^0^|^Ordem encerrada com sucesso^|^abrir^|^200^|^Routine

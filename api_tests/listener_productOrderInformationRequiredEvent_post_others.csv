@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Open^|^200^|^Test
+Disabled^|^67890^|^Closed^|^404^|^Production
+^|^54321^|^Escalated^|^500^|^Development
+Enabled^|^09876^|^Resolved^|^301^|^Staging
+Active^|^11223^|^Pending^|^202^|^Testing
+^|^33445^|^Open^|^403^|^Demo
+Enabled^|^55677^|^Closed^|^200^|^Live
+Disabled^|^88900^|^Open^|^503^|^Sandbox
+Active^|^66789^|^Resolved^|^301^|^Prototype
+^|^44556^|^Pending^|^404^|^Simulation
