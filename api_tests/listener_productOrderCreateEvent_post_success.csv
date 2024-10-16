@@ -1,0 +1,11 @@
+subscriberId^|^correlationOrder^|^id^|^action^|^code^|^description^|^statusCode^|^scenario
+sID_001^|^CO_001^|^ID_001^|^abrir^|^7001^|^Pendência Cancelamento por Duplicidade^|^200^|^Scenario_A
+sID_002^|^CO_002^|^ID_002^|^fechar^|^7008^|^Pendência Cancelamento por Inviabilidade Técnica^|^404^|^Scenario_B
+sID_003^|^CO_003^|^ID_003^|^redirecionar^|^7010^|^Pendência Equipamento Cliente^|^500^|^Scenario_C
+sID_004^|^CO_004^|^ID_004^|^abrir^|^7021^|^Pendência Cliente Interrompe e Solicita nova data de Agendamento^|^403^|^Scenario_D
+sID_005^|^CO_005^|^ID_005^|^fechar^|^7031^|^Pendência Agendamento^|^202^|^Scenario_E
+sID_006^|^CO_006^|^ID_006^|^redirecionar^|^7042^|^Pendência Local Fechado^|^401^|^Scenario_F
+sID_007^|^CO_007^|^ID_007^|^abrir^|^7051^|^Pendência de Aprovisionamento 5 dias^|^200^|^Scenario_G
+sID_008^|^CO_008^|^ID_008^|^fechar^|^7065^|^Pendência Local Fechado^|^404^|^Scenario_H
+sID_009^|^CO_009^|^ID_009^|^redirecionar^|^7075^|^Pendência Cancelamento por Inviabilidade Técnica^|^500^|^Scenario_I
+sID_010^|^CO_010^|^ID_010^|^abrir^|^7081^|^Pendência Cancelamento por Impossibilidade de Execução^|^403^|^Scenario_J
