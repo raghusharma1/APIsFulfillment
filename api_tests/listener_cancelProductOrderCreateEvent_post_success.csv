@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^statusCode^|^scenario
+USR123456789^|^DOC001^|^ORD20231001^|^1^|^Enviando Atualização de Ordem^|^Active^|^Standard Process
+USR987654321^|^DOC002^|^ORD20231002^|^2^|^Ordem cancelada^|^Cancelled^|^Urgent Repair
+USR112233445^|^DOC003^|^ORD20231003^|^3^|^Início do Processo de Obra^|^Pending^|^New Installation
+USR556677889^|^DOC004^|^ORD20231004^|^4^|^Término do Processo de Obra^|^Completed^|^Final Inspection
+USR102938475^|^DOC005^|^ORD20231005^|^0^|^Ordem encerrada com sucesso^|^Closed^|^Routine Check
+USR564738291^|^DOC006^|^ORD20231006^|^1^|^Enviando Atualização de Ordem^|^Active^|^Standard Process
+USR475869302^|^DOC007^|^ORD20231007^|^2^|^Ordem cancelada^|^Cancelled^|^Urgent Repair
+USR928374656^|^DOC008^|^ORD20231008^|^3^|^Início do Processo de Obra^|^Pending^|^New Installation
+USR182736455^|^DOC009^|^ORD20231009^|^4^|^Término do Processo de Obra^|^Completed^|^Final Inspection
+USR637485920^|^DOC010^|^ORD20231010^|^0^|^Ordem encerrada com sucesso^|^Closed^|^Routine Check
