@@ -1,0 +1,3 @@
+payload,expectedResponse
+"read('examples/valid-payload1.json')","read('responses/valid-response1.json')"
+"read('examples/valid-payload2.json')","read('responses/valid-response2.json')"
