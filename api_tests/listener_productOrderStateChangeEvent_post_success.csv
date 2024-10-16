@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+123456789^|^2023-09-21T14:22:00^|^DOC001^|^1^|^1001^|^Order successfully completed^|^202309210001^|^Completion^|^200^|^Standard Process
+987654321^|^2023-09-21T15:30:00^|^DOC002^|^2^|^1002^|^Order cancelled^|^202309210002^|^Cancellation^|^404^|^Urgent Handling
+234567890^|^2023-09-21T16:45:00^|^DOC003^|^0^|^1003^|^Order closed successfully^|^202309210003^|^Closure^|^200^|^Routine Check
+876543219^|^2023-09-21T17:55:00^|^DOC004^|^3^|^1004^|^Start of construction process^|^202309210004^|^Construction^|^201^|^New Installation
+345678901^|^2023-09-21T18:05:00^|^DOC005^|^4^|^1005^|^Construction process completed^|^202309210005^|^Completion^|^200^|^Finalization
+765432198^|^2023-09-21T19:10:00^|^DOC006^|^1^|^1006^|^Order successfully completed^|^202309210006^|^Completion^|^200^|^Standard Process
+456789012^|^2023-09-21T20:20:00^|^DOC007^|^2^|^1007^|^Order cancelled^|^202309210007^|^Cancellation^|^404^|^Issue Resolution
+654321987^|^2023-09-21T21:30:00^|^DOC008^|^0^|^1008^|^Order closed successfully^|^202309210008^|^Closure^|^200^|^Routine Check
+567890123^|^2023-09-21T22:40:00^|^DOC009^|^3^|^1009^|^Start of construction process^|^202309210009^|^Construction^|^201^|^New Installation
+432198765^|^2023-09-21T23:50:00^|^DOC010^|^4^|^1010^|^Construction process completed^|^202309210010^|^Completion^|^200^|^Finalization

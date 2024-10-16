@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^VTT001^|^7029^|^1^|^TECNICA
+Disabled^|^VTT002^|^7030^|^0^|^CLIENTE
+Enabled^|^VTT003^|^7015^|^2^|^TECNICA
+On^|^VTT004^|^7031^|^-1^|^CLIENTE
+Off^|^VTT005^|^7021^|^3^|^TECNICA
+True^|^VTT006^|^7010^|^4^|^TECNICA
+False^|^VTT007^|^7065^|^-1^|^CLIENTE
+Yes^|^VTT008^|^7076^|^0^|^TECNICA
+No^|^VTT009^|^7082^|^1^|^CLIENTE
+Active^|^VTT010^|^7096^|^2^|^TECNICA

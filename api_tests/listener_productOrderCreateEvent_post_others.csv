@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^description^|^statusCode^|^scenario
+12345^|^VTT001^|^10^|^20230315000001^|^2^|^Ordem cancelada^|^200^|^Update
+67890^|^VTT002^|^20^|^20230315000002^|^4^|^Término do Processo de Obra^|^300^|^Completion
+54321^|^VTT003^|^30^|^20230315000003^|^1^|^Enviando Atualização de Ordem^|^400^|^UpdateInProgress
+98765^|^VTT004^|^40^|^20230315000004^|^0^|^Ordem encerrada com sucesso^|^500^|^Closed
+13579^|^VTT005^|^50^|^20230315000005^|^3^|^Início do Processo de Obra^|^600^|^Start
+24680^|^VTT006^|^60^|^20230315000006^|^1^|^Enviando Atualização de Ordem^|^700^|^UpdateInProgress
+86420^|^VTT007^|^70^|^20230315000007^|^-1^|^O Equipamento já está em uso por outro cliente^|^800^|^Error
+97531^|^VTT008^|^80^|^20230315000008^|^4^|^Término do Processo de Obra^|^900^|^Completion
+13570^|^VTT009^|^90^|^20230315000009^|^1^|^Enviando Atualização de Ordem^|^100^|^UpdateInProgress
+24689^|^VTT010^|^100^|^20230315000010^|^0^|^Ordem encerrada com sucesso^|^200^|^Closed

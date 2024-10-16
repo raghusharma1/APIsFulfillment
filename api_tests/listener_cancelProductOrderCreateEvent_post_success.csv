@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^action^|^issueCode^|^description^|^statusCode^|^scenario
+USR123456789^|^DOC001^|^CORR001^|^ID001^|^3^|^abrir^|^7001^|^Pendência Cancelamento por Duplicidade^|^200^|^CLIENTE
+USR987654321^|^DOC002^|^CORR002^|^ID002^|^1^|^fechar^|^7008^|^Pendência Cancelamento por Inviabilidade Técnica^|^404^|^TECNICA
+USR112233445^|^DOC003^|^CORR003^|^ID003^|^2^|^redirecionar^|^7010^|^Pendência Equipamento Cliente^|^500^|^CLIENTE
+USR556677889^|^DOC004^|^CORR004^|^ID004^|^4^|^abrir^|^7015^|^Pendência Cancelamento por Desistência do Serviço^|^200^|^CLIENTE
+USR223344556^|^DOC005^|^CORR005^|^ID005^|^0^|^fechar^|^7021^|^Pendência Cliente Interrompe e Solicita nova data de Agendamento^|^404^|^TECNICA
+USR334455667^|^DOC006^|^CORR006^|^ID006^|^3^|^redirecionar^|^7031^|^Pendência Agendamento^|^500^|^CLIENTE
+USR778899001^|^DOC007^|^CORR007^|^ID007^|^1^|^abrir^|^7035^|^Pendência área de Risco Momentânea^|^200^|^CLIENTE
+USR889900112^|^DOC008^|^CORR008^|^ID008^|^2^|^fechar^|^7037^|^Pendência Impedimento de Atividade por Chuva^|^404^|^TECNICA
+USR990011223^|^DOC009^|^CORR009^|^ID009^|^0^|^redirecionar^|^7042^|^Pendência Local Fechado^|^500^|^CLIENTE
+USR101112131^|^DOC010^|^CORR010^|^ID010^|^4^|^abrir^|^7047^|^Pendência Acesso Impossibilitado^|^200^|^CLIENTE
