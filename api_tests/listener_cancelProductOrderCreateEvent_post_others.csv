@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^issueCode^|^description^|^statusCode^|^scenario
+1234567890^|^DOC-001^|^CORR-1001^|^ID-2001^|^0^|^Order completed successfully^|^200^|^Standard
+2345678901^|^DOC-002^|^CORR-1002^|^ID-2002^|^1^|^Sending order update^|^300^|^Update
+3456789012^|^DOC-003^|^CORR-1003^|^ID-2003^|^2^|^Order cancelled^|^404^|^Cancellation
+4567890123^|^DOC-004^|^CORR-1004^|^ID-2004^|^3^|^Start of construction process^|^500^|^Construction
+5678901234^|^DOC-005^|^CORR-1005^|^ID-2005^|^4^|^End of construction process^|^200^|^Completion
+6789012345^|^DOC-006^|^CORR-1006^|^ID-2006^|^-1^|^Equipment already in use by another client^|^409^|^Error
+7890123456^|^DOC-007^|^CORR-1007^|^ID-2007^|^0^|^Order completed successfully^|^200^|^Standard
+8901234567^|^DOC-008^|^CORR-1008^|^ID-2008^|^1^|^Sending order update^|^300^|^Update
+9012345678^|^DOC-009^|^CORR-1009^|^ID-2009^|^2^|^Order cancelled^|^404^|^Cancellation
+0123456789^|^DOC-010^|^CORR-1010^|^ID-2010^|^3^|^Start of construction process^|^500^|^Construction
