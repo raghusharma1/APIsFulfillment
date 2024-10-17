@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+alert^|^VTT001^|^7029^|^1^|^TECNICA
+warning^|^VTT002^|^7030^|^0^|^CLIENTE
+update^|^VTT003^|^7010^|^2^|^TECNICA
+info^|^VTT004^|^7031^|^3^|^CLIENTE
+alert^|^VTT005^|^7001^|^4^|^TECNICA
+message^|^VTT006^|^7021^|^1^|^CLIENTE
+note^|^VTT007^|^7047^|^2^|^TECNICA
+info^|^VTT008^|^7054^|^3^|^CLIENTE
+update^|^VTT009^|^7035^|^4^|^TECNICA
+warning^|^VTT010^|^7070^|^0^|^CLIENTE
