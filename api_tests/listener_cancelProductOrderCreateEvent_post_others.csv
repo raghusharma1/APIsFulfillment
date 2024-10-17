@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^issueCode^|^statusCode^|^scenario
+12345^|^DOC-001^|^ORD-1001^|^20231010^|^7001^|^1^|^abrir
+67890^|^DOC-002^|^ORD-1002^|^20231011^|^7008^|^2^|^fechar
+abcde^|^DOC-003^|^ORD-1003^|^20231012^|^7010^|^3^|^redirecionar
+fghij^|^DOC-004^|^ORD-1004^|^20231013^|^7014^|^4^|^abrir
+klmno^|^DOC-005^|^ORD-1005^|^20231014^|^7016^|^0^|^fechar
+pqrst^|^DOC-006^|^ORD-1006^|^20231015^|^7021^|^1^|^redirecionar
+uvwxyz^|^DOC-007^|^ORD-1007^|^20231016^|^7024^|^2^|^abrir
+123abc^|^DOC-008^|^ORD-1008^|^20231017^|^7031^|^3^|^fechar
+456def^|^DOC-009^|^ORD-1009^|^20231018^|^7035^|^0^|^redirecionar
+789ghi^|^DOC-010^|^ORD-1010^|^20231019^|^7037^|^1^|^abrir

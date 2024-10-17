@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task1^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^1^|^Scenario A
+DOC002^|^1002^|^20230315000002^|^fechar^|^7030^|^Pendencia de agendamento^|^false^|^Observation text here^|^MANUTENCAO^|^Task2^|^TECNICA^|^2022-02-25T11:50:50.566-03:00^|^2^|^Scenario B
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task3^|^CLIENTE^|^2021-03-17T17:19:50-03:00^|^3^|^Scenario C
+DOC004^|^1004^|^20230315000004^|^abrir^|^7030^|^Pendencia de agendamento^|^false^|^Observation text here^|^MANUTENCAO^|^Task4^|^TECNICA^|^2022-03-25T11:50:50.566-03:00^|^4^|^Scenario D
+DOC005^|^1005^|^20230315000005^|^fechar^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task5^|^CLIENTE^|^2021-04-17T17:19:50-03:00^|^0^|^Scenario E
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7030^|^Pendencia de agendamento^|^false^|^Observation text here^|^MANUTENCAO^|^Task6^|^TECNICA^|^2022-04-25T11:50:50.566-03:00^|^1^|^Scenario F
+DOC007^|^1007^|^20230315000007^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task7^|^CLIENTE^|^2021-05-17T17:19:50-03:00^|^2^|^Scenario G
+DOC008^|^1008^|^20230315000008^|^fechar^|^7030^|^Pendencia de agendamento^|^false^|^Observation text here^|^MANUTENCAO^|^Task8^|^TECNICA^|^2022-05-25T11:50:50.566-03:00^|^3^|^Scenario H
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task9^|^CLIENTE^|^2021-06-17T17:19:50-03:00^|^4^|^Scenario I
+DOC010^|^1010^|^20230315000010^|^abrir^|^7030^|^Pendencia de agendamento^|^false^|^Observation text here^|^MANUTENCAO^|^Task10^|^TECNICA^|^2022-06-25T11:50:50.566-03:00^|^0^|^Scenario J
