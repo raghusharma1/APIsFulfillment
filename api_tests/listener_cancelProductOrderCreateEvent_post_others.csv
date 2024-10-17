@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^issueCode^|^statusCode^|^scenario
+cust-001^|^DOC001^|^ORD-1001^|^20230315000001^|^7001^|^0^|^Scenario1
+cust-002^|^DOC002^|^ORD-1002^|^20230315000002^|^7014^|^1^|^Scenario2
+cust-003^|^DOC003^|^ORD-1003^|^20230315000003^|^7029^|^2^|^Scenario3
+cust-004^|^DOC004^|^ORD-1004^|^20230315000004^|^7031^|^3^|^Scenario4
+cust-005^|^DOC005^|^ORD-1005^|^20230315000005^|^7042^|^4^|^Scenario5
+cust-006^|^DOC006^|^ORD-1006^|^20230315000006^|^7051^|^-1^|^Scenario6
+cust-007^|^DOC007^|^ORD-1007^|^20230315000007^|^7067^|^banana^|^Scenario7
+cust-008^|^DOC008^|^ORD-1008^|^20230315000008^|^7078^|^0^|^Scenario8
+cust-009^|^DOC009^|^ORD-1009^|^20230315000009^|^7083^|^1^|^Scenario9
+cust-010^|^DOC010^|^ORD-1010^|^20230315000010^|^7092^|^2^|^Scenario10
