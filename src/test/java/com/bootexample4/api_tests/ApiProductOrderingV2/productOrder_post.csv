@@ -1,0 +1,3 @@
+requestBody,expectedResponse
+"{""orderType"":""FTTP"",""customer"":{""id"":""CUST001""},""items"":[{""id"":""PROD001"",""quantity"":2}]}","{""status"":""success"",""orderId"":""123""}"
+"{""orderType"":""FTTH"",""customer"":{""id"":""CUST002""},""items"":[{""id"":""PROD002"",""quantity"":3}]}","{""status"":""success"",""orderId"":""124""}"
