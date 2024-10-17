@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Critical Error^|^200^|^Test Case 1
+Disabled^|^67890^|^Minor Issue^|^404^|^Test Case 2
+On^|^11223^|^Major Breakdown^|^500^|^Scenario 3
+Off^|^44556^|^No Issue^|^503^|^Scenario 4
+Yes^|^78901^|^System Error^|^202^|^Test Case 5
+No^|^23456^|^Operational^|^301^|^Scenario 6
+Active^|^56789^|^Network Down^|^401^|^Test Case 7
+Inactive^|^90123^|^Maintenance^|^403^|^Scenario 8
+Alert^|^34567^|^Update Required^|^204^|^Test Case 9
+Silent^|^67891^|^Resolved^|^205^|^Scenario 10

@@ -1,0 +1,11 @@
+order^|^associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^type^|^infraType^|^subscriberId^|^statusCode^|^scenario
+1^|^VTT001^|^2021-06-09T18:20:53-03:00^|^10^|^Instalacao^|^FTTH^|^SVTAL001^|^200^|^Standard Install
+2^|^VTT002^|^2020-10-22T14:00:00-03:00^|^2310^|^Bloqueio^|^FTTP^|^SVTAL002^|^404^|^Partial Block
+3^|^VTT003^|^2021-05-05T08:00:00^|^9^|^Desbloqueio^|^FTTH^|^SVTAL003^|^500^|^Complete Unblock
+4^|^VTT004^|^2021-06-09T18:20:53-03:00^|^10^|^Retirada^|^FTTH^|^SVTAL004^|^200^|^Removal Process
+5^|^VTT005^|^2020-11-13T16:20:00^|^923467432^|^AssociarCPE^|^FTTH^|^SVTAL005^|^200^|^CPE Association
+6^|^VTT006^|^2021-06-09T18:20:53-03:00^|^10^|^Modificacao de Velocidade^|^FTTP^|^SVTAL006^|^200^|^Speed Change
+7^|^VTT007^|^2021-05-05T08:00:00^|^9^|^RemanejamentoPonto^|^FTTH^|^SVTAL007^|^200^|^Point Relocation
+8^|^VTT008^|^2021-06-09T18:20:53-03:00^|^10^|^Instalacao^|^FTTP^|^SVTAL008^|^400^|^Installation FTTP
+9^|^VTT009^|^2021-06-09T18:20:53-03:00^|^10^|^Bloqueio^|^FTTH^|^SVTAL009^|^200^|^Total Block
+10^|^VTT010^|^2021-06-09T18:20:53-03:00^|^9^|^Desbloqueio^|^FTTP^|^SVTAL010^|^200^|^Full Unblock
