@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^statusCode^|^scenario
+USR123456789^|^DOC001^|^ORD10001^|^1^|^Sending Order Update^|^200^|^Normal Operation
+USR123456790^|^DOC002^|^ORD10002^|^2^|^Order Cancelled^|^404^|^Cancellation Process
+USR123456791^|^DOC003^|^ORD10003^|^3^|^Start of Construction Process^|^202^|^Construction Start
+USR123456792^|^DOC004^|^ORD10004^|^4^|^End of Construction Process^|^200^|^Construction End
+USR123456793^|^DOC005^|^ORD10005^|^0^|^Order Successfully Closed^|^200^|^Order Completion
+USR123456794^|^DOC006^|^ORD10006^|^1^|^Sending Order Update^|^200^|^Normal Operation
+USR123456795^|^DOC007^|^ORD10007^|^2^|^Order Cancelled^|^404^|^Cancellation Process
+USR123456796^|^DOC008^|^ORD10008^|^3^|^Start of Construction Process^|^202^|^Construction Start
+USR123456797^|^DOC009^|^ORD10009^|^4^|^End of Construction Process^|^200^|^Construction End
+USR123456798^|^DOC010^|^ORD10010^|^0^|^Order Successfully Closed^|^200^|^Order Completion

@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+2023-01-10T10:30:00-05:00^|^VTT001-10^|^Abertura de chamado^|^0^|^Pendência técnica
+2023-02-15T14:45:00-05:00^|^VTT002-20^|^Fechamento de OS^|^1^|^Cliente ausente
+2023-03-20T08:25:00-05:00^|^VTT003-30^|^Redirecionamento^|^2^|^Agendamento não cumprido
+2023-04-22T09:00:00-05:00^|^VTT004-40^|^^|^3^|^Área de risco
+2023-05-18T11:30:00-05:00^|^VTT005-50^|^^|^4^|^Manutenção preventiva
+2023-06-28T16:00:00-05:00^|^VTT006-60^|^Abertura de chamado^|^banana^|^Cliente solicita nova data
+2023-07-19T13:45:00-05:00^|^VTT007-70^|^Fechamento de OS^|^0^|^Endereço não localizado
+2023-08-30T18:20:00-05:00^|^VTT008-80^|^Redirecionamento^|^1^|^Cancelamento por duplicidade
+2023-09-25T07:15:00-05:00^|^VTT009-90^|^^|^2^|^Pendência de rede
+2023-10-10T12:00:00-05:00^|^VTT010-100^|^Abertura de chamado^|^3^|^Segurança do trabalho
