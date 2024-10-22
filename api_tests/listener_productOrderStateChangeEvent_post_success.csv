@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+123456789^|^2023-01-01T12:00:00^|^DOC001^|^1^|^100^|^Order received^|^202301010001^|^Processing^|^200^|^Initial submission
+987654321^|^2023-01-02T13:00:00^|^DOC002^|^2^|^101^|^Order processed^|^202301020002^|^Completed^|^201^|^Follow-up
+234567890^|^2023-01-03T14:00:00^|^DOC003^|^0^|^102^|^Order pending^|^202301030003^|^Pending^|^202^|^Review
+876543210^|^2023-01-04T15:00:00^|^DOC004^|^3^|^103^|^Order cancelled^|^202301040004^|^Cancelled^|^203^|^Cancellation
+345678901^|^2023-01-05T16:00:00^|^DOC005^|^4^|^104^|^Order completed^|^202301050005^|^Completed^|^204^|^Completion
+765432109^|^2023-01-06T17:00:00^|^DOC006^|^1^|^105^|^Order updated^|^202301060006^|^Updated^|^205^|^Update
+456789012^|^2023-01-07T18:00:00^|^DOC007^|^2^|^106^|^Order reprocessed^|^202301070007^|^Reprocessing^|^206^|^Reprocessing
+654321098^|^2023-01-08T19:00:00^|^DOC008^|^0^|^107^|^Order on hold^|^202301080008^|^On Hold^|^207^|^Hold
+567890123^|^2023-01-09T20:00:00^|^DOC009^|^3^|^108^|^Order failed^|^202301090009^|^Failed^|^208^|^Failure
+432109876^|^2023-01-10T21:00:00^|^DOC010^|^4^|^109^|^Order reinitiated^|^202301100010^|^Reinitiated^|^209^|^Restart
