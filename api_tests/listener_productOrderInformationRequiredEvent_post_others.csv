@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Issue with installation^|^200^|^Test Case 1
+Disabled^|^54321^|^Configuration error^|^404^|^Test Case 2
+Enabled^|^13579^|^Missing component^|^500^|^Test Case 3
+Active^|^24680^|^^|^200^|^Test Case 4
+Yes^|^97531^|^Hardware failure^|^300^|^Test Case 5
+No^|^86420^|^Software update required^|^401^|^Test Case 6
+True^|^15342^|^^|^503^|^
+False^|^62480^|^Network outage^|^200^|^Test Case 8
+On^|^97531^|^Low signal strength^|^202^|^Test Case 9
+Off^|^13579^|^Invalid settings^|^400^|^Test Case 10

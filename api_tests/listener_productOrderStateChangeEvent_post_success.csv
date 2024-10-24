@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+123456789^|^2023-09-21T14:22:00-03:00^|^DOC12345^|^1^|^1001^|^Enviando Atualização de Ordem^|^202309210001^|^Processo^|^200^|^Normal
+987654321^|^2023-09-21T15:45:00-03:00^|^DOC54321^|^2^|^1002^|^Ordem cancelada^|^202309210002^|^Cancelamento^|^404^|^Crítico
+135792468^|^2023-09-21T16:10:00-03:00^|^DOC13579^|^0^|^1003^|^Ordem encerrada com sucesso.^|^202309210003^|^Encerramento^|^200^|^Normal
+246801357^|^2023-09-21T17:05:00-03:00^|^DOC24680^|^3^|^1004^|^Início do Processo de Obra^|^202309210004^|^Processo^|^201^|^Alerta
+864297531^|^2023-09-21T18:30:00-03:00^|^DOC86429^|^4^|^1005^|^Término do Processo de Obra^|^202309210005^|^Finalização^|^200^|^Normal
+975318642^|^2023-09-21T19:50:00-03:00^|^DOC97531^|^1^|^1006^|^Enviando Atualização de Ordem^|^202309210006^|^Processo^|^202^|^Alerta
+753186429^|^2023-09-21T20:15:00-03:00^|^DOC75318^|^-1^|^1007^|^O Equipamento já está em uso por outro cliente^|^202309210007^|^Erro^|^403^|^Crítico
+159753468^|^2023-09-21T21:40:00-03:00^|^DOC15975^|^0^|^1008^|^Ordem encerrada com sucesso.^|^202309210008^|^Encerramento^|^200^|^Normal
+951357486^|^2023-09-21T22:55:00-03:00^|^DOC95135^|^2^|^1009^|^Ordem cancelada^|^202309210009^|^Cancelamento^|^404^|^Crítico
+321654987^|^2023-09-21T23:59:00-03:00^|^DOC32165^|^3^|^1010^|^Início do Processo de Obra^|^202309210010^|^Processo^|^201^|^Alerta

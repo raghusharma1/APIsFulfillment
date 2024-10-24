@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^statusCode^|^scenario
+12345^|^DOC-001^|^CORR-1001^|^ID-2001^|^0^|^Normal
+67890^|^DOC-002^|^CORR-1002^|^ID-2002^|^1^|^Update
+abcde^|^DOC-003^|^CORR-1003^|^ID-2003^|^2^|^Cancel
+fghij^|^DOC-004^|^CORR-1004^|^ID-2004^|^-1^|^InUse
+klmno^|^DOC-005^|^CORR-1005^|^ID-2005^|^3^|^Start
+pqrst^|^DOC-006^|^CORR-1006^|^ID-2006^|^4^|^Finish
+uvwxyz^|^DOC-007^|^CORR-1007^|^ID-2007^|^0^|^Normal
+123abc^|^DOC-008^|^CORR-1008^|^ID-2008^|^1^|^Update
+456def^|^DOC-009^|^CORR-1009^|^ID-2009^|^2^|^Cancel
+789ghi^|^DOC-010^|^CORR-1010^|^ID-2010^|^-1^|^InUse
