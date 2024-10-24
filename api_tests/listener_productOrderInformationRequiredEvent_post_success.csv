@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task1^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^1^|^Scenario A
+DOC002^|^1002^|^20230315000002^|^fechar^|^7030^|^Pendencia de rede 3 dias^|^false^|^No observation^|^MANUTENCAO^|^Task2^|^TECNICA^|^2022-02-25T11:50:50.566-03:00^|^2^|^Scenario B
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7010^|^Pendencia Equipamento Cliente^|^true^|^Checked^|^DEFEITO^|^Task3^|^CLIENTE^|^2023-01-12T09:30:00-03:00^|^3^|^Scenario C
+DOC004^|^1004^|^20230315000004^|^abrir^|^7021^|^Pendencia Cliente Interrompe e Solicita nova data de Agendamento^|^false^|^Pending^|^SOLICITACAO^|^Task4^|^TECNICA^|^2023-03-10T15:45:20-03:00^|^4^|^Scenario D
+DOC005^|^1005^|^20230315000005^|^fechar^|^7047^|^Pendencia Acesso Impossibilitado^|^true^|^No access^|^SEGURANCA^|^Task5^|^CLIENTE^|^2021-04-22T10:15:30-03:00^|^5^|^Scenario E
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7035^|^Pendencia area de Risco Momentanea^|^false^|^Risk assessed^|^RISCO^|^Task6^|^TECNICA^|^2022-05-18T14:00:00-03:00^|^6^|^Scenario F
+DOC007^|^1007^|^20230315000007^|^abrir^|^7067^|^Pendencia Cancelamento por Area de Risco^|^true^|^Area risk^|^CANCELAMENTO^|^Task7^|^CLIENTE^|^2023-02-28T08:30:00-03:00^|^7^|^Scenario G
+DOC008^|^1008^|^20230315000008^|^fechar^|^7078^|^Pendencia Cancelamento por Desistencia do Servico^|^false^|^Client withdrew^|^DESISTENCIA^|^Task8^|^TECNICA^|^2021-06-30T16:20:10-03:00^|^8^|^Scenario H
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7095^|^Pendencia agendamento nao cumprido^|^true^|^Schedule missed^|^AGENDAMENTO^|^Task9^|^CLIENTE^|^2022-07-25T12:00:50-03:00^|^9^|^Scenario I
+DOC010^|^1010^|^20230315000010^|^abrir^|^7108^|^Pendencia Impedimento de Atividade por Chuva^|^false^|^Rain delay^|^CLIMA^|^Task10^|^TECNICA^|^2023-08-15T07:45:30-03:00^|^10^|^Scenario J
