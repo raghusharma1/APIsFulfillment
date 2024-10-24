@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Critical Error^|^200^|^Test
+Disabled^|^ABC123^|^Minor Warning^|^404^|^Live
+True^|^9876^|^Data Mismatch^|^500^|^Development
+False^|^XYZ098^|^System Overload^|^403^|^Staging
+On^|^54321^|^Hardware Failure^|^202^|^Production
+Off^|^7890^|^Software Bug^|^401^|^Testing
+Yes^|^67890^|^User Error^|^503^|^Deployment
+No^|^45678^|^Network Issue^|^400^|^Maintenance
+Active^|^23456^|^Performance Lag^|^204^|^Upgrade
+Inactive^|^34567^|^Security Breach^|^201^|^Rollback
