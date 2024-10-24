@@ -1,0 +1,3 @@
+request_body,expected_response
+"{""productId"":""123"",""quantity"":""4""}","{""status"":""success"",""id"":""12345""}"
+"{""productId"":""124"",""quantity"":""2""}","{""status"":""success"",""id"":""12346""}"

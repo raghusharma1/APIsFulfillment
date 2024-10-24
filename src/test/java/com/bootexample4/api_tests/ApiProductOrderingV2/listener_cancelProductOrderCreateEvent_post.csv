@@ -1,0 +1,2 @@
+requestBody
+"{""notification"":{""order"":{""associatedDocument"":""VTT001"",""id"":""20230315000001""},""customer"":{""subscriberId"":""123456789""},""date"":""2023-03-15T00:00:00Z"",""description"":""Order cancelled successfully""}}"
