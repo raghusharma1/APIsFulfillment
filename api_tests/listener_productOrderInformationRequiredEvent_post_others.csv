@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Issue with installation^|^200^|^Test Case 1
+Disabled^|^12346^|^Configuration error^|^404^|^Test Case 2
+Enabled^|^12347^|^Network outage^|^500^|^Test Case 3
+Active^|^12348^|^Hardware failure^|^503^|^Test Case 4
+On^|^12349^|^User error^|^400^|^Test Case 5
+Off^|^12350^|^Permission denied^|^401^|^Test Case 6
+Yes^|^12351^|^Security breach^|^403^|^Test Case 7
+No^|^12352^|^Data corruption^|^502^|^Test Case 8
+True^|^12353^|^Service unavailable^|^503^|^Test Case 9
+False^|^12354^|^Invalid input^|^^|^Test Case 10

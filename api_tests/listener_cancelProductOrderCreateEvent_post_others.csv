@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^statusCode^|^scenario
+sub12345^|^VTT001^|^CO-2023-0001^|^ID-2023-0001^|^abrir^|^3^|^200^|^ScenarioA
+sub12346^|^VTT002^|^CO-2023-0002^|^ID-2023-0002^|^fechar^|^1^|^404^|^ScenarioB
+sub12347^|^VTT003^|^CO-2023-0003^|^ID-2023-0003^|^redirecionar^|^0^|^500^|^ScenarioC
+sub12348^|^VTT004^|^CO-2023-0004^|^ID-2023-0004^|^abrir^|^2^|^200^|^ScenarioD
+sub12349^|^VTT005^|^CO-2023-0005^|^ID-2023-0005^|^fechar^|^4^|^200^|^ScenarioE
+sub12350^|^VTT006^|^CO-2023-0006^|^ID-2023-0006^|^redirecionar^|^1^|^404^|^ScenarioF
+sub12351^|^VTT007^|^CO-2023-0007^|^ID-2023-0007^|^abrir^|^banana^|^500^|^ScenarioG
+sub12352^|^VTT008^|^CO-2023-0008^|^ID-2023-0008^|^fechar^|^3^|^200^|^ScenarioH
+sub12353^|^VTT009^|^CO-2023-0009^|^ID-2023-0009^|^redirecionar^|^2^|^404^|^ScenarioI
+sub12354^|^VTT010^|^CO-2023-0010^|^ID-2023-0010^|^abrir^|^0^|^500^|^ScenarioJ

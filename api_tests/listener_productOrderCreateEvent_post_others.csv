@@ -1,0 +1,11 @@
+date^|^associatedDocument^|^correlationOrder^|^id^|^code^|^description^|^statusCode^|^scenario
+2023-07-15T14:22:09-04:00^|^DOC001^|^10^|^20230715000001^|^3^|^Início do Processo de Obra^|^200^|^A
+2023-05-20T11:30:00-04:00^|^DOC002^|^20^|^20230520000002^|^0^|^Ordem encerrada com sucesso^|^200^|^B
+2023-08-22T09:15:30-04:00^|^DOC003^|^30^|^20230822000003^|^1^|^Enviando Atualização de Ordem^|^400^|^C
+2023-09-18T17:45:00-04:00^|^DOC004^|^40^|^20230918000004^|^2^|^Ordem cancelada^|^500^|^D
+2023-10-05T08:00:00-04:00^|^DOC005^|^50^|^20231005000005^|^4^|^Término do Processo de Obra^|^200^|^E
+2023-06-12T06:00:00-04:00^|^DOC006^|^60^|^20230612000006^|^0^|^Ordem encerrada com sucesso^|^200^|^F
+2023-04-23T23:59:59-04:00^|^DOC007^|^70^|^20230423000007^|^3^|^Início do Processo de Obra^|^200^|^G
+2023-03-30T12:30:30-04:00^|^DOC008^|^80^|^20230330000008^|^1^|^Enviando Atualização de Ordem^|^400^|^H
+2023-01-15T10:15:45-04:00^|^DOC009^|^90^|^20230115000009^|^2^|^Ordem cancelada^|^500^|^I
+2023-02-28T18:20:00-04:00^|^DOC010^|^100^|^20230228000010^|^4^|^Término do Processo de Obra^|^200^|^J
