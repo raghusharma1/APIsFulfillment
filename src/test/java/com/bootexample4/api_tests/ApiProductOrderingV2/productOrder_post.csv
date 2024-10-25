@@ -1,0 +1,3 @@
+payload,expectedResponse
+"{""order"":{""type"":""AssociarCPE"",""infraType"":""FTTP""}}","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""}}"
+"{""order"":{""type"":""Instalacao"",""infraType"":""FTTH""}}","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""}}"
