@@ -1,0 +1,11 @@
+subscriberId^|^date^|^code^|^description^|^statusCode^|^scenario
+123456789^|^2023-01-15T12:34:56^|^2^|^Ordem cancelada^|^200^|^Process Completed
+987654321^|^2022-12-01T08:21:00^|^0^|^Ordem encerrada com sucesso.^|^404^|^Invalid Status
+112233445^|^2021-11-23T14:55:12^|^1^|^Enviando Atualização de Ordem^|^500^|^Server Error
+556677889^|^2020-10-05T09:30:45^|^3^|^Início do Processo de Obra^|^301^|^Moved Permanently
+998877665^|^2023-02-28T16:45:33^|^4^|^Término do Processo de Obra^|^202^|^Accepted
+334455667^|^2021-07-19T13:10:20^|^banana^|^Invalid Code^|^403^|^Forbidden
+778899001^|^2022-08-15T17:25:50^|^2^|^Ordem cancelada^|^100^|^Continue
+123321123^|^2023-03-10T07:00:00^|^0^|^^|^204^|^No Content
+456654456^|^2021-12-25T23:59:59^|^1^|^Enviando Atualização de Ordem^|^401^|^Unauthorized
+789987789^|^2020-01-01T00:00:00^|^2^|^Ordem cancelada^|^502^|^Bad Gateway
