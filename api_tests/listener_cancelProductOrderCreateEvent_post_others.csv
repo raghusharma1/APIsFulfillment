@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^statusCode^|^scenario
+sub12345^|^VTT001^|^COR001^|^ID001^|^abrir^|^1^|^200^|^Initial
+sub12346^|^VTT002^|^COR002^|^ID002^|^fechar^|^2^|^404^|^Update
+sub12347^|^VTT003^|^COR003^|^ID003^|^redirecionar^|^3^|^500^|^Error
+sub12348^|^VTT004^|^COR004^|^ID004^|^abrir^|^4^|^200^|^Finalize
+sub12349^|^VTT005^|^COR005^|^ID005^|^fechar^|^0^|^403^|^Initial
+sub12350^|^VTT006^|^COR006^|^ID006^|^redirecionar^|^1^|^-1^|^Error
+sub12351^|^VTT007^|^COR007^|^ID007^|^abrir^|^2^|^200^|^Update
+sub12352^|^VTT008^|^COR008^|^ID008^|^fechar^|^3^|^404^|^Finalize
+sub12353^|^VTT009^|^COR009^|^ID009^|^redirecionar^|^4^|^500^|^Initial
+sub12354^|^VTT010^|^COR010^|^ID010^|^abrir^|^0^|^403^|^Update
