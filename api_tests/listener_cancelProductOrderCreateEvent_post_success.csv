@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+USR1001^|^DOC2001^|^ORD3001^|^ID4001^|^abrir^|^1^|^Início do Processo de Obra^|^True^|^Observation details here^|^Reason for action^|^Task detail 001^|^CLIENTE^|^2023-10-05T14:23:56^|^200^|^Scenario A
+USR1002^|^DOC2002^|^ORD3002^|^ID4002^|^fechar^|^3^|^Término do Processo de Obra^|^False^|^Observation details here^|^Reason for action^|^Task detail 002^|^TECNICA^|^2023-10-06T15:24:57^|^201^|^Scenario B
+USR1003^|^DOC2003^|^ORD3003^|^ID4003^|^redirecionar^|^0^|^Ordem encerrada com sucesso^|^True^|^Observation details here^|^Reason for action^|^Task detail 003^|^CLIENTE^|^2023-10-07T16:25:58^|^202^|^Scenario C
+USR1004^|^DOC2004^|^ORD3004^|^ID4004^|^abrir^|^2^|^Ordem cancelada^|^False^|^Observation details here^|^Reason for action^|^Task detail 004^|^TECNICA^|^2023-10-08T17:26:59^|^203^|^Scenario D
+USR1005^|^DOC2005^|^ORD3005^|^ID4005^|^fechar^|^4^|^Término do Processo de Obra^|^True^|^Observation details here^|^Reason for action^|^Task detail 005^|^CLIENTE^|^2023-10-09T18:28:00^|^204^|^Scenario E
+USR1006^|^DOC2006^|^ORD3006^|^ID4006^|^redirecionar^|^1^|^Enviando Atualização de Ordem^|^False^|^Observation details here^|^Reason for action^|^Task detail 006^|^TECNICA^|^2023-10-10T19:29:01^|^205^|^Scenario F
+USR1007^|^DOC2007^|^ORD3007^|^ID4007^|^abrir^|^3^|^Início do Processo de Obra^|^True^|^Observation details here^|^Reason for action^|^Task detail 007^|^CLIENTE^|^2023-10-11T20:30:02^|^206^|^Scenario G
+USR1008^|^DOC2008^|^ORD3008^|^ID4008^|^fechar^|^0^|^Ordem encerrada com sucesso^|^False^|^Observation details here^|^Reason for action^|^Task detail 008^|^TECNICA^|^2023-10-12T21:31:03^|^207^|^Scenario H
+USR1009^|^DOC2009^|^ORD3009^|^ID4009^|^redirecionar^|^2^|^Ordem cancelada^|^True^|^Observation details here^|^Reason for action^|^Task detail 009^|^CLIENTE^|^2023-10-13T22:32:04^|^208^|^Scenario I
+USR1010^|^DOC2010^|^ORD3010^|^ID4010^|^abrir^|^4^|^Término do Processo de Obra^|^False^|^Observation details here^|^Reason for action^|^Task detail 010^|^TECNICA^|^2023-10-14T23:33:05^|^209^|^Scenario J
