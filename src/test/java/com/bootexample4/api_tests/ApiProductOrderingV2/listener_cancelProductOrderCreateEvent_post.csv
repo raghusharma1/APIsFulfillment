@@ -1,0 +1,2 @@
+requestBody
+"{""notification"":{""date"":""2023-03-15T00:00:01Z"",""customer"":{""subscriberId"":""1234567890""},""order"":{""id"":""20230315000001"",""associatedDocument"":""VTT001"",""description"":""Ordem encerrada com sucesso"",""code"":""0""}}}"
