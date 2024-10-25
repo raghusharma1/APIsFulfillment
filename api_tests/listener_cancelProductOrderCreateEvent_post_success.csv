@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^action^|^description^|^statusCode^|^scenario
+USR1001^|^DOC2001^|^20230315000001^|^1^|^abrir^|^Ordem encerrada com sucesso^|^200^|^ScenarioA
+USR1002^|^DOC2002^|^20230315000002^|^2^|^fechar^|^Enviando Atualização de Ordem^|^201^|^ScenarioB
+USR1003^|^DOC2003^|^20230315000003^|^3^|^redirecionar^|^Ordem cancelada^|^202^|^ScenarioC
+USR1004^|^DOC2004^|^20230315000004^|^4^|^abrir^|^Início do Processo de Obra^|^203^|^ScenarioD
+USR1005^|^DOC2005^|^20230315000005^|^0^|^fechar^|^Término do Processo de Obra^|^204^|^ScenarioE
+USR1006^|^DOC2006^|^20230315000006^|^1^|^redirecionar^|^Enviando Atualização de Ordem^|^205^|^ScenarioF
+USR1007^|^DOC2007^|^20230315000007^|^2^|^abrir^|^Ordem cancelada^|^206^|^ScenarioG
+USR1008^|^DOC2008^|^20230315000008^|^3^|^fechar^|^Início do Processo de Obra^|^207^|^ScenarioH
+USR1009^|^DOC2009^|^20230315000009^|^4^|^redirecionar^|^Término do Processo de Obra^|^208^|^ScenarioI
+USR1010^|^DOC2010^|^20230315000010^|^0^|^abrir^|^Ordem encerrada com sucesso^|^209^|^ScenarioJ
