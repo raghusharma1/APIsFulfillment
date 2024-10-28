@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^7031^|^200^|^CustomerRequest
+Disabled^|^12346^|^7001^|^404^|^TechnicalError
+Active^|^12347^|^7108^|^500^|^Maintenance
+^^|^12348^|^7029^|^200^|^OperationalIssue
+On^|^12349^|^7095^|^403^|^CustomerFeedback
+Off^|^12350^|^7065^|^401^|^SystemUpdate
+Enabled^|^12351^|^7079^|^202^|^RiskAssessment
+Alert^|^12352^|^true^|^503^|^SecurityCheck
+Active^|^12353^|^7030^|^200^|^RoutineCheck
+Pending^|^12354^|^7081^|^404^|^ScheduleConflict

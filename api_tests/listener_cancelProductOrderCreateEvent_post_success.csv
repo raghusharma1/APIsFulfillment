@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^action^|^statusCode^|^scenario
+USR1001^|^DOC2001^|^ID3001^|^0^|^Order completed successfully^|^open^|^200^|^scenarioA
+USR1002^|^DOC2002^|^ID3002^|^1^|^Sending order update^|^close^|^404^|^scenarioB
+USR1003^|^DOC2003^|^ID3003^|^2^|^Order cancelled^|^redirect^|^500^|^scenarioC
+USR1004^|^DOC2004^|^ID3004^|^3^|^Construction process started^|^open^|^200^|^scenarioD
+USR1005^|^DOC2005^|^ID3005^|^4^|^Construction process finished^|^close^|^404^|^scenarioE
+USR1006^|^DOC2006^|^ID3006^|^0^|^Order completed successfully^|^redirect^|^500^|^scenarioF
+USR1007^|^DOC2007^|^ID3007^|^1^|^Sending order update^|^open^|^200^|^scenarioG
+USR1008^|^DOC2008^|^ID3008^|^2^|^Order cancelled^|^close^|^404^|^scenarioH
+USR1009^|^DOC2009^|^ID3009^|^3^|^Construction process started^|^redirect^|^500^|^scenarioI
+USR1010^|^DOC2010^|^ID3010^|^4^|^Construction process finished^|^open^|^200^|^scenarioJ
