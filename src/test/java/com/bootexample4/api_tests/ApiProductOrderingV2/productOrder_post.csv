@@ -1,0 +1,6 @@
+requestBody,expectedResponse
+"read('examples/Associate CPE Order Type FTTP.json')","read('responses/201_created.json')"
+"read('examples/Installation Order Type FTTH.json')","read('responses/201_created.json')"
+"read('examples/Installation Order Type FTTH arising from address change.json')","read('responses/201_created.json')"
+"read('examples/Installation Order Type FTTH with partial viability.json')","read('responses/201_created.json')"
+"read('examples/Installation Order Type FTTP.json')","read('responses/201_created.json')"
