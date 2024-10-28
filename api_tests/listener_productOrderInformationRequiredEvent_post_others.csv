@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Open^|^200^|^Test
+Disabled^|^54321^|^Closed^|^404^|^Production
+^|^11111^|^Pending^|^500^|^Staging
+Enabled^|^22222^|^Error^|^-1^|^Development
+^|^33333^|^Resolved^|^301^|^Test
+Enabled^|^44444^|^Cancelled^|^202^|^Production
+Disabled^|^55555^|^Open^|^403^|^Staging
+Enabled^|^66666^|^Closed^|^200^|^Development
+^|^77777^|^Pending^|^504^|^Test
+Disabled^|^88888^|^Error^|^204^|^Production
