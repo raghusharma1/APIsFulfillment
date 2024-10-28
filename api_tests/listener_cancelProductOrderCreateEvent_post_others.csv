@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^issueCode^|^statusCode^|^scenario
+12345^|^DOC-001^|^ORD-1001^|^20231010^|^7001^|^0^|^update
+67890^|^DOC-002^|^ORD-1002^|^20231011^|^7021^|^2^|^create
+abcde^|^DOC-003^|^ORD-1003^|^20231012^|^7031^|^3^|^delete
+54321^|^DOC-004^|^ORD-1004^|^20231013^|^7004^|^1^|^update
+98765^|^DOC-005^|^ORD-1005^|^20231014^|^7042^|^0^|^create
+AAAAA^|^DOC-006^|^ORD-1006^|^20231015^|^7079^|^3^|^delete
+BBBBB^|^DOC-007^|^ORD-1007^|^20231016^|^7015^|^2^|^update
+CCCCC^|^DOC-008^|^ORD-1008^|^20231017^|^7067^|^1^|^create
+DDDDD^|^DOC-009^|^ORD-1009^|^20231018^|^7095^|^0^|^delete
+EEEEE^|^DOC-010^|^ORD-1010^|^20231019^|^7107^|^3^|^update
