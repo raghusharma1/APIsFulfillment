@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^action^|^issueCode^|^issueDescription^|^lostEquipment^|^statusCode^|^scenario
+user123^|^2023-09-15T12:00:00^|^DOC0012^|^1^|^ord-9981^|^Enviando Atualização de Ordem^|^202309150001^|^abrir^|^7001^|^Pendência Cancelamento por Duplicidade^|^False^|^100^|^ScenarioA
+user456^|^2023-09-16T13:00:00^|^DOC0013^|^3^|^ord-9982^|^Início do Processo de Obra^|^202309160002^|^fechar^|^7029^|^Pendência Agendamento^|^True^|^101^|^ScenarioB
+user789^|^2023-09-17T14:00:00^|^DOC0014^|^4^|^ord-9983^|^Término do Processo de Obra^|^202309170003^|^redirecionar^|^7054^|^Pendência de Aprovisionamento 5 dias^|^False^|^102^|^ScenarioC
+user012^|^2023-09-18T15:00:00^|^DOC0015^|^banana^|^ord-9984^|^Ordem cancelada^|^202309180004^|^abrir^|^7108^|^Pendência Impedimento de Atividade por Chuva^|^True^|^103^|^ScenarioD
+user234^|^2023-09-19T16:00:00^|^DOC0016^|^0^|^ord-9985^|^Ordem encerrada com sucesso^|^202309190005^|^fechar^|^7079^|^Pendência Acesso Impossibilitado^|^False^|^104^|^ScenarioE
+user345^|^2023-09-20T17:00:00^|^DOC0017^|^2^|^ord-9986^|^Ordem cancelada^|^202309200006^|^redirecionar^|^7035^|^Pendência área de Risco Momentânea^|^True^|^105^|^ScenarioF
+user567^|^2023-09-21T18:00:00^|^DOC0018^|^1^|^ord-9987^|^Enviando Atualização de Ordem^|^202309210007^|^abrir^|^7049^|^Pendência Endereço Não Localizado^|^False^|^106^|^ScenarioG
+user678^|^2023-09-22T19:00:00^|^DOC0019^|^3^|^ord-9988^|^Início do Processo de Obra^|^202309220008^|^fechar^|^7095^|^Pendência agendamento não cumprido^|^True^|^107^|^ScenarioH
+user890^|^2023-09-23T20:00:00^|^DOC0020^|^4^|^ord-9989^|^Término do Processo de Obra^|^202309230009^|^redirecionar^|^7007^|^Pendência de Aprovisionamento 5 dias^|^False^|^108^|^ScenarioI
+user901^|^2023-09-24T21:00:00^|^DOC0021^|^0^|^ord-9990^|^Ordem encerrada com sucesso^|^202309240010^|^abrir^|^7076^|^Pendência Cancelamento e Reemissão^|^True^|^109^|^ScenarioJ
