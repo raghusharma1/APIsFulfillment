@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2020-10-22T14:00:00-03:00^|^2310^|^V.tal^|^ONT^|^FTTP^|^AssociarCPE^|^Active^|^Standard
+VTT002^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTH^|^Instalacao^|^Active^|^High Priority
+VTT003^|^2021-05-05T08:00:00^|^9^|^InterCorp Internet^|^ONT^|^FTTH^|^Instalacao^|^Pending^|^Change Request
+VTT004^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTP^|^Instalacao^|^Cancelled^|^Customer Request
+VTT005^|^2022-11-15T09:30:00-03:00^|^15^|^InterHome Internet^|^ONT^|^FTTH^|^Bloqueio^|^Active^|^Standard
+VTT006^|^2023-01-12T11:45:00-03:00^|^16^|^V.tal^|^ONT^|^FTTP^|^Desbloqueio^|^Suspended^|^Low Priority
+VTT007^|^2022-07-21T13:00:00-03:00^|^17^|^InterCorp Internet^|^ONT^|^FTTH^|^Modificacao de Velocidade^|^Processing^|^High Priority
+VTT008^|^2022-08-30T14:15:00-03:00^|^18^|^Sandbox V.tal^|^ONT^|^FTTP^|^RemanejamentoPonto^|^Active^|^Change Request
+VTT009^|^2022-10-05T16:30:00-03:00^|^19^|^InterHome Internet^|^ONT^|^FTTH^|^Retirada^|^Cancelled^|^Customer Request
+VTT010^|^2023-02-20T17:45:00-03:00^|^20^|^V.tal^|^ONT^|^FTTP^|^AssociarCPE^|^Pending^|^Standard
