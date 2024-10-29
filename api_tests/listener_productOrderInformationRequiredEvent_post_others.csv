@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Critical Error^|^200^|^Test
+Disabled^|^ABC123^|^Minor Warning^|^404^|^Live
+^|^78910^|^Major Error^|^500^|^Simulation
+Enabled^|^XYZ789^|^^|^503^|^Development
+^|^45678^|^System Down^|^^|^Production
+Enabled^|^101112^|^Data Issue^|^202^|^Debugging
+Disabled^|^131415^|^^|^301^|^Staging
+^|^161718^|^Connectivity Issue^|^400^|^Testing
+Enabled^|^192021^|^Hardware Failure^|^204^|^Deployment
+^|^222324^|^Software Bug^|^^|^Maintenance

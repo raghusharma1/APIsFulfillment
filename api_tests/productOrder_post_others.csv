@@ -1,0 +1,11 @@
+order^|^associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^type^|^statusCode^|^scenario
+1^|^VTT002^|^2023-03-15T12:00:00-03:00^|^1001^|^Instalacao^|^A1^|^ScenarioOne
+2^|^VTT003^|^2023-03-16T13:00:00-03:00^|^1002^|^Retirada^|^B2^|^ScenarioTwo
+3^|^VTT004^|^2023-03-17T14:00:00-03:00^|^1003^|^Bloqueio^|^C3^|^ScenarioThree
+4^|^VTT005^|^2023-03-18T15:00:00-03:00^|^1004^|^Desbloqueio^|^D4^|^ScenarioFour
+5^|^VTT006^|^2023-03-19T16:00:00-03:00^|^1005^|^AssociarCPE^|^E5^|^ScenarioFive
+6^|^VTT007^|^2023-03-20T17:00:00-03:00^|^1006^|^Modificacao de Velocidade^|^F6^|^ScenarioSix
+7^|^VTT008^|^2023-03-21T18:00:00-03:00^|^1007^|^RemanejamentoPonto^|^G7^|^ScenarioSeven
+8^|^VTT009^|^2023-03-22T19:00:00-03:00^|^1008^|^Instalacao^|^H8^|^ScenarioEight
+9^|^VTT010^|^2023-03-23T20:00:00-03:00^|^1009^|^Retirada^|^I9^|^ScenarioNine
+10^|^VTT011^|^2023-03-24T21:00:00-03:00^|^1010^|^Bloqueio^|^J0^|^ScenarioTen

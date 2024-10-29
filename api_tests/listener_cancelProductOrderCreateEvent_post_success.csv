@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^statusCode^|^scenario
+USR123456789^|^DOC001^|^ORD0000001^|^1^|^Enviando Atualização de Ordem^|^Active^|^Initial Setup
+USR987654321^|^DOC002^|^ORD0000002^|^2^|^Ordem cancelada^|^Cancelled^|^Maintenance
+USR456789123^|^DOC003^|^ORD0000003^|^3^|^Início do Processo de Obra^|^InProgress^|^Construction
+USR321654987^|^DOC004^|^ORD0000004^|^4^|^Término do Processo de Obra^|^Completed^|^WrapUp
+USR654987321^|^DOC005^|^ORD0000005^|^0^|^Ordem encerrada com sucesso^|^Success^|^Finalization
+USR258963147^|^DOC006^|^ORD0000006^|^1^|^Enviando Atualização de Ordem^|^Active^|^Update
+USR159753486^|^DOC007^|^ORD0000007^|^2^|^Ordem cancelada^|^Cancelled^|^Cancellation
+USR951357468^|^DOC008^|^ORD0000008^|^3^|^Início do Processo de Obra^|^InProgress^|^Construction Start
+USR753159486^|^DOC009^|^ORD0000009^|^4^|^Término do Processo de Obra^|^Completed^|^Project Completion
+USR357951468^|^DOC010^|^ORD0000010^|^0^|^Ordem encerrada com sucesso^|^Success^|^Close
