@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+alert^|^12345^|^open^|^200^|^test
+notify^|^67890^|^close^|^404^|^simulation
+alert^|^13579^|^redirect^|^500^|^real
+warning^|^24680^|^open^|^300^|^fake
+message^|^11223^|^close^|^202^|^trial
+info^|^44556^|^redirect^|^401^|^example
+update^|^77889^|^open^|^204^|^prototype
+signal^|^99000^|^close^|^403^|^demo
+flag^|^33344^|^redirect^|^205^|^model
+broadcast^|^55566^|^open^|^402^|^framework
