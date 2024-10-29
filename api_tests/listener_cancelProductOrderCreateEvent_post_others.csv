@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^code^|^description^|^action^|^statusCode^|^scenario
+1234567890^|^VTT001^|^1^|^Ordem encerrada com sucesso^|^abrir^|^200^|^Normal
+9876543210^|^VTT002^|^2^|^Ordem cancelada^|^fechar^|^404^|^Cancellation
+1122334455^|^VTT003^|^3^|^Início do Processo de Obra^|^redirecionar^|^503^|^Construction Start
+9988776655^|^VTT004^|^4^|^Término do Processo de Obra^|^abrir^|^202^|^Construction End
+3344556677^|^VTT005^|^0^|^Ordem encerrada com sucesso^|^fechar^|^200^|^Success
+5566778899^|^VTT006^|^-1^|^O Equipamento já está em uso por outro cliente^|^redirecionar^|^409^|^Equipment Issue
+2233445566^|^VTT007^|^1^|^Enviando Atualização de Ordem^|^abrir^|^102^|^Update Sending
+6655443322^|^VTT008^|^4^|^Término do Processo de Obra^|^fechar^|^202^|^Construction End
+4433221100^|^VTT009^|^3^|^Início do Processo de Obra^|^redirecionar^|^503^|^Construction Start
+1029384756^|^VTT010^|^2^|^Ordem cancelada^|^abrir^|^404^|^Cancellation
