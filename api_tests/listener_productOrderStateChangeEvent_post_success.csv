@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+123456789^|^2023-01-01T12:00:00^|^DOC001^|^1^|^100^|^Order received^|^202301010001^|^Processing^|^200^|^Initial
+987654321^|^2023-01-02T13:00:00^|^DOC002^|^2^|^101^|^Order processed^|^202301020002^|^Completed^|^201^|^Standard
+234567890^|^2023-01-03T14:00:00^|^DOC003^|^3^|^102^|^Order shipped^|^202301030003^|^Shipped^|^202^|^Expedite
+876543219^|^2023-01-04T15:00:00^|^DOC004^|^4^|^103^|^Order cancelled^|^202301040004^|^Cancelled^|^203^|^Error
+345678901^|^2023-01-05T16:00:00^|^DOC005^|^0^|^104^|^Order pending^|^202301050005^|^Pending^|^204^|^Delay
+765432198^|^2023-01-06T17:00:00^|^DOC006^|^1^|^105^|^Order updated^|^202301060006^|^Updating^|^205^|^Revision
+456789012^|^2023-01-07T18:00:00^|^DOC007^|^2^|^106^|^Order finalized^|^202301070007^|^Finalized^|^206^|^Closure
+654321987^|^2023-01-08T19:00:00^|^DOC008^|^3^|^107^|^Order returned^|^202301080008^|^Returned^|^207^|^Return
+567890123^|^2023-01-09T20:00:00^|^DOC009^|^4^|^108^|^Order reprocessed^|^202301090009^|^Reprocessing^|^208^|^Reissue
+432198765^|^2023-01-10T21:00:00^|^DOC010^|^0^|^109^|^Order reevaluated^|^202301100010^|^Reevaluation^|^209^|^Assessment
