@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+89233456789^|^2023-09-15T12:45:00-03:00^|^VTT002^|^2^|^20^|^Ordem cancelada^|^20230915000002^|^Cancelamento^|^200^|^Normal
+12345678901^|^2023-08-22T11:30:24-03:00^|^VTT003^|^0^|^30^|^Ordem encerrada com sucesso.^|^20230822000003^|^Encerramento^|^200^|^Normal
+23456789012^|^2023-10-05T14:20:15-03:00^|^VTT004^|^1^|^40^|^Enviando Atualização de Ordem^|^20231005000004^|^Atualização^|^400^|^Urgente
+34567890123^|^2023-07-18T16:55:42-03:00^|^VTT005^|^3^|^50^|^Início do Processo de Obra^|^20230718000005^|^Obra^|^500^|^Critico
+45678901234^|^2023-09-07T09:10:30-03:00^|^VTT006^|^4^|^60^|^Término do Processo de Obra^|^20230907000006^|^Obra^|^200^|^Normal
+56789012345^|^2023-11-25T08:00:00-03:00^|^VTT007^|^banana^|^70^|^Descrição inválida para teste^|^20231125000007^|^Tipo inválido^|^200^|^Teste
+67890123456^|^2023-12-01T12:00:00-03:00^|^VTT008^|^0^|^80^|^Ordem encerrada com sucesso.^|^20231201000008^|^Encerramento^|^200^|^Normal
+78901234567^|^2023-10-31T07:45:00-03:00^|^VTT009^|^2^|^90^|^Ordem cancelada^|^20231031000009^|^Cancelamento^|^300^|^Atrasado
+89012345678^|^2023-09-20T18:30:00-03:00^|^VTT010^|^1^|^100^|^Enviando Atualização de Ordem^|^20230920000010^|^Atualização^|^200^|^Normal
+90123456789^|^2023-08-15T13:25:00-03:00^|^VTT011^|^3^|^110^|^Início do Processo de Obra^|^20230815000011^|^Obra^|^200^|^Normal

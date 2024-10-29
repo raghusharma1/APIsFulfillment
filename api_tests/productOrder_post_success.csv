@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^businessUnity^|^fantasyName^|^name^|^phoneNumber1^|^phoneNumber2^|^subscriberId^|^workContactEmail^|^workContactName^|^workContactPhone^|^statusCode^|^scenario
+VTT001^|^2023-01-15^|^1001^|^empresarial^|^InterCorp Solutions^|^V.tal Enterprise^|^21965432101^|^21965432102^|^SVTAL1001^|^contact@intercorpsol.com^|^John Doe^|^21999900101^|^1^|^New Installation
+VTT002^|^2023-01-16^|^1002^|^varejo^|^HomeNet Services^|^V.tal Home^|^21965432103^|^21965432104^|^SVTAL1002^|^contact@homenetserv.com^|^Jane Roe^|^21999900102^|^2^|^Service Upgrade
+VTT003^|^2023-01-17^|^1003^|^empresarial^|^BusinessNet Solutions^|^V.tal Business^|^21965432105^|^21965432106^|^SVTAL1003^|^contact@businessnetsol.com^|^Alice Smith^|^21999900103^|^3^|^Issue Resolution
+VTT004^|^2023-01-18^|^1004^|^varejo^|^PersonalNet Co.^|^V.tal Personal^|^21965432107^|^21965432108^|^SVTAL1004^|^contact@personalnetco.com^|^Bob Brown^|^21999900104^|^4^|^Routine Check
+VTT005^|^2023-01-19^|^1005^|^empresarial^|^EliteNet Solutions^|^V.tal Elite^|^21965432109^|^21965432110^|^SVTAL1005^|^contact@elitenetsol.com^|^Carol White^|^21999900105^|^5^|^New Installation
+VTT006^|^2023-01-20^|^1006^|^varejo^|^FamilyNet Services^|^V.tal Family^|^21965432111^|^21965432112^|^SVTAL1006^|^contact@familynetserv.com^|^Dave Green^|^21999900106^|^1^|^Service Upgrade
+VTT007^|^2023-01-21^|^1007^|^empresarial^|^ProNet Solutions^|^V.tal Professional^|^21965432113^|^21965432114^|^SVTAL1007^|^contact@pronetsol.com^|^Eve Blue^|^21999900107^|^2^|^Issue Resolution
+VTT008^|^2023-01-22^|^1008^|^varejo^|^PublicNet Co.^|^V.tal Public^|^21965432115^|^21965432116^|^SVTAL1008^|^contact@publicnetco.com^|^Fred Black^|^21999900108^|^3^|^Routine Check
+VTT009^|^2023-01-23^|^1009^|^empresarial^|^GlobalNet Solutions^|^V.tal Global^|^21965432117^|^21965432118^|^SVTAL1009^|^contact@globalnetsol.com^|^Gina Grey^|^21999900109^|^4^|^New Installation
+VTT010^|^2023-01-24^|^1010^|^varejo^|^LocalNet Services^|^V.tal Local^|^21965432119^|^21965432120^|^SVTAL1010^|^contact@localnetserv.com^|^Hank Teal^|^21999900110^|^5^|^Service Upgrade
