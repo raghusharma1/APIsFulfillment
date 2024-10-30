@@ -1,0 +1,4 @@
+orderType,payload,expectedResponse
+"Associate CPE Order Type FTTP","{ "order": {"associatedDocument":"VTT001","associatedDocumentDate":"2020-10-22T14:00:00-03:00","correlationOrder":"2310",...} }","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""20230315000001""}}"
+"Installation Order Type FTTH","{ "order": {"addresses":{"address":{"complement":{"complements":[{"type":"ES","value":"ARC201"}]},"id":14393,...} }","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""20230315000001""}}"
+"Installation Order Type FTTH arising from a address change (flagged address change)","{ "order": {"addressChange":{"flag":true},"addresses":{"address":{"complement":{"complements":[{"type":"ES","value":"ARC201"}]}...} }","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""20230315000001""}}"
