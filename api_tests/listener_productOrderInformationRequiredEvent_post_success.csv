@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7001^|^Pendencia de Agendamento^|^true^|^Obs: None^|^PROJETO^|^Task1^|^CLIENTE^|^2023-01-01T12:00:00-03:00^|^0^|^ScenarioA
+DOC002^|^1002^|^20230315000002^|^fechar^|^7008^|^Pendencia de Rede 3 dias^|^false^|^Obs: None^|^MANUTENCAO^|^Task2^|^TECNICA^|^2023-01-02T13:00:00-03:00^|^1^|^ScenarioB
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7009^|^Pendencia Cancelamento e Reemissao^|^true^|^Obs: None^|^SERVICO^|^Task3^|^CLIENTE^|^2023-01-03T14:00:00-03:00^|^2^|^ScenarioC
+DOC004^|^1004^|^20230315000004^|^abrir^|^7010^|^Pendencia Equipamento Cliente^|^false^|^Obs: None^|^DESENVOLVIMENTO^|^Task4^|^TECNICA^|^2023-01-04T15:00:00-03:00^|^3^|^ScenarioD
+DOC005^|^1005^|^20230315000005^|^fechar^|^7013^|^Pendencia Cancelamento por Inviabilidade Tecnica^|^true^|^Obs: None^|^OPERACAO^|^Task5^|^CLIENTE^|^2023-01-05T16:00:00-03:00^|^4^|^ScenarioE
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7014^|^Pendencia Rede Interna Cliente^|^false^|^Obs: None^|^LOGISTICA^|^Task6^|^TECNICA^|^2023-01-06T17:00:00-03:00^|^0^|^ScenarioF
+DOC007^|^1007^|^20230315000007^|^abrir^|^7015^|^Pendencia Cancelamento por Desistencia do Servico^|^true^|^Obs: None^|^FINANCEIRO^|^Task7^|^CLIENTE^|^2023-01-07T18:00:00-03:00^|^1^|^ScenarioG
+DOC008^|^1008^|^20230315000008^|^fechar^|^7016^|^Pendencia Cliente Ausente^|^false^|^Obs: None^|^ADMINISTRATIVO^|^Task8^|^TECNICA^|^2023-01-08T19:00:00-03:00^|^2^|^ScenarioH
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7017^|^Pendencia Cliente Solicita nova data de Agendamento^|^true^|^Obs: None^|^SUPORTE^|^Task9^|^CLIENTE^|^2023-01-09T20:00:00-03:00^|^3^|^ScenarioI
+DOC010^|^1010^|^20230315000010^|^abrir^|^7021^|^Pendencia Cliente Interrompe e Solicita nova data de Agendamento^|^false^|^Obs: None^|^RECURSOS HUMANOS^|^Task10^|^TECNICA^|^2023-01-10T21:00:00-03:00^|^4^|^ScenarioJ

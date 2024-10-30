@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+123456789^|^2023-03-15T07:22:00-03:00^|^DOC12345^|^1^|^1001^|^Order successfully completed^|^202303150001^|^Completion^|^200^|^Standard
+987654321^|^2023-03-15T08:15:00-03:00^|^DOC67890^|^2^|^1002^|^Order cancelled^|^202303150002^|^Cancellation^|^404^|^Urgent
+234567890^|^2023-03-15T09:45:00-03:00^|^DOC23456^|^0^|^1003^|^Order started^|^202303150003^|^Initiation^|^100^|^Standard
+876543219^|^2023-03-15T11:30:00-03:00^|^DOC98765^|^3^|^1004^|^Technical issue resolved^|^202303150004^|^Technical^|^200^|^High Priority
+345678901^|^2023-03-15T12:00:00-03:00^|^DOC34567^|^4^|^1005^|^Maintenance completed^|^202303150005^|^Maintenance^|^200^|^Routine
+765432198^|^2023-03-15T14:20:00-03:00^|^DOC87654^|^1^|^1006^|^Update processed^|^202303150006^|^Update^|^202^|^Standard
+456789012^|^2023-03-15T15:55:00-03:00^|^DOC45678^|^0^|^1007^|^Order received^|^202303150007^|^Receipt^|^100^|^Low Priority
+654321987^|^2023-03-15T16:40:00-03:00^|^DOC65432^|^2^|^1008^|^Order cancelled due to client request^|^202303150008^|^Cancellation^|^404^|^Urgent
+567890123^|^2023-03-15T18:05:00-03:00^|^DOC56789^|^3^|^1009^|^Client not present^|^202303150009^|^Issue^|^403^|^Routine
+432198765^|^2023-03-15T19:50:00-03:00^|^DOC43219^|^4^|^1010^|^Equipment replaced^|^202303150010^|^Replacement^|^200^|^High Priority
