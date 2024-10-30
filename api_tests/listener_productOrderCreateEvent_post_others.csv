@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^description^|^statusCode^|^scenario
+12345^|^VTT001^|^10^|^20230315000001^|^2^|^Ordem cancelada^|^200^|^Test Scenario
+12346^|^VTT002^|^11^|^20230315000002^|^3^|^Início do Processo de Obra^|^300^|^Scenario B
+12347^|^VTT003^|^12^|^20230315000003^|^1^|^Enviando Atualização de Ordem^|^400^|^Scenario C
+12348^|^VTT004^|^13^|^20230315000004^|^0^|^Ordem encerrada com sucesso^|^500^|^Scenario D
+12349^|^VTT005^|^14^|^20230315000005^|^4^|^Término do Processo de Obra^|^600^|^Scenario E
+12350^|^VTT006^|^15^|^20230315000006^|^banana^|^Invalid Description^|^700^|^Scenario F
+12351^|^VTT007^|^16^|^20230315000007^|^2^|^Ordem cancelada^|^800^|^Scenario G
+12352^|^VTT008^|^17^|^20230315000008^|^3^|^Início do Processo de Obra^|^900^|^Scenario H
+12353^|^VTT009^|^18^|^20230315000009^|^1^|^Enviando Atualização de Ordem^|^1000^|^Scenario I
+12354^|^VTT010^|^19^|^20230315000010^|^0^|^Ordem encerrada com sucesso^|^1100^|^Scenario J
