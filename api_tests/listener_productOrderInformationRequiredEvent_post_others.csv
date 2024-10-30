@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Critical Error^|^200^|^Test
+Disabled^|^ABC123^|^Minor Warning^|^404^|^Live
+^|^78910^|^Major Outage^|^500^|^Simulation
+Enabled^|^XYZ890^|^Maintenance^|^503^|^Development
+Alert^|^67890^|^Service Interruption^|^301^|^Production
+On^|^101112^|^Data Issue^|^202^|^Beta
+Off^|^131415^|^System Down^|^401^|^Alpha
+Active^|^161718^|^Performance Lag^|^403^|^Trial
+Inactive^|^192021^|^Connectivity Issue^|^502^|^Staging
+Pending^|^222324^|^Update Required^|^100^|^Prototype
