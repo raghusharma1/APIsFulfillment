@@ -1,0 +1,11 @@
+order^|^associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^type^|^infraType^|^addressId^|^inventoryId^|^statusCode^|^scenario
+1^|^VTT002^|^2023-01-15T10:30:00-03:00^|^1001^|^Instalacao^|^FTTH^|^12001^|^INV123456^|^Active^|^Normal
+2^|^VTT003^|^2023-02-20T11:00:00-03:00^|^1002^|^Retirada^|^FTTP^|^12002^|^INV123457^|^Cancelled^|^Urgent
+3^|^VTT004^|^2023-03-25T09:45:00-03:00^|^1003^|^Bloqueio^|^FTTH^|^12003^|^INV123458^|^Pending^|^High Priority
+4^|^VTT005^|^2023-04-30T08:30:00-03:00^|^1004^|^Desbloqueio^|^FTTP^|^12004^|^INV123459^|^Resolved^|^Low Priority
+5^|^VTT006^|^2023-05-05T07:15:00-03:00^|^1005^|^AssociarCPE^|^FTTH^|^12005^|^INV123460^|^In Progress^|^Routine
+6^|^VTT007^|^2023-06-10T06:00:00-03:00^|^1006^|^Modificacao de Velocidade^|^FTTP^|^12006^|^INV123461^|^On Hold^|^Update Needed
+7^|^VTT008^|^2023-07-15T04:45:00-03:00^|^1007^|^RemanejamentoPonto^|^FTTH^|^12007^|^INV123462^|^Completed^|^Follow Up
+8^|^VTT009^|^2023-08-20T03:30:00-03:00^|^1008^|^Instalacao^|^FTTP^|^12008^|^INV123463^|^Failed^|^New Project
+9^|^VTT010^|^2023-09-25T02:15:00-03:00^|^1009^|^Retirada^|^FTTH^|^12009^|^INV123464^|^Active^|^Normal
+10^|^VTT011^|^2023-10-30T01:00:00-03:00^|^1010^|^Bloqueio^|^FTTP^|^12010^|^INV123465^|^Cancelled^|^Critical
