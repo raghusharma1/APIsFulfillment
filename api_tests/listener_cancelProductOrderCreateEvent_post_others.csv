@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^issueCode^|^description^|^statusCode^|^scenario
+1234567890^|^DOC-001^|^CORR-1001^|^ID-2001^|^7001^|^Order completed^|^1^|^Standard
+2345678901^|^DOC-002^|^CORR-1002^|^ID-2002^|^7031^|^Order cancelled^|^2^|^Urgent
+3456789012^|^DOC-003^|^CORR-1003^|^ID-2003^|^7010^|^Update Order^|^1^|^Delayed
+4567890123^|^DOC-004^|^CORR-1004^|^ID-2004^|^7075^|^Start of Construction^|^3^|^High Priority
+5678901234^|^DOC-005^|^CORR-1005^|^ID-2005^|^7037^|^End of Construction^|^4^|^Low Priority
+6789012345^|^DOC-006^|^CORR-1006^|^ID-2006^|^7004^|^Equipment in use by another customer^|^-1^|^Standard
+7890123456^|^DOC-007^|^CORR-1007^|^ID-2007^|^7054^|^Order completed^|^1^|^Urgent
+8901234567^|^DOC-008^|^CORR-1008^|^ID-2008^|^7020^|^Cancel due to technical issue^|^2^|^Delayed
+9012345678^|^DOC-009^|^CORR-1009^|^ID-2009^|^7009^|^Update Order^|^1^|^High Priority
+0123456789^|^DOC-010^|^CORR-1010^|^ID-2010^|^7079^|^Order cancelled^|^2^|^Low Priority

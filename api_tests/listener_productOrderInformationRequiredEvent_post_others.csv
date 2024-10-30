@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+2023-01-21T10:30:00-05:00^|^VTT001-10^|^Abertura de chamado^|^200^|^Cliente
+2023-02-15T15:45:00-05:00^|^VTT002-11^|^Pendência de equipamento^|^404^|^Técnica
+2023-03-10T09:20:00-05:00^|^VTT003-12^|^Manutenção de linha^|^500^|^Cliente
+2023-04-22T14:00:00-05:00^|^VTT004-13^|^Cancelamento por cliente^|^200^|^Cliente
+2023-05-30T16:30:00-05:00^|^VTT005-14^|^Erro de sistema^|^300^|^Técnica
+2023-06-25T11:00:00-05:00^|^VTT006-15^|^Falha de comunicação^|^200^|^Cliente
+2023-07-18T19:50:00-05:00^|^VTT007-16^|^Abertura de chamado^|^500^|^Técnica
+2023-08-12T08:15:00-05:00^|^VTT008-17^|^Pendência de equipamento^|^404^|^Cliente
+2023-09-05T10:45:00-05:00^|^VTT009-18^|^Manutenção de linha^|^200^|^Técnica
+2023-10-03T13:30:00-05:00^|^VTT010-19^|^Redirecionamento de chamado^|^300^|^Cliente

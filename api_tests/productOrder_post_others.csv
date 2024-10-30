@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2020-10-22T14:00:00-03:00^|^2310^|^V.tal^|^ONT^|^FTTP^|^AssociarCPE^|^Active^|^Primary
+VTT002^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTH^|^Instalacao^|^Active^|^Secondary
+VTT003^|^2021-06-09T18:20:53-03:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Instalacao^|^Pending^|^Tertiary
+VTT004^|^2021-06-09T18:20:53-03:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Instalacao^|^Cancelled^|^ErrorCase
+VTT005^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTP^|^Instalacao^|^Active^|^Primary
+VTT006^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTP^|^Instalacao^|^Pending^|^Secondary
+VTT007^|^2021-06-09T18:20:53-03:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Bloqueio^|^Cancelled^|^ErrorCase
+VTT008^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTP^|^Bloqueio^|^Active^|^Primary
+VTT009^|^2021-06-09T18:20:53-03:00^|^923467432^|^Sandbox V.tal^|^ONT^|^FTTH^|^RemanejamentoPonto^|^Pending^|^Secondary
+VTT010^|^2020-11-13T16:20:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Retirada^|^Cancelled^|^Tertiary

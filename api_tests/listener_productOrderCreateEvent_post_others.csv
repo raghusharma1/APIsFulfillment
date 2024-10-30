@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^statusCode^|^scenario
+user12345^|^DOC001^|^1001^|^202303150001^|^abrir^|^4^|^Início do Processo de Obra^|^200^|^Initial
+client56789^|^DOC002^|^1002^|^202303150002^|^fechar^|^1^|^Enviando Atualização de Ordem^|^404^|^Update
+sub3301^|^DOC003^|^1003^|^202303150003^|^redirecionar^|^2^|^Ordem cancelada^|^500^|^Cancellation
+user404^|^DOC004^|^1004^|^202303150004^|^abrir^|^3^|^Término do Processo de Obra^|^403^|^Completion
+client505^|^DOC005^|^1005^|^202303150005^|^fechar^|^0^|^Ordem encerrada com sucesso^|^202^|^Success
+sub606^|^DOC006^|^1006^|^202303150006^|^redirecionar^|^banana^|^O Equipamento já está em uso por outro cliente^|^401^|^Error
+user707^|^DOC007^|^1007^|^202303150007^|^abrir^|^7001^|^Pendência Cancelamento por Duplicidade^|^200^|^DuplicateIssue
+client808^|^DOC008^|^1008^|^202303150008^|^fechar^|^7021^|^Pendência Cliente Interrompe e Solicita nova data de Agendamento^|^404^|^Reschedule
+sub909^|^DOC009^|^1009^|^202303150009^|^redirecionar^|^7037^|^Pendência Impedimento de Atividade por Chuva^|^503^|^WeatherDelay
+user010^|^DOC010^|^1010^|^202303150010^|^abrir^|^7053^|^Pendência de Aprovisionamento 5 dias^|^200^|^ProvisioningDelay
