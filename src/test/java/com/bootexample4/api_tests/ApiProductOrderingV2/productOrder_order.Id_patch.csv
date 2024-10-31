@@ -1,0 +1,3 @@
+order_Id,request_body,expected_response
+"12345","{""product"":""Book"",""quantity"":5}","{""status"":""ok""}"
+"67890","{""product"":""Pen"",""quantity"":10}","{""status"":""ok""}"
