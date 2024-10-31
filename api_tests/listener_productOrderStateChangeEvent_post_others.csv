@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+234567890^|^2023-01-15T12:34:56.789-03:00^|^VTT002^|^2^|^15^|^Ordem cancelada^|^20230315000002^|^Cancelamento^|^200^|^Standard
+123456789^|^2022-12-25T11:22:33.444-03:00^|^VTT003^|^0^|^20^|^Ordem encerrada com sucesso.^|^20230315000003^|^Encerramento^|^200^|^High Priority
+345678901^|^banana^|^VTT004^|^1^|^25^|^Enviando Atualização de Ordem^|^20230315000004^|^Atualização^|^300^|^Low Priority
+456789012^|^2021-03-10T09:08:07.123-03:00^|^VTT005^|^3^|^30^|^Início do Processo de Obra^|^20230315000005^|^Início^|^400^|^Standard
+567890123^|^2023-02-28T08:07:06.543-03:00^|^VTT006^|^4^|^35^|^Término do Processo de Obra^|^20230315000006^|^Término^|^500^|^High Priority
+678901234^|^2023-03-15T07:06:05.432-03:00^|^VTT007^|^3^|^40^|^Início do Processo de Obra^|^20230315000007^|^Início^|^600^|^Low Priority
+789012345^|^2023-01-01T06:05:04.321-03:00^|^VTT008^|^4^|^45^|^Término do Processo de Obra^|^20230315000008^|^Término^|^404^|^Standard
+890123456^|^2023-03-14T05:04:03.210-03:00^|^VTT009^|^1^|^50^|^Enviando Atualização de Ordem^|^20230315000009^|^Atualização^|^202^|^Standard
+901234567^|^2023-03-13T04:03:02.109-03:00^|^VTT010^|^2^|^55^|^Ordem cancelada^|^20230315000010^|^Cancelamento^|^200^|^High Priority
+012345678^|^2023-03-12T03:02:01.001-03:00^|^VTT011^|^3^|^60^|^Início do Processo de Obra^|^20230315000011^|^Início^|^403^|^Low Priority
