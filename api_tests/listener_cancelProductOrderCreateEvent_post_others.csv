@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^statusCode^|^scenario
+123456789^|^DOC-001^|^CORR-001^|^ID-001^|^3^|^scenarioA
+987654321^|^DOC-002^|^CORR-002^|^ID-002^|^0^|^scenarioB
+112233445^|^DOC-003^|^CORR-003^|^ID-003^|^1^|^scenarioC
+556677889^|^DOC-004^|^CORR-004^|^ID-004^|^2^|^scenarioD
+998877665^|^DOC-005^|^CORR-005^|^ID-005^|^4^|^scenarioE
+334455667^|^DOC-006^|^CORR-006^|^ID-006^|^banana^|^scenarioF
+778899001^|^DOC-007^|^CORR-007^|^ID-007^|^3^|^scenarioG
+110022334^|^DOC-008^|^CORR-008^|^ID-008^|^2^|^scenarioH
+223344556^|^DOC-009^|^CORR-009^|^ID-009^|^1^|^scenarioI
+667788990^|^DOC-010^|^CORR-010^|^ID-010^|^0^|^scenarioJ
