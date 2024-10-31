@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^action^|^issueCode^|^issueDescription^|^lostEquipment^|^statusCode^|^scenario
+user123^|^2023-09-15T12:00:00^|^DOC001^|^1^|^ORDER123^|^Ordem encerrada com sucesso^|^20230915001^|^abrir^|^7001^|^Pendência Cancelamento por Duplicidade^|^True^|^200^|^Test Scenario 1
+user456^|^2023-09-16T13:00:00^|^DOC002^|^2^|^ORDER456^|^Ordem cancelada^|^20230916002^|^fechar^|^7010^|^Pendência Equipamento Cliente^|^False^|^404^|^Test Scenario 2
+user789^|^2023-09-17T14:00:00^|^DOC003^|^3^|^ORDER789^|^Início do Processo de Obra^|^20230917003^|^redirecionar^|^7029^|^Pendência Agendamento^|^True^|^500^|^Test Scenario 3
+user012^|^2023-09-18T15:00:00^|^DOC004^|^4^|^ORDER012^|^Término do Processo de Obra^|^20230918004^|^abrir^|^7031^|^Pendência Agendamento^|^False^|^302^|^Test Scenario 4
+user234^|^2023-09-19T16:00:00^|^DOC005^|^0^|^ORDER234^|^Ordem encerrada com sucesso^|^20230919005^|^fechar^|^7047^|^Pendência Acesso Impossibilitado^|^True^|^202^|^Test Scenario 5
+user345^|^2023-09-20T17:00:00^|^DOC006^|^-1^|^ORDER345^|^O Equipamento já está em uso por outro cliente^|^20230920006^|^redirecionar^|^7054^|^Pendência de Aprovisionamento 5 dias^|^False^|^401^|^Test Scenario 6
+user567^|^2023-09-21T18:00:00^|^DOC007^|^1^|^ORDER567^|^Enviando Atualização de Ordem^|^20230921007^|^abrir^|^7061^|^Pendência de Aprovisionamento 5 dias^|^True^|^303^|^Test Scenario 7
+user678^|^2023-09-22T19:00:00^|^DOC008^|^2^|^ORDER678^|^Ordem cancelada^|^20230922008^|^fechar^|^7070^|^Pendência de Rede 3 dias^|^False^|^403^|^Test Scenario 8
+user890^|^2023-09-23T20:00:00^|^DOC009^|^3^|^ORDER890^|^Início do Processo de Obra^|^20230923009^|^redirecionar^|^7081^|^Pendência Cancelamento por Impossibilidade de Execução^|^True^|^501^|^Test Scenario 9
+user901^|^2023-09-24T21:00:00^|^DOC010^|^4^|^ORDER901^|^Término do Processo de Obra^|^20230924010^|^abrir^|^7095^|^Pendência agendamento não cumprido^|^False^|^304^|^Test Scenario 10

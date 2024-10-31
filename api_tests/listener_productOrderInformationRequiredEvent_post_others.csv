@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^VTT001^|^Pendência Cancelamento por Duplicidade^|^0^|^Field Work
+Disabled^|^VTT002^|^Pendência Agendamento Futuro Obra 7 dias^|^1^|^Office
+Active^|^VTT003^|^Pendência de Aprovisionamento 5 dias^|^2^|^Remote
+On^|^VTT004^|^Pendência Cancelamento por Inviabilidade Técnica^|^3^|^Field Work
+Off^|^VTT005^|^Pendência Cancelamento e Reemissão^|^4^|^Office
+Yes^|^VTT006^|^Pendência Equipamento Cliente^|^-1^|^Remote
+No^|^VTT007^|^Pendência Rede Interna Cliente^|^banana^|^Field Work
+True^|^VTT008^|^Pendência Cancelamento por Desistência do Serviço^|^0^|^Office
+False^|^VTT009^|^Pendência Cliente Ausente^|^1^|^Remote
+NA^|^VTT010^|^Pendência Cliente Solicita nova data de Agendamento^|^2^|^Field Work

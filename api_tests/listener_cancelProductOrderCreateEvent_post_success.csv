@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^statusCode^|^scenario
+USR123456789^|^DOC001^|^ORD10001^|^1^|^Order received and processing^|^200^|^Initial Processing
+USR123456790^|^DOC002^|^ORD10002^|^2^|^Order cancelled by user^|^404^|^Cancellation
+USR123456791^|^DOC003^|^ORD10003^|^3^|^Order processing delayed^|^503^|^Delay
+USR123456792^|^DOC004^|^ORD10004^|^4^|^Order completed successfully^|^200^|^Completion
+USR123456793^|^DOC005^|^ORD10005^|^0^|^Order closed^|^200^|^Closure
+USR123456794^|^DOC006^|^ORD10006^|^1^|^Order received and processing^|^200^|^Initial Processing
+USR123456795^|^DOC007^|^ORD10007^|^2^|^Order cancelled by user^|^404^|^Cancellation
+USR123456796^|^DOC008^|^ORD10008^|^3^|^Order processing delayed^|^503^|^Delay
+USR123456797^|^DOC009^|^ORD10009^|^4^|^Order completed successfully^|^200^|^Completion
+USR123456798^|^DOC010^|^ORD10010^|^0^|^Order closed^|^200^|^Closure
