@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^issueCode^|^description^|^statusCode^|^scenario
+1234567890^|^DOC-001^|^CORR-1001^|^20231015000001^|^7001^|^Pendência Cancelamento por Duplicidade^|^OK^|^Normal
+abcdefg^|^DOC-002^|^CORR-1002^|^20231015000002^|^7010^|^Pendência Equipamento Cliente^|^Error^|^Critical
+9876543210^|^DOC-003^|^CORR-1003^|^20231015000003^|^7031^|^Pendência Agendamento^|^Pending^|^Maintenance
+12345abcde^|^DOC-004^|^CORR-1004^|^20231015000004^|^7004^|^Pendência Agendamento Futuro Obra 7 dias^|^OK^|^Normal
+xyx987^|^DOC-005^|^CORR-1005^|^20231015000005^|^7079^|^Pendência Acesso Impossibilitado^|^Error^|^Critical
+subscriber006^|^DOC-006^|^CORR-1006^|^20231015000006^|^7037^|^Pendência Impedimento de Atividade por Chuva^|^Pending^|^Maintenance
+sub007^|^DOC-007^|^CORR-1007^|^20231015000007^|^7051^|^Pendência de Aprovisionamento 5 dias^|^OK^|^Normal
+ID123456789^|^DOC-008^|^CORR-1008^|^20231015000008^|^7095^|^Pendência agendamento não cumprido^|^Error^|^Critical
+user009^|^DOC-009^|^CORR-1009^|^20231015000009^|^7080^|^Pendência Área de Risco Momentânea^|^Pending^|^Maintenance
+testUser010^|^DOC-010^|^CORR-1010^|^20231015000010^|^7075^|^Pendência Cancelamento por Inviabilidade Técnica^|^OK^|^Normal
