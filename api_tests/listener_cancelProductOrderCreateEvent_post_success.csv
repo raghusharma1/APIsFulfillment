@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^lostEquipment^|^statusCode^|^scenario
+ID293847^|^DOC8472^|^CO2938^|^abrir^|^2^|^Ordem cancelada^|^True^|^Observation1^|^Reason for delay^|^Task9^|^CLIENTE^|^2023-10-03T14:25:47^|^False^|^200^|^ScenarioA
+ID293848^|^DOC8473^|^CO2939^|^fechar^|^3^|^Início do Processo de Obra^|^False^|^Observation2^|^Reason for cancellation^|^Task8^|^TECNICA^|^2023-10-03T15:26:48^|^True^|^201^|^ScenarioB
+ID293849^|^DOC8474^|^CO2940^|^redirecionar^|^4^|^Término do Processo de Obra^|^True^|^Observation3^|^Reason for update^|^Task7^|^CLIENTE^|^2023-10-03T16:27:49^|^False^|^202^|^ScenarioC
+ID293850^|^DOC8475^|^CO2941^|^abrir^|^0^|^Ordem encerrada com sucesso^|^False^|^Observation4^|^Reason for success^|^Task6^|^TECNICA^|^2023-10-03T17:28:50^|^True^|^203^|^ScenarioD
+ID293851^|^DOC8476^|^CO2942^|^fechar^|^1^|^Enviando Atualização de Ordem^|^True^|^Observation5^|^Reason for update^|^Task5^|^CLIENTE^|^2023-10-03T18:29:51^|^False^|^204^|^ScenarioE
+ID293852^|^DOC8477^|^CO2943^|^redirecionar^|^2^|^Ordem cancelada^|^False^|^Observation6^|^Reason for cancellation^|^Task4^|^TECNICA^|^2023-10-03T19:30:52^|^True^|^205^|^ScenarioF
+ID293853^|^DOC8478^|^CO2944^|^abrir^|^3^|^Início do Processo de Obra^|^True^|^Observation7^|^Reason for process start^|^Task3^|^CLIENTE^|^2023-10-03T20:31:53^|^False^|^206^|^ScenarioG
+ID293854^|^DOC8479^|^CO2945^|^fechar^|^4^|^Término do Processo de Obra^|^False^|^Observation8^|^Reason for process end^|^Task2^|^TECNICA^|^2023-10-03T21:32:54^|^True^|^207^|^ScenarioH
+ID293855^|^DOC8480^|^CO2946^|^redirecionar^|^0^|^Ordem encerrada com sucesso^|^True^|^Observation9^|^Reason for success^|^Task1^|^CLIENTE^|^2023-10-03T22:33:55^|^False^|^208^|^ScenarioI
+ID293856^|^DOC8481^|^CO2947^|^abrir^|^1^|^Enviando Atualização de Ordem^|^False^|^Observation10^|^Reason for update^|^Task0^|^TECNICA^|^2023-10-03T23:34:56^|^True^|^209^|^ScenarioJ
