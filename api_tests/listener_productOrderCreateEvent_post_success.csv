@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^statusCode^|^scenario
+CUST1001^|^DOC2001^|^COR3001^|^ID4001^|^0^|^ScenarioA
+CUST1002^|^DOC2002^|^COR3002^|^ID4002^|^1^|^ScenarioB
+CUST1003^|^DOC2003^|^COR3003^|^ID4003^|^2^|^ScenarioC
+CUST1004^|^DOC2004^|^COR3004^|^ID4004^|^3^|^ScenarioD
+CUST1005^|^DOC2005^|^COR3005^|^ID4005^|^4^|^ScenarioE
+CUST1006^|^DOC2006^|^COR3006^|^ID4006^|^-1^|^ScenarioF
+CUST1007^|^DOC2007^|^COR3007^|^ID4007^|^0^|^ScenarioG
+CUST1008^|^DOC2008^|^COR3008^|^ID4008^|^1^|^ScenarioH
+CUST1009^|^DOC2009^|^COR3009^|^ID4009^|^2^|^ScenarioI
+CUST1010^|^DOC2010^|^COR3010^|^ID4010^|^3^|^ScenarioJ
