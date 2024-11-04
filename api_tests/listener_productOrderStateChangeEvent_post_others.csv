@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+892347298^|^2023-01-15T12:34:56.789-03:00^|^DOC123^|^2^|^20^|^Ordem cancelada^|^20230315000001^|^Cancelamento^|^200^|^Normal
+123456789^|^2022-12-20T10:12:15.321-03:00^|^DOC124^|^0^|^21^|^Ordem encerrada com sucesso.^|^20230315000002^|^Encerramento^|^201^|^Urgent
+234567890^|^2021-11-30T08:45:23.123-03:00^|^DOC125^|^1^|^22^|^Enviando Atualização de Ordem^|^20230315000003^|^Atualizacao^|^202^|^High
+345678901^|^2020-10-25T06:30:12.654-03:00^|^DOC126^|^3^|^23^|^Início do Processo de Obra^|^20230315000004^|^InicioObra^|^203^|^Low
+456789012^|^2019-09-15T04:20:00.987-03:00^|^DOC127^|^4^|^24^|^Término do Processo de Obra^|^20230315000005^|^TerminoObra^|^204^|^Delayed
+567890123^|^2018-08-10T02:10:30.456-03:00^|^DOC128^|^banana^|^25^|^Dado inválido^|^20230315000006^|^Erro^|^205^|^Error
+678901234^|^2017-07-05T00:05:45.789-03:00^|^DOC129^|^2^|^26^|^Ordem cancelada^|^20230315000007^|^Cancelamento^|^206^|^Normal
+789012345^|^2016-06-01T22:00:15.321-03:00^|^DOC130^|^0^|^27^|^Ordem encerrada com sucesso.^|^20230315000008^|^Encerramento^|^207^|^Urgent
+890123456^|^2015-05-20T20:55:25.654-03:00^|^DOC131^|^1^|^28^|^Enviando Atualização de Ordem^|^20230315000009^|^Atualizacao^|^208^|^High
+901234567^|^2014-04-15T18:50:35.987-03:00^|^DOC132^|^3^|^29^|^Início do Processo de Obra^|^20230315000010^|^InicioObra^|^209^|^Low

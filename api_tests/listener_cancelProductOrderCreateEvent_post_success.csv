@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^action^|^statusCode^|^scenario
+CUST0001^|^DOC0001^|^202310010001^|^1^|^Enviando Atualizacao de Ordem^|^abrir^|^200^|^Normal Operation
+CUST0002^|^DOC0002^|^202310010002^|^2^|^Ordem cancelada^|^fechar^|^404^|^Cancellation Process
+CUST0003^|^DOC0003^|^202310010003^|^3^|^Inicio do Processo de Obra^|^redirecionar^|^500^|^Construction Start
+CUST0004^|^DOC0004^|^202310010004^|^4^|^Termino do Processo de Obra^|^abrir^|^202^|^Construction End
+CUST0005^|^DOC0005^|^202310010005^|^0^|^Ordem encerrada com sucesso^|^fechar^|^200^|^Order Completed
+CUST0006^|^DOC0006^|^202310010006^|^1^|^Enviando Atualizacao de Ordem^|^redirecionar^|^302^|^Update Process
+CUST0007^|^DOC0007^|^202310010007^|^2^|^Ordem cancelada^|^abrir^|^404^|^Order Cancelled
+CUST0008^|^DOC0008^|^202310010008^|^3^|^Inicio do Processo de Obra^|^fechar^|^503^|^Construction Initiated
+CUST0009^|^DOC0009^|^202310010009^|^4^|^Termino do Processo de Obra^|^redirecionar^|^204^|^Project Completion
+CUST0010^|^DOC0010^|^202310010010^|^0^|^Ordem encerrada com sucesso^|^abrir^|^200^|^Order Success
