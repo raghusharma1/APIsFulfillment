@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^issueCode^|^description^|^statusCode^|^scenario
+1234567890^|^DOC-001^|^CORR-001^|^ID-001^|^7001^|^PendÃªncia Cancelamento por Duplicidade^|^OPEN^|^Initial
+3421567890^|^DOC-002^|^CORR-002^|^ID-002^|^7004^|^PendÃªncia Agendamento Futuro Obra 7 dias^|^CLOSED^|^Update
+4567891230^|^DOC-003^|^CORR-003^|^ID-003^|^7006^|^PendÃªncia de Aprovisionamento 5 dias^|^PENDING^|^Review
+5634127890^|^DOC-004^|^CORR-004^|^ID-004^|^7007^|^PendÃªncia Cancelamento por Inviabilidade TÃ©cnica^|^OPEN^|^Final
+6789054321^|^DOC-005^|^CORR-005^|^ID-005^|^7087^|^PendÃªncia Rede Interna Cliente^|^CLOSED^|^Initial
+7890123456^|^DOC-006^|^CORR-006^|^ID-006^|^7015^|^PendÃªncia Cancelamento por DesistÃªncia do ServiÃ§o^|^PENDING^|^Update
+8901234567^|^DOC-007^|^CORR-007^|^ID-007^|^7016^|^PendÃªncia Cliente Ausente^|^OPEN^|^Review
+9012345678^|^DOC-008^|^CORR-008^|^ID-008^|^7017^|^PendÃªncia Cliente Solicita nova data de Agendamento^|^CLOSED^|^Final
+0123456789^|^DOC-009^|^CORR-009^|^ID-009^|^7021^|^PendÃªncia de Rede 3 dias^|^PENDING^|^Initial
+1234509876^|^DOC-010^|^CORR-010^|^ID-010^|^7024^|^PendÃªncia Cliente Interrompe e Solicita nova data de Agendamento^|^OPEN^|^Update

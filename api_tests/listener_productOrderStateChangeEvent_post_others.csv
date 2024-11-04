@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+234567890^|^2023-01-15T12:34:56.789-03:00^|^VTT002^|^2^|^15^|^Ordem cancelada^|^20230315000002^|^Cancelamento^|^200^|^ScenarioA
+123456789^|^2022-12-24T12:00:00.000-03:00^|^VTT003^|^0^|^20^|^Ordem encerrada com sucesso.^|^20230315000003^|^Encerramento^|^200^|^ScenarioB
+987654321^|^2023-02-28T10:30:30.300-03:00^|^VTT004^|^1^|^25^|^Enviando Atualização de Ordem^|^20230315000004^|^Atualizacao^|^400^|^ScenarioC
+876543210^|^2021-06-30T08:15:45.600-03:00^|^VTT005^|^3^|^30^|^Início do Processo de Obra^|^20230315000005^|^Obra^|^500^|^ScenarioD
+765432109^|^2020-03-20T07:45:10.100-03:00^|^VTT006^|^4^|^35^|^Término do Processo de Obra^|^20230315000006^|^Termino^|^200^|^ScenarioE
+654321098^|^2023-05-25T20:20:20.202-03:00^|^VTT007^|^banana^|^40^|^Código inválido^|^20230315000007^|^Erro^|^404^|^ScenarioF
+543210987^|^2022-08-15T11:11:11.111-03:00^|^VTT008^|^2^|^45^|^Ordem cancelada^|^20230315000008^|^Cancelamento^|^200^|^ScenarioG
+432109876^|^2021-09-09T09:09:09.909-03:00^|^VTT009^|^0^|^50^|^Ordem encerrada com sucesso.^|^20230315000009^|^Encerramento^|^200^|^ScenarioH
+321098765^|^2023-07-07T17:17:17.717-03:00^|^VTT010^|^1^|^55^|^Enviando Atualização de Ordem^|^20230315000010^|^Atualizacao^|^400^|^ScenarioI
+210987654^|^2022-11-11T23:59:59.999-03:00^|^VTT011^|^3^|^60^|^Início do Processo de Obra^|^20230315000011^|^Obra^|^500^|^ScenarioJ

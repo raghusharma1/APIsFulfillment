@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^action^|^statusCode^|^scenario
+CUST0001^|^DOC0001^|^ORD0001^|^2^|^Ordem cancelada^|^abrir^|^100^|^ScenarioA
+CUST0002^|^DOC0002^|^ORD0002^|^1^|^Enviando Atualização de Ordem^|^fechar^|^200^|^ScenarioB
+CUST0003^|^DOC0003^|^ORD0003^|^3^|^Início do Processo de Obra^|^redirecionar^|^300^|^ScenarioC
+CUST0004^|^DOC0004^|^ORD0004^|^4^|^Término do Processo de Obra^|^abrir^|^400^|^ScenarioD
+CUST0005^|^DOC0005^|^ORD0005^|^0^|^Ordem encerrada com sucesso^|^fechar^|^500^|^ScenarioE
+CUST0006^|^DOC0006^|^ORD0006^|^2^|^Ordem cancelada^|^redirecionar^|^600^|^ScenarioF
+CUST0007^|^DOC0007^|^ORD0007^|^1^|^Enviando Atualização de Ordem^|^abrir^|^700^|^ScenarioG
+CUST0008^|^DOC0008^|^ORD0008^|^3^|^Início do Processo de Obra^|^fechar^|^800^|^ScenarioH
+CUST0009^|^DOC0009^|^ORD0009^|^4^|^Término do Processo de Obra^|^redirecionar^|^900^|^ScenarioI
+CUST0010^|^DOC0010^|^ORD0010^|^0^|^Ordem encerrada com sucesso^|^abrir^|^1000^|^ScenarioJ
