@@ -1,0 +1,4 @@
+payload,expectedResponse
+"read('examples/associate-cpe-order-type-fttp.json')","""{ "control": { "code": "201", "message": "Created", "type": "S" }, "order": { "id": "20230315000001" }}"""
+"read('examples/installation-order-type-ftth.json')","""{ "control": { "code": "201", "message": "Created", "type": "S" }, "order": { "id": "20230315000002" }}"""
+"read('examples/installation-order-type-ftth-arising-from-address-change-flagged-address-change.json')","""{ "control": { "code": "201", "message": "Created", "type": "S" }, "order": { "id": "20230315000003" }}"""
