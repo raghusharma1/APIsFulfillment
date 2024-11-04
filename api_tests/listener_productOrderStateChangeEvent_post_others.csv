@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+234567890^|^2023-01-15T12:34:56.789-03:00^|^DOC123^|^2^|^15^|^Order Complete^|^202301150001^|^Finalization^|^200^|^Success
+123456789^|^2023-02-16T13:45:00.123-03:00^|^DOC124^|^1^|^16^|^Order Pending^|^202302160002^|^Initialization^|^404^|^Pending
+345678901^|^2023-03-17T14:55:10.456-03:00^|^DOC125^|^0^|^17^|^Order Failed^|^202303170003^|^Cancellation^|^500^|^Error
+456789012^|^2023-04-18T15:05:20.789-03:00^|^DOC126^|^3^|^18^|^Order Processed^|^202304180004^|^Processing^|^300^|^InProgress
+567890123^|^2023-05-19T16:15:30.123-03:00^|^DOC127^|^4^|^19^|^Order Shipped^|^202305190005^|^Shipping^|^202^|^Shipped
+678901234^|^2023-06-20T17:25:40.456-03:00^|^DOC128^|^-1^|^20^|^Order Cancelled^|^202306200006^|^Cancellation^|^403^|^Cancelled
+789012345^|^2023-07-21T18:35:50.789-03:00^|^DOC129^|^2^|^21^|^Order Restarted^|^202307210007^|^Restart^|^100^|^Restarting
+890123456^|^2023-08-22T19:45:00.123-03:00^|^DOC130^|^1^|^22^|^Order Reviewed^|^202308220008^|^Review^|^205^|^Reviewed
+901234567^|^2023-09-23T20:55:10.456-03:00^|^DOC131^|^0^|^23^|^Order Confirmed^|^202309230009^|^Confirmation^|^207^|^Confirmed
+012345678^|^2023-10-24T21:05:20.789-03:00^|^DOC132^|^3^|^24^|^Order Dispatched^|^202310240010^|^Dispatch^|^301^|^Dispatched
