@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Client Issue^|^200^|^Test Case 1
+Disabled^|^54321^|^Technical Issue^|^404^|^Test Case 2
+Enabled^|^11223^|^Client Issue^|^500^|^Test Case 3
+^|^67890^|^Client Issue^|^200^|^Test Case 4
+Enabled^|^13579^|^^|^403^|^Test Case 5
+Disabled^|^24680^|^Technical Issue^|^^|^Test Case 6
+^|^97531^|^Client Issue^|^200^|^Test Case 7
+Enabled^|^86420^|^Technical Issue^|^301^|^Test Case 8
+Disabled^|^11111^|^Client Issue^|^202^|^Test Case 9
+Enabled^|^22222^|^Technical Issue^|^401^|^Test Case 10
