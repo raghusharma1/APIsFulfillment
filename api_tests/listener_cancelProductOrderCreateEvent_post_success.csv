@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^action^|^issueCode^|^description^|^statusCode^|^scenario
+USR1234567890^|^DOC001^|^CORR0001^|^ID00001^|^3^|^abrir^|^7010^|^Pendência Equipamento Cliente^|^200^|^Normal
+USR1234567891^|^DOC002^|^CORR0002^|^ID00002^|^1^|^fechar^|^7020^|^Pendência de Rede 3 dias^|^404^|^Urgent
+USR1234567892^|^DOC003^|^CORR0003^|^ID00003^|^2^|^redirecionar^|^7031^|^Pendência Agendamento^|^500^|^Delayed
+USR1234567893^|^DOC004^|^CORR0004^|^ID00004^|^4^|^abrir^|^7041^|^Pendência de Rede 3 dias^|^200^|^Normal
+USR1234567894^|^DOC005^|^CORR0005^|^ID00005^|^0^|^fechar^|^7051^|^Pendência de Aprovisionamento 5 dias^|^404^|^Urgent
+USR1234567895^|^DOC006^|^CORR0006^|^ID00006^|^3^|^redirecionar^|^7061^|^Pendência de Aprovisionamento 5 dias^|^500^|^Delayed
+USR1234567896^|^DOC007^|^CORR0007^|^ID00007^|^1^|^abrir^|^7071^|^Pendência Área de Risco Indeterminada 15 dias^|^200^|^Normal
+USR1234567897^|^DOC008^|^CORR0008^|^ID00008^|^2^|^fechar^|^7081^|^Pendência Cancelamento por Impossibilidade de Execução^|^404^|^Urgent
+USR1234567898^|^DOC009^|^CORR0009^|^ID00009^|^4^|^redirecionar^|^7091^|^Pendência Sem Contato Obra^|^500^|^Delayed
+USR1234567899^|^DOC010^|^CORR0010^|^ID00010^|^0^|^abrir^|^7101^|^Pendência de Rede 3 dias^|^200^|^Normal
