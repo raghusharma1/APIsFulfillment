@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+234567654^|^2021-09-29T18:42:24.641-03:00^|^VTT001^|^2^|^10^|^Ordem cancelada^|^20230315000001^|^Cancelamento^|^200^|^Normal
+234567655^|^2020-12-16T10:09:31-03:00^|^VTT002^|^0^|^11^|^Ordem encerrada com sucesso.^|^20230315000002^|^Encerramento^|^201^|^Urgent
+234567656^|^2022-12-26T12:15:35.174-03:00^|^VTT003^|^0^|^12^|^BA de campo encerrado com sucesso^|^20230315000003^|^Encerramento^|^202^|^Routine
+234567657^|^2021-10-26T17:53:25.497-03:00^|^VTT004^|^-1^|^13^|^O Equipamento j\\'Ã¡ est\\'Ã¡ em uso por outro cliente^|^20230315000004^|^Encerramento^|^203^|^High
+234567658^|^2021-10-26T17:53:25.497-03:00^|^VTT005^|^3^|^14^|^InÃ­cio do Processo de Obra^|^20230315000005^|^InÃ­cio^|^204^|^Low
+234567659^|^2021-10-26T17:53:25.497-03:00^|^VTT006^|^4^|^15^|^TÃ©rmino do Processo de Obra^|^20230315000006^|^TÃ©rmino^|^205^|^Delayed
+234567660^|^2021-10-26T17:53:25.497-03:00^|^VTT007^|^1^|^16^|^Enviando AtualizaÃ§Ã£o de Ordem^|^20230315000007^|^AtualizaÃ§Ã£o^|^206^|^Normal
+234567661^|^2021-10-26T17:53:25.497-03:00^|^VTT008^|^Banana^|^17^|^Ordem cancelada^|^20230315000008^|^Cancelamento^|^207^|^Critical
+234567662^|^2021-10-26T17:53:25.497-03:00^|^VTT009^|^2^|^18^|^Ordem cancelada^|^20230315000009^|^Cancelamento^|^208^|^Normal
+234567663^|^2021-10-26T17:53:25.497-03:00^|^VTT010^|^2^|^19^|^Ordem cancelada^|^20230315000010^|^Cancelamento^|^209^|^Normal

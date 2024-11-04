@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^date^|^code^|^description^|^statusCode^|^scenario
+USR001^|^DOC001^|^ORD001^|^2023-03-01T12:00:00^|^1^|^Enviando Atualização de Ordem^|^100^|^Initial
+USR002^|^DOC002^|^ORD002^|^2023-03-02T13:00:00^|^2^|^Ordem cancelada^|^101^|^Cancel
+USR003^|^DOC003^|^ORD003^|^2023-03-03T14:00:00^|^3^|^Início do Processo de Obra^|^102^|^ProcessStart
+USR004^|^DOC004^|^ORD004^|^2023-03-04T15:00:00^|^4^|^Término do Processo de Obra^|^103^|^ProcessEnd
+USR005^|^DOC005^|^ORD005^|^2023-03-05T16:00:00^|^0^|^Ordem encerrada com sucesso^|^104^|^Success
+USR006^|^DOC006^|^ORD006^|^2023-03-06T17:00:00^|^-1^|^O Equipamento já está em uso por outro cliente^|^105^|^InUse
+USR007^|^DOC007^|^ORD007^|^2023-03-07T18:00:00^|^1^|^Enviando Atualização de Ordem^|^106^|^Update
+USR008^|^DOC008^|^ORD008^|^2023-03-08T19:00:00^|^2^|^Ordem cancelada^|^107^|^Cancel
+USR009^|^DOC009^|^ORD009^|^2023-03-09T20:00:00^|^3^|^Início do Processo de Obra^|^108^|^ProcessStart
+USR010^|^DOC010^|^ORD010^|^2023-03-10T21:00:00^|^4^|^Término do Processo de Obra^|^109^|^ProcessEnd
