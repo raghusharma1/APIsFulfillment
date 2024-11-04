@@ -112,6 +112,12 @@
         <version>0.0.40</version>
         <!--Plugin added by RoostGPT-->
       </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.2.5</version>
+        <!--Plugin added by RoostGPT-->
+      </plugin>
     </plugins>
   </build>
 </project>
