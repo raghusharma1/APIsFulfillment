@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^statusCode^|^scenario
+user001^|^DOC1234^|^1001^|^20230315000001^|^1^|^Order_Processing
+user002^|^DOC1235^|^1002^|^20230315000002^|^2^|^Order_Cancelled
+user003^|^DOC1236^|^1003^|^20230315000003^|^3^|^Order_Started
+user004^|^DOC1237^|^1004^|^20230315000004^|^4^|^Order_Completed
+user005^|^DOC1238^|^1005^|^20230315000005^|^0^|^Order_Successful
+user006^|^DOC1239^|^1006^|^20230315000006^|^1^|^Order_Processing
+user007^|^DOC1240^|^1007^|^20230315000007^|^2^|^Order_Cancelled
+user008^|^DOC1241^|^1008^|^20230315000008^|^3^|^Order_Started
+user009^|^DOC1242^|^1009^|^20230315000009^|^4^|^Order_Completed
+user010^|^DOC1243^|^1010^|^20230315000010^|^0^|^Order_Successful
