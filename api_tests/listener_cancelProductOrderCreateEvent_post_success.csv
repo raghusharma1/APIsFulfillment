@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^action^|^issueCode^|^description^|^statusCode^|^scenario
+USR1234567890^|^DOC0001^|^ORD1000^|^202310150001^|^2^|^abrir^|^7001^|^Ordem encerrada com sucesso^|^200^|^Initial
+USR1234567891^|^DOC0002^|^ORD1001^|^202310150002^|^3^|^fechar^|^7008^|^Início do Processo de Obra^|^404^|^Update
+USR1234567892^|^DOC0003^|^ORD1002^|^202310150003^|^1^|^redirecionar^|^7010^|^Enviando Atualização de Ordem^|^500^|^Correction
+USR1234567893^|^DOC0004^|^ORD1003^|^202310150004^|^0^|^abrir^|^7014^|^Ordem encerrada com sucesso^|^200^|^Final
+USR1234567894^|^DOC0005^|^ORD1004^|^202310150005^|^4^|^fechar^|^7021^|^Término do Processo de Obra^|^403^|^Reopen
+USR1234567895^|^DOC0006^|^ORD1005^|^202310150006^|^-1^|^redirecionar^|^7029^|^O Equipamento já está em uso por outro cliente^|^401^|^Review
+USR1234567896^|^DOC0007^|^ORD1006^|^202310150007^|^2^|^abrir^|^7031^|^Ordem encerrada com sucesso^|^200^|^Initial
+USR1234567897^|^DOC0008^|^ORD1007^|^202310150008^|^3^|^fechar^|^7035^|^Início do Processo de Obra^|^404^|^Update
+USR1234567898^|^DOC0009^|^ORD1008^|^202310150009^|^1^|^redirecionar^|^7037^|^Enviando Atualização de Ordem^|^500^|^Correction
+USR1234567899^|^DOC0010^|^ORD1009^|^202310150010^|^0^|^abrir^|^7042^|^Ordem encerrada com sucesso^|^200^|^Final
