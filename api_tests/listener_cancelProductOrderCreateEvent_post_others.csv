@@ -1,0 +1,11 @@
+associatedDocument^|^id^|^subscriberId^|^date^|^correlationOrder^|^description^|^statusCode^|^scenario
+DOC-001^|^20230101^|^sub-001^|^2023-01-01T12:00:00^|^CO-001^|^Order successful^|^0^|^Initial Setup
+DOC-002^|^20230102^|^sub-002^|^2023-01-02T13:00:00^|^CO-002^|^Sending Order Update^|^1^|^Update Process
+DOC-003^|^20230103^|^sub-003^|^2023-01-03T14:00:00^|^CO-003^|^Order canceled^|^2^|^Cancellation
+DOC-004^|^20230104^|^sub-004^|^2023-01-04T15:00:00^|^CO-004^|^Start of Construction Process^|^3^|^Construction Start
+DOC-005^|^20230105^|^sub-005^|^2023-01-05T16:00:00^|^CO-005^|^End of Construction Process^|^4^|^Construction End
+DOC-006^|^20230106^|^sub-006^|^2023-01-06T17:00:00^|^CO-006^|^Equipment already in use by another customer^|^-1^|^Error Handling
+DOC-007^|^20230107^|^sub-007^|^not-a-date^|^CO-007^|^Order successful^|^0^|^Regular Operation
+DOC-008^|^20230108^|^sub-008^|^2023-01-08T19:00:00^|^CO-008^|^Sending Order Update^|^1^|^Update Process
+DOC-009^|^20230109^|^sub-009^|^2023-01-09T20:00:00^|^CO-009^|^Order canceled^|^2^|^Cancellation
+DOC-010^|^20230110^|^sub-010^|^2023-01-10T21:00:00^|^CO-010^|^Start of Construction Process^|^3^|^Construction Start

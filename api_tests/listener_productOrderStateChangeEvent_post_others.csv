@@ -1,0 +1,11 @@
+subscriberId^|^date^|^code^|^description^|^statusCode^|^scenario
+123456789^|^2023-03-15T12:34:56^|^2^|^Ordem cancelada^|^200^|^Process Completed
+987654321^|^2023-03-15T12:35:00^|^0^|^Ordem encerrada com sucesso.^|^200^|^Success
+192837465^|^2023-03-15T12:35:05^|^1^|^Enviando Atualização de Ordem^|^300^|^Update Sent
+564738291^|^2023-03-15T12:35:10^|^3^|^Início do Processo de Obra^|^400^|^Process Started
+837465182^|^not a date^|^4^|^Término do Processo de Obra^|^500^|^Process Ended
+102938475^|^2023-03-15T12:35:20^|^invalid^|^Descrição inválida^|^600^|^Invalid Data
+293847561^|^2023-03-15T12:35:25^|^-1^|^O Equipamento já está em uso por outro cliente^|^700^|^Equipment Issue
+475869302^|^2023-03-15T12:35:30^|^2^|^Ordem cancelada^|^800^|^Cancellation Completed
+658471293^|^2023-03-15T12:35:35^|^0^|^Ordem encerrada com sucesso.^|^900^|^Success
+182736495^|^2023-03-15T12:35:40^|^1^|^Enviando Atualização de Ordem^|^1000^|^Update in Progress
