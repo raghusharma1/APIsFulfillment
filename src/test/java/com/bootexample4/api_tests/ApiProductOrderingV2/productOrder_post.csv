@@ -1,0 +1,4 @@
+payload,expectedResponse
+"read('examples/associate-cpe-order-fttp.json')","{""id"":""20230315000001"",""code"":""201"",""message"":""Created"",""type"":""S""}"
+"read('examples/installation-order-ftth.json')","{""id"":""20230315000002"",""code"":""201"",""message"":""Created"",""type"":""S""}"
+"read('examples/installation-order-fttp.json')","{""id"":""20230315000003"",""code"":""201"",""message"":""Created"",""type"":""S""}"
