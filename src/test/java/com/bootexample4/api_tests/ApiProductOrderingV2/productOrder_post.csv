@@ -1,0 +1,6 @@
+payload,expectedResponse
+"read('examples/Associate_CPE_Order_Type_FTTP.json')","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""#string""}}"
+"read('examples/Installation_Order_Type_FTTH.json')","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""#string""}}"
+"read('examples/Installation_Order_Type_FTTH_arising_from_a_address_change_flagged.json')","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""#string""}}"
+"read('examples/Installation_Order_Type_FTTH_with_partial_viability.json')","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""#string""}}"
+"read('examples/Partial_Block_Order_Type_FTTH.json')","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""#string""}}"
