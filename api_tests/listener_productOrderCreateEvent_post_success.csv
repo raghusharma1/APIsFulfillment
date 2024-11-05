@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^statusCode^|^scenario
+CUST1001^|^DOC1001^|^CORR1001^|^ID1001^|^0^|^ScenarioA
+CUST1002^|^DOC1002^|^CORR1002^|^ID1002^|^1^|^ScenarioB
+CUST1003^|^DOC1003^|^CORR1003^|^ID1003^|^2^|^ScenarioC
+CUST1004^|^DOC1004^|^CORR1004^|^ID1004^|^3^|^ScenarioD
+CUST1005^|^DOC1005^|^CORR1005^|^ID1005^|^4^|^ScenarioE
+CUST1006^|^DOC1006^|^CORR1006^|^ID1006^|^0^|^ScenarioF
+CUST1007^|^DOC1007^|^CORR1007^|^ID1007^|^1^|^ScenarioG
+CUST1008^|^DOC1008^|^CORR1008^|^ID1008^|^2^|^ScenarioH
+CUST1009^|^DOC1009^|^CORR1009^|^ID1009^|^3^|^ScenarioI
+CUST1010^|^DOC1010^|^CORR1010^|^ID1010^|^4^|^ScenarioJ
