@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^issueCode^|^description^|^statusCode^|^scenario
+1234567890^|^DOC-001^|^CORR-001^|^ID-001^|^7001^|^PendÃªncia Cancelamento por Duplicidade^|^0^|^Normal
+3421567890^|^DOC-002^|^CORR-002^|^ID-002^|^7004^|^PendÃªncia Agendamento Futuro Obra 7 dias^|^1^|^Urgent
+5647382910^|^DOC-003^|^CORR-003^|^ID-003^|^7010^|^PendÃªncia Equipamento Cliente^|^^|^Critical
+8790654321^|^DOC-004^|^CORR-004^|^ID-004^|^7031^|^PendÃªncia Agendamento^|^2^|^Normal
+0987654321^|^DOC-005^|^CORR-005^|^ID-005^|^7053^|^PendÃªncia de Aprovisionamento 5 dias^|^^|^Delayed
+2143658790^|^DOC-006^|^CORR-006^|^ID-006^|^7075^|^PendÃªncia Cancelamento por Inviabilidade TÃ©cnica^|^3^|^Normal
+6543217890^|^DOC-007^|^CORR-007^|^ID-007^|^7083^|^PendÃªncia Cliente NÃ£o Solicitou InstalaÃ§Ã£o^|^4^|^Urgent
+3216549870^|^DOC-008^|^CORR-008^|^ID-008^|^7090^|^PendÃªncia de Rede 3 dias^|^5^|^Critical
+1472583690^|^DOC-009^|^CORR-009^|^ID-009^|^7100^|^PendÃªncia Sem Contato Obra^|^6^|^Delayed
+9638527410^|^DOC-010^|^CORR-010^|^ID-010^|^7107^|^PendÃªncia de Rede 3 dias^||^|^Normal
