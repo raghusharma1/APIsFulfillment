@@ -1,0 +1,11 @@
+id^|^associatedDocument^|^correlationOrder^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+20230315000001^|^VTT001^|^10^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Nota sobre agendamento^|^PROJETO^|^Instalação^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^200^|^Projeto inicial
+20230315000002^|^VTT002^|^20^|^fechar^|^7030^|^Pendencia de agendamento^|^false^|^Observação genérica^|^MANUTENÇÃO^|^Verificação^|^TECNICA^|^2022-02-25T11:50:50.566-03:00^|^404^|^Manutenção urgente
+20230315000003^|^VTT003^|^30^|^redirecionar^|^7001^|^Pendência Agendamento Futuro Obra 7 dias^|^true^|^Outra observação^|^PROJETO^|^Revisão^|^CLIENTE^|^2021-03-15T09:20:30-03:00^|^500^|^Revisão de projeto
+20230315000004^|^VTT004^|^40^|^abrir^|^7021^|^Pendência Cliente Interrompe e Solicita nova data de Agendamento^|^false^|^Observação adicional^|^SERVIÇO^|^Troca^|^TECNICA^|^2022-04-25T13:45:50.123-03:00^|^200^|^Ajuste técnico
+20230315000005^|^VTT005^|^50^|^fechar^|^7031^|^Pendência Agendamento^|^true^|^Sem observações^|^CLIENTE^|^Conclusão^|^CLIENTE^|^2023-05-17T15:30:00-03:00^|^404^|^Conclusão de serviço
+20230315000006^|^VTT006^|^60^|^redirecionar^|^7029^|^Pendência Agendamento^|^false^|^Observação detalhada^|^PROJETO^|^Início^|^TECNICA^|^2021-06-21T11:00:50-03:00^|^500^|^Início de operações
+20230315000007^|^VTT007^|^70^|^abrir^|^7035^|^Pendência área de Risco Momentânea^|^true^|^Detalhes extras^|^RISCO^|^Avaliação^|^CLIENTE^|^2022-07-23T08:15:20-03:00^|^200^|^Avaliação de risco
+20230315000008^|^VTT008^|^80^|^fechar^|^7079^|^Pendência Acesso Impossibilitado^|^false^|^Comentário sobre acesso^|^ACESSO^|^Finalização^|^TECNICA^|^2023-08-19T10:40:30-03:00^|^404^|^Problemas de acesso
+20230315000009^|^VTT009^|^90^|^redirecionar^|^7047^|^Pendência Acesso Impossibilitado^|^true^|^Sem mais detalhes^|^SERVIÇO^|^Reagendamento^|^CLIENTE^|^2021-09-29T12:55:00-03:00^|^500^|^Reagendamento necessário
+20230315000010^|^VTT010^|^100^|^abrir^|^7067^|^Pendência Cancelamento por Área de Risco^|^false^|^Nota relevante^|^CANCELAMENTO^|^Cancelamento^|^TECNICA^|^2022-10-30T14:20:10-03:00^|^200^|^Cancelamento por risco

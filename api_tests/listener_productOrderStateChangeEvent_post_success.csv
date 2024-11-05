@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+123456789^|^2023-09-21T14:22:00-03:00^|^DOC12345^|^1^|^1001^|^Enviando Atualização de Ordem^|^202309210001^|^Processo^|^200^|^Atualização
+987654321^|^2023-09-21T15:00:00-03:00^|^DOC98765^|^2^|^1002^|^Ordem cancelada^|^202309210002^|^Cancelamento^|^404^|^Cancelamento
+234567890^|^2023-09-21T16:45:00-03:00^|^DOC23456^|^0^|^1003^|^Ordem encerrada com sucesso.^|^202309210003^|^Encerramento^|^200^|^Encerramento
+876543219^|^2023-09-21T17:30:00-03:00^|^DOC87654^|^3^|^1004^|^Início do Processo de Obra^|^202309210004^|^Início^|^201^|^Início de Obra
+345678901^|^2023-09-21T18:15:00-03:00^|^DOC34567^|^4^|^1005^|^Término do Processo de Obra^|^202309210005^|^Término^|^200^|^Término de Obra
+765432198^|^2023-09-21T19:00:00-03:00^|^DOC76543^|^1^|^1006^|^Enviando Atualização de Ordem^|^202309210006^|^Processo^|^202^|^Atualização
+456789012^|^2023-09-21T20:30:00-03:00^|^DOC45678^|^2^|^1007^|^Ordem cancelada^|^202309210007^|^Cancelamento^|^404^|^Cancelamento
+654321987^|^2023-09-21T21:00:00-03:00^|^DOC65432^|^0^|^1008^|^Ordem encerrada com sucesso.^|^202309210008^|^Encerramento^|^200^|^Encerramento
+567890123^|^2023-09-21T22:15:00-03:00^|^DOC56789^|^3^|^1009^|^Início do Processo de Obra^|^202309210009^|^Início^|^201^|^Início de Obra
+432198765^|^2023-09-21T23:45:00-03:00^|^DOC43219^|^4^|^1010^|^Término do Processo de Obra^|^202309210010^|^Término^|^200^|^Término de Obra
