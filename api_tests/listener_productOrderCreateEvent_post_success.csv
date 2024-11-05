@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^statusCode^|^scenario
+user001^|^DOC12345^|^1001^|^202310010001^|^1^|^ScenarioA
+user002^|^DOC12346^|^1002^|^202310010002^|^2^|^ScenarioB
+user003^|^DOC12347^|^1003^|^202310010003^|^3^|^ScenarioC
+user004^|^DOC12348^|^1004^|^202310010004^|^4^|^ScenarioD
+user005^|^DOC12349^|^1005^|^202310010005^|^0^|^ScenarioE
+user006^|^DOC12350^|^1006^|^202310010006^|^1^|^ScenarioF
+user007^|^DOC12351^|^1007^|^202310010007^|^2^|^ScenarioG
+user008^|^DOC12352^|^1008^|^202310010008^|^3^|^ScenarioH
+user009^|^DOC12353^|^1009^|^202310010009^|^4^|^ScenarioI
+user010^|^DOC12354^|^1010^|^202310010010^|^0^|^ScenarioJ
