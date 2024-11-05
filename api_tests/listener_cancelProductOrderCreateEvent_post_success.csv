@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^lostEquipment^|^statusCode^|^scenario
+user12345^|^VTT001^|^CO12345^|^abrir^|^1^|^Enviando Atualização de Ordem^|^True^|^Observation text here^|^Reason for order^|^Task related to order^|^CLIENTE^|^2023-09-21T14:25:00^|^False^|^200^|^Scenario description
+user12346^|^VTT002^|^CO12346^|^fechar^|^2^|^Ordem cancelada^|^False^|^Observation text here^|^Reason for order^|^Task related to order^|^TECNICA^|^2023-09-22T15:30:00^|^False^|^404^|^Scenario description
+user12347^|^VTT003^|^CO12347^|^redirecionar^|^3^|^Início do Processo de Obra^|^True^|^Observation text here^|^Reason for order^|^Task related to order^|^CLIENTE^|^2023-09-23T16:35:00^|^True^|^500^|^Scenario description
+user12348^|^VTT004^|^CO12348^|^abrir^|^4^|^Término do Processo de Obra^|^False^|^Observation text here^|^Reason for order^|^Task related to order^|^TECNICA^|^2023-09-24T17:40:00^|^False^|^200^|^Scenario description
+user12349^|^VTT005^|^CO12349^|^fechar^|^0^|^Ordem encerrada com sucesso^|^True^|^Observation text here^|^Reason for order^|^Task related to order^|^CLIENTE^|^2023-09-25T18:45:00^|^True^|^404^|^Scenario description
+user12350^|^VTT006^|^CO12350^|^redirecionar^|^-1^|^O Equipamento já está em uso por outro cliente^|^False^|^Observation text here^|^Reason for order^|^Task related to order^|^TECNICA^|^2023-09-26T19:50:00^|^False^|^500^|^Scenario description
+user12351^|^VTT007^|^CO12351^|^abrir^|^1^|^Enviando Atualização de Ordem^|^True^|^Observation text here^|^Reason for order^|^Task related to order^|^CLIENTE^|^2023-09-27T20:55:00^|^True^|^200^|^Scenario description
+user12352^|^VTT008^|^CO12352^|^fechar^|^2^|^Ordem cancelada^|^False^|^Observation text here^|^Reason for order^|^Task related to order^|^TECNICA^|^2023-09-28T21:00:00^|^False^|^404^|^Scenario description
+user12353^|^VTT009^|^CO12353^|^redirecionar^|^3^|^Início do Processo de Obra^|^True^|^Observation text here^|^Reason for order^|^Task related to order^|^CLIENTE^|^2023-09-29T22:05:00^|^True^|^500^|^Scenario description
+user12354^|^VTT010^|^CO12354^|^abrir^|^4^|^Término do Processo de Obra^|^False^|^Observation text here^|^Reason for order^|^Task related to order^|^TECNICA^|^2023-09-30T23:10:00^|^False^|^200^|^Scenario description
