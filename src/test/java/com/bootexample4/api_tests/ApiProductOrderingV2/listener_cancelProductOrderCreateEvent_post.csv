@@ -1,0 +1,2 @@
+requestBody
+"""{ "notification": { "order": { "associatedDocument": "VTT001", "id": "20230315000001" } } }"""
