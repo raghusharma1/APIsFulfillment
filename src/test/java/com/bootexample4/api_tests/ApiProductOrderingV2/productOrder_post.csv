@@ -1,0 +1,3 @@
+payload,expectedResponse
+"{""order"":{""associatedDocument"":""VTT001"",""type"":""AssociarCPE"",""infraType"":""FTTP""}}","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""}}"
+"{""order"":{""associatedDocument"":""VTT002"",""type"":""Instalacao"",""infraType"":""FTTH""}}","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""}}"
