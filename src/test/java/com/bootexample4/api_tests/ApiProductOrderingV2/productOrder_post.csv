@@ -1,0 +1,5 @@
+OrderType,payload,expectedResponse
+"Associate CPE Order Type FTTP","read('payloads/AssociateCPEOrderTypeFTTP.json')","{ control: { code: '201', message: 'Created', type: 'S' }, order: { id: '20230315000001' } }"
+"Installation Order Type FTTH","read('payloads/InstallationOrderTypeFTTH.json')","{ control: { code: '201', message: 'Created', type: 'S' }, order: { id: '20230315000002' } }"
+"Installation Order Type FTTH arising from a address change","read('payloads/InstallationOrderTypeFTTHChange.json')","{ control: { code: '201', message: 'Created', type: 'S' }, order: { id: '20230315000003' } }"
+"Partial Block Order Type FTTH","read('payloads/PartialBlockOrderTypeFTTH.json')","{ control: { code: '201', message: 'Created', type: 'S' }, order: { id: '20230315000004' } }"
