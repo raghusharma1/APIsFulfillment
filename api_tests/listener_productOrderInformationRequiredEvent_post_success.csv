@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^No issues observed.^|^PROJETO^|^Installation^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^0^|^Initial
+DOC002^|^1002^|^20230315000002^|^fechar^|^7030^|^Pendencia de rede^|^false^|^Resolved after adjustment.^|^MANUTENCAO^|^Repair^|^TECNICA^|^2022-02-25T11:50:50.566-03:00^|^1^|^Follow-up
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7015^|^Pendencia por desistencia do servico^|^true^|^Client cancelled last minute.^|^CANCELAMENTO^|^Cancellation^|^CLIENTE^|^2023-01-12T09:30:20.123-03:00^|^2^|^Cancellation
+DOC004^|^1004^|^20230315000004^|^abrir^|^7021^|^Pendencia cliente solicita nova data de agendamento^|^false^|^Awaiting client confirmation.^|^AGENDAMENTO^|^Reschedule^|^TECNICA^|^2022-07-15T14:22:30.456-03:00^|^3^|^Rescheduling
+DOC005^|^1005^|^20230315000005^|^fechar^|^7037^|^Pendencia impedimento de atividade por chuva^|^true^|^Delayed due to weather conditions.^|^CLIMA^|^Weather delay^|^CLIENTE^|^2021-04-10T16:25:40.789-03:00^|^4^|^Weather
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7042^|^Pendencia local fechado^|^false^|^Site was closed upon arrival.^|^ACESSO^|^Access issue^|^TECNICA^|^2023-02-28T12:35:50.012-03:00^|^1^|^Access
+DOC007^|^1007^|^20230315000007^|^abrir^|^7051^|^Pendencia de aprovisionamento 5 dias^|^true^|^Provisioning delay.^|^SUPRIMENTO^|^Supply chain^|^CLIENTE^|^2022-03-20T17:45:30.234-03:00^|^0^|^Supply
+DOC008^|^1008^|^20230315000008^|^fechar^|^7067^|^Pendencia cancelamento por area de risco^|^false^|^Area deemed too risky.^|^RISCO^|^Risk assessment^|^TECNICA^|^2021-06-18T18:55:20.345-03:00^|^3^|^Risk
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7079^|^Pendencia acesso impossibilitado^|^true^|^Access to the site was impossible.^|^ACESSO^|^No access^|^CLIENTE^|^2022-05-22T20:05:10.456-03:00^|^2^|^No Access
+DOC010^|^1010^|^20230315000010^|^abrir^|^7083^|^Pendencia cliente nao solicitou instalacao^|^false^|^Client did not request installation.^|^INSTALACAO^|^Installation not requested^|^TECNICA^|^2023-03-01T21:15:00.567-03:00^|^4^|^No Installation
