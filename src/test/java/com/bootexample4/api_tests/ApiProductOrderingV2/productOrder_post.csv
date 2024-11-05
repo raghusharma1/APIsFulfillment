@@ -1,0 +1,3 @@
+requestBody,expectedResponse
+"{""product"":""Book"",""quantity"":""1""}","{""status"":""success""}"
+"{""product"":""Laptop"",""quantity"":""2""}","{""status"":""success""}"
