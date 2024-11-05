@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20231015000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task details^|^CLIENTE^|^2023-10-15T10:30:00-03:00^|^1^|^Scenario A
+DOC002^|^1002^|^20231015000002^|^fechar^|^7030^|^Pendencia de rede 3 dias^|^false^|^No specific observations^|^MANUTENCAO^|^Task details^|^TECNICA^|^2023-10-15T11:00:00-03:00^|^2^|^Scenario B
+DOC003^|^1003^|^20231015000003^|^redirecionar^|^7001^|^Pendencia Cancelamento por Duplicidade^|^true^|^Checked and confirmed^|^SERVICO^|^Task details^|^CLIENTE^|^2023-10-15T12:00:00-03:00^|^3^|^Scenario C
+DOC004^|^1004^|^20231015000004^|^abrir^|^7008^|^Pendencia por inviabilidade tecnica^|^false^|^Needs further review^|^DESENVOLVIMENTO^|^Task details^|^TECNICA^|^2023-10-15T13:00:00-03:00^|^4^|^Scenario D
+DOC005^|^1005^|^20231015000005^|^fechar^|^7010^|^Pendencia Equipamento Cliente^|^true^|^All equipment checked^|^LOGISTICA^|^Task details^|^CLIENTE^|^2023-10-15T14:00:00-03:00^|^0^|^Scenario E
+DOC006^|^1006^|^20231015000006^|^redirecionar^|^7021^|^Pendencia Cliente Interrompe e Solicita nova data de Agendamento^|^false^|^Appointment rescheduled^|^ATENDIMENTO^|^Task details^|^TECNICA^|^2023-10-15T15:00:00-03:00^|^1^|^Scenario F
+DOC007^|^1007^|^20231015000007^|^abrir^|^7031^|^Pendencia Agendamento^|^true^|^To be scheduled^|^PROJETO^|^Task details^|^CLIENTE^|^2023-10-15T16:00:00-03:00^|^2^|^Scenario G
+DOC008^|^1008^|^20231015000008^|^fechar^|^7035^|^Pendencia area de Risco Momentanea^|^false^|^Area marked as risky^|^SEGURANCA^|^Task details^|^TECNICA^|^2023-10-15T17:00:00-03:00^|^3^|^Scenario H
+DOC009^|^1009^|^20231015000009^|^redirecionar^|^7042^|^Pendencia Local Fechado^|^true^|^Site was closed upon arrival^|^LOGISTICA^|^Task details^|^CLIENTE^|^2023-10-15T18:00:00-03:00^|^4^|^Scenario I
+DOC010^|^1010^|^20231015000010^|^abrir^|^7047^|^Pendencia Acesso Impossibilitado^|^false^|^Access denied by property^|^ATENDIMENTO^|^Task details^|^TECNICA^|^2023-10-15T19:00:00-03:00^|^0^|^Scenario J
