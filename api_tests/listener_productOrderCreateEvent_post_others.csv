@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^description^|^statusCode^|^scenario
+12345^|^DOC001^|^CORR10^|^20230101^|^1^|^Order Successful^|^200^|^Standard Process
+22345^|^DOC002^|^CORR20^|^20230102^|^2^|^Order Cancelled^|^400^|^Cancellation
+32345^|^DOC003^|^CORR30^|^20230103^|^3^|^Starting Construction^|^202^|^Construction Start
+42345^|^DOC004^|^CORR40^|^20230104^|^4^|^Construction Completed^|^203^|^Construction End
+52345^|^DOC005^|^CORR50^|^20230105^|^0^|^Order Closed^|^204^|^Closure
+62345^|^DOC006^|^CORR60^|^20230106^|^1^|^Sending Order Update^|^205^|^Update Process
+72345^|^DOC007^|^CORR70^|^20230107^|^-1^|^Equipment in Use^|^206^|^Error Handling
+82345^|^DOC008^|^CORR80^|^20230108^|^2^|^Order Cancelled^|^207^|^Cancellation
+92345^|^DOC009^|^CORR90^|^20230109^|^3^|^Starting Construction^|^208^|^Construction Start
+102345^|^DOC010^|^CORR100^|^20230110^|^4^|^Construction Completed^|^209^|^Construction End

@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^code^|^description^|^action^|^statusCode^|^scenario
+1234567890^|^DOC-001^|^1^|^Ordem encerrada com sucesso^|^abrir^|^200^|^Normal
+9876543210^|^DOC-002^|^2^|^Ordem cancelada^|^fechar^|^404^|^Urgent
+1234509876^|^DOC-003^|^3^|^Início do Processo de Obra^|^redirecionar^|^500^|^High Priority
+0987654321^|^DOC-004^|^-1^|^O Equipamento já está em uso por outro cliente^|^abrir^|^403^|^Maintenance
+1112131415^|^DOC-005^|^4^|^Término do Processo de Obra^|^fechar^|^201^|^Scheduled
+1617181920^|^DOC-006^|^0^|^Ordem encerrada com sucesso^|^redirecionar^|^202^|^Normal
+2223242526^|^DOC-007^|^1^|^Enviando Atualização de Ordem^|^abrir^|^203^|^Update
+2728293031^|^DOC-008^|^2^|^Ordem cancelada^|^fechar^|^204^|^Cancellation
+3233343536^|^DOC-009^|^3^|^Início do Processo de Obra^|^redirecionar^|^205^|^Initiation
+3738394041^|^DOC-010^|^-1^|^O Equipamento já está em uso por outro cliente^|^abrir^|^206^|^Conflict
