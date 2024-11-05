@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^action^|^statusCode^|^scenario
+Cust001^|^DOC1001^|^20230001^|^1^|^Enviando Atualização de Ordem^|^abrir^|^200^|^Scenario1
+Cust002^|^DOC1002^|^20230002^|^2^|^Ordem cancelada^|^fechar^|^404^|^Scenario2
+Cust003^|^DOC1003^|^20230003^|^3^|^Início do Processo de Obra^|^redirecionar^|^500^|^Scenario3
+Cust004^|^DOC1004^|^20230004^|^4^|^Término do Processo de Obra^|^abrir^|^200^|^Scenario4
+Cust005^|^DOC1005^|^20230005^|^0^|^Ordem encerrada com sucesso^|^fechar^|^404^|^Scenario5
+Cust006^|^DOC1006^|^20230006^|^1^|^Enviando Atualização de Ordem^|^redirecionar^|^500^|^Scenario6
+Cust007^|^DOC1007^|^20230007^|^2^|^Ordem cancelada^|^abrir^|^200^|^Scenario7
+Cust008^|^DOC1008^|^20230008^|^3^|^Início do Processo de Obra^|^fechar^|^404^|^Scenario8
+Cust009^|^DOC1009^|^20230009^|^4^|^Término do Processo de Obra^|^redirecionar^|^500^|^Scenario9
+Cust010^|^DOC1010^|^20230010^|^0^|^Ordem encerrada com sucesso^|^abrir^|^200^|^Scenario10
