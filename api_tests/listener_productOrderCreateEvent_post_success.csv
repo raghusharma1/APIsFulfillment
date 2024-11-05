@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^statusCode^|^scenario
+user001^|^DOC1234^|^1001^|^202310010001^|^1^|^Normal Operation
+user002^|^DOC1235^|^1002^|^202310010002^|^2^|^Update Required
+user003^|^DOC1236^|^1003^|^202310010003^|^3^|^System Check
+user004^|^DOC1237^|^1004^|^202310010004^|^4^|^Maintenance
+user005^|^DOC1238^|^1005^|^202310010005^|^0^|^Operation Complete
+user006^|^DOC1239^|^1006^|^202310010006^|^1^|^Normal Operation
+user007^|^DOC1240^|^1007^|^202310010007^|^2^|^Update Required
+user008^|^DOC1241^|^1008^|^202310010008^|^3^|^System Check
+user009^|^DOC1242^|^1009^|^202310010009^|^4^|^Maintenance
+user010^|^DOC1243^|^1010^|^202310010010^|^0^|^Operation Complete

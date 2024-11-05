@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+123456789^|^2023-09-21T14:22:00^|^DOC001^|^1^|^100^|^Order received and processed^|^202309210001^|^Processing^|^200^|^Standard
+987654321^|^2023-09-21T15:30:00^|^DOC002^|^2^|^101^|^Order cancelled^|^202309210002^|^Cancellation^|^404^|^Urgent
+234567890^|^2023-09-21T16:45:00^|^DOC003^|^3^|^102^|^Order processing started^|^202309210003^|^Initiation^|^202^|^High Priority
+876543210^|^2023-09-21T17:00:00^|^DOC004^|^0^|^103^|^Order successfully completed^|^202309210004^|^Completion^|^200^|^Standard
+345678901^|^2023-09-21T18:15:00^|^DOC005^|^1^|^104^|^Order received and processed^|^202309210005^|^Processing^|^200^|^Normal
+765432109^|^2023-09-21T19:30:00^|^DOC006^|^2^|^105^|^Order cancelled^|^202309210006^|^Cancellation^|^404^|^Urgent
+456789012^|^2023-09-21T20:45:00^|^DOC007^|^3^|^106^|^Order processing started^|^202309210007^|^Initiation^|^202^|^High Priority
+654321098^|^2023-09-21T21:00:00^|^DOC008^|^0^|^107^|^Order successfully completed^|^202309210008^|^Completion^|^200^|^Standard
+567890123^|^2023-09-21T22:15:00^|^DOC009^|^1^|^108^|^Order received and processed^|^202309210009^|^Processing^|^200^|^Normal
+432109876^|^2023-09-21T23:30:00^|^DOC010^|^2^|^109^|^Order cancelled^|^202309210010^|^Cancellation^|^404^|^Urgent

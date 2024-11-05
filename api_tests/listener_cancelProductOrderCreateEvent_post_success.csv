@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^statusCode^|^scenario
+USR123456789^|^DOC001^|^ORD20230001^|^1^|^Enviando Atualização de Ordem^|^Active^|^Update
+USR987654321^|^DOC002^|^ORD20230002^|^2^|^Ordem cancelada^|^Cancelled^|^Cancellation
+USR192837465^|^DOC003^|^ORD20230003^|^3^|^Início do Processo de Obra^|^InProgress^|^Construction
+USR564738291^|^DOC004^|^ORD20230004^|^4^|^Término do Processo de Obra^|^Completed^|^Completion
+USR475869123^|^DOC005^|^ORD20230005^|^0^|^Ordem encerrada com sucesso^|^Closed^|^Success
+USR384756192^|^DOC006^|^ORD20230006^|^1^|^Enviando Atualização de Ordem^|^Active^|^Update
+USR678945312^|^DOC007^|^ORD20230007^|^2^|^Ordem cancelada^|^Cancelled^|^Cancellation
+USR234567891^|^DOC008^|^ORD20230008^|^3^|^Início do Processo de Obra^|^InProgress^|^Construction
+USR345678912^|^DOC009^|^ORD20230009^|^4^|^Término do Processo de Obra^|^Completed^|^Completion
+USR456789123^|^DOC010^|^ORD20230010^|^0^|^Ordem encerrada com sucesso^|^Closed^|^Success
