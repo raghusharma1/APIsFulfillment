@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+123456789^|^2023-09-21T14:22:00-03:00^|^DOC12345^|^1^|^1001^|^Order successfully completed^|^202309210001^|^Completion^|^200^|^Standard
+987654321^|^2023-09-21T15:35:10-03:00^|^DOC67890^|^2^|^1002^|^Order cancelled^|^202309210002^|^Cancellation^|^404^|^Urgent
+234567890^|^2023-09-21T16:45:25-03:00^|^DOC54321^|^0^|^1003^|^Order closed successfully^|^202309210003^|^Closure^|^200^|^Standard
+876543219^|^2023-09-21T17:55:40-03:00^|^DOC09876^|^3^|^1004^|^Process started^|^202309210004^|^Initiation^|^200^|^Delayed
+345678901^|^2023-09-21T18:05:55-03:00^|^DOC13579^|^4^|^1005^|^Process completed^|^202309210005^|^Completion^|^200^|^Standard
+765432198^|^2023-09-21T19:16:10-03:00^|^DOC24680^|^1^|^1006^|^Order successfully completed^|^202309210006^|^Completion^|^200^|^Urgent
+456789012^|^2023-09-21T20:26:25-03:00^|^DOC97531^|^2^|^1007^|^Order cancelled^|^202309210007^|^Cancellation^|^404^|^Delayed
+654321987^|^2023-09-21T21:36:40-03:00^|^DOC86420^|^0^|^1008^|^Order closed successfully^|^202309210008^|^Closure^|^200^|^Standard
+567890123^|^2023-09-21T22:46:55-03:00^|^DOC75319^|^3^|^1009^|^Process started^|^202309210009^|^Initiation^|^200^|^Urgent
+432198765^|^2023-09-21T23:57:10-03:00^|^DOC64218^|^4^|^1010^|^Process completed^|^202309210010^|^Completion^|^200^|^Delayed
