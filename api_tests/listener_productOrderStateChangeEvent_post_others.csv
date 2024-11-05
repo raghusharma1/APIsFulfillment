@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+89233456789^|^2023-09-15T12:45:00^|^DOC12345^|^2^|^15^|^Order canceled^|^202309150001^|^Cancellation^|^400^|^Standard
+12345678901^|^2023-09-16T08:30:25^|^DOC12346^|^0^|^16^|^Order completed successfully^|^202309160002^|^Completion^|^200^|^Urgent
+23456789012^|^2023-09-17T14:20:10^|^DOC12347^|^1^|^17^|^Sending Order Update^|^202309170003^|^Update^|^202^|^Standard
+34567890123^|^2023-09-18T09:55:45^|^DOC12348^|^-1^|^18^|^Equipment already in use by another client^|^202309180004^|^Error^|^409^|^High Priority
+45678901234^|^2023-09-19T17:45:30^|^DOC12349^|^3^|^19^|^Beginning of Construction Process^|^202309190005^|^Start^|^102^|^Standard
+56789012345^|^2023-09-20T11:10:55^|^DOC12350^|^4^|^20^|^End of Construction Process^|^202309200006^|^End^|^201^|^Delayed
+67890123456^|^2023-09-21T22:30:00^|^DOC12351^|^2^|^21^|^Order canceled^|^202309210007^|^Cancellation^|^400^|^Urgent
+78901234567^|^2023-09-22T13:45:15^|^DOC12352^|^banana^|^22^|^Invalid code entry^|^202309220008^|^Error^|^422^|^Standard
+89012345678^|^2023-09-23T07:25:40^|^DOC12353^|^0^|^23^|^Order completed successfully^|^202309230009^|^Completion^|^200^|^High Priority
+90123456789^|^2023-09-24T19:50:05^|^DOC12354^|^1^|^24^|^Sending Order Update^|^202309240010^|^Update^|^202^|^Delayed
