@@ -1,0 +1,2 @@
+order_Id,body,expected_response
+"20230315000001","""{ "order": { "associatedDocument": "VTT001", "customer": { "subscriberId": "SVTAL001" } }}""","""{ "control": { "code": "200", "message": "OK", "type": "S" }}"""
