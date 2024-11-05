@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+USR1001^|^DOC2001^|^ORD3001^|^ID4001^|^abrir^|^1^|^Início do Processo de Obra^|^True^|^Observation details here^|^Reason for action^|^Task detail^|^CLIENTE^|^2023-03-15T00:00:01^|^200^|^Normal operation
+USR1002^|^DOC2002^|^ORD3002^|^ID4002^|^fechar^|^3^|^Término do Processo de Obra^|^False^|^Detailed observation^|^Detailed reason for the task^|^Specific task^|^TECNICA^|^2023-03-15T00:00:02^|^404^|^Critical issue
+USR1003^|^DOC2003^|^ORD3003^|^ID4003^|^redirecionar^|^0^|^Ordem encerrada com sucesso^|^True^|^Observation about the process^|^Reason for the delay^|^Task in progress^|^CLIENTE^|^2023-03-15T00:00:03^|^500^|^Update required
+USR1004^|^DOC2004^|^ORD3004^|^ID4004^|^abrir^|^2^|^Ordem cancelada^|^False^|^Observation for future reference^|^Reason for cancellation^|^Pending task^|^TECNICA^|^2023-03-15T00:00:04^|^301^|^Maintenance
+USR1005^|^DOC2005^|^ORD3005^|^ID4005^|^fechar^|^4^|^Equipamento já está em uso por outro cliente^|^True^|^Final observations^|^Reason for closure^|^Task completed^|^CLIENTE^|^2023-03-15T00:00:05^|^202^|^Normal operation
+USR1006^|^DOC2006^|^ORD3006^|^ID4006^|^redirecionar^|^1^|^Enviando Atualização de Ordem^|^False^|^Initial observation^|^Reason for redirection^|^Task redirected^|^TECNICA^|^2023-03-15T00:00:06^|^403^|^Update required
+USR1007^|^DOC2007^|^ORD3007^|^ID4007^|^abrir^|^3^|^Término do Processo de Obra^|^True^|^Observation on procedure^|^Reason for opening^|^Task resumed^|^CLIENTE^|^2023-03-15T00:00:07^|^200^|^Normal operation
+USR1008^|^DOC2008^|^ORD3008^|^ID4008^|^fechar^|^0^|^Ordem encerrada com sucesso^|^False^|^Detailed final observation^|^Reason for successful closure^|^Final task^|^TECNICA^|^2023-03-15T00:00:08^|^404^|^Critical issue
+USR1009^|^DOC2009^|^ORD3009^|^ID4009^|^redirecionar^|^2^|^Ordem cancelada^|^True^|^Observation for record^|^Reason for order cancellation^|^Task cancelled^|^CLIENTE^|^2023-03-15T00:00:09^|^500^|^Update required
+USR1010^|^DOC2010^|^ORD3010^|^ID4010^|^abrir^|^4^|^Equipamento já está em uso por outro cliente^|^False^|^Observation on equipment usage^|^Reason for equipment issue^|^Task on hold^|^TECNICA^|^2023-03-15T00:00:10^|^301^|^Maintenance

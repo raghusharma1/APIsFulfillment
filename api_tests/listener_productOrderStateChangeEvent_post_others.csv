@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+89233456789^|^2023-01-15T12:45:30-03:00^|^VTT002^|^2^|^20^|^Ordem cancelada^|^20230315000002^|^Cancelamento^|^200^|^Normal
+123456789^|^2023-03-20T09:12:49-03:00^|^VTT003^|^0^|^30^|^Ordem encerrada com sucesso.^|^20230315000003^|^Encerramento^|^200^|^Normal
+abcdef12345^|^2023-02-10T14:03:10-03:00^|^VTT004^|^1^|^40^|^Enviando Atualização de Ordem^|^20230315000004^|^Atualização^|^200^|^Normal
+234567654^|^2021-09-29T18:42:24.641-03:00^|^VTT001^|^2^|^10^|^Ordem cancelada^|^20230315000001^|^Cancelamento^|^500^|^Error
+555666777^|^2020-12-16T10:09:31-03:00^|^VTT005^|^0^|^50^|^Ordem encerrada com sucesso.^|^20230315000005^|^Encerramento^|^200^|^Normal
+9988776655^|^2022-12-26T12:15:35.174-03:00^|^VTT006^|^0^|^60^|^BA de campo encerrado com sucesso^|^20230315000006^|^Encerramento^|^200^|^Normal
+12345^|^2021-10-26T17:53:25.497-03:00^|^VTT007^|^-1^|^70^|^O Equipamento já está em uso por outro cliente^|^20230315000007^|^Encerramento^|^200^|^Normal
+777888999^|^2023-03-01T11:22:33-03:00^|^VTT008^|^4^|^80^|^Término do Processo de Obra^|^20230315000008^|^Encerramento^|^200^|^Normal
+0102030405^|^2023-03-03T13:14:15-03:00^|^VTT009^|^3^|^90^|^Início do Processo de Obra^|^20230315000009^|^Início^|^200^|^Normal
+666777888^|^2023-03-05T15:16:17-03:00^|^VTT010^|^1^|^100^|^Enviando Atualização de Ordem^|^20230315000010^|^Atualização^|^200^|^Normal

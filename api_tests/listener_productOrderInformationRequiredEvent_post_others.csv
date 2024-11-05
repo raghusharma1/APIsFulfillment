@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+2023-01-10T10:30:00-05:00^|^VTT001-10^|^Aberto^|^0^|^Normal
+2023-02-15T15:45:00-05:00^|^VTT002-15^|^Fechado^|^1^|^Urgente
+2023-03-20T12:00:00-05:00^|^VTT003-20^|^Redirecionado^|^2^|^Follow-up
+2023-04-25T09:25:00-05:00^|^VTT004-25^|^Aberto^|^3^|^Normal
+2023-05-30T14:05:00-05:00^|^VTT005-30^|^Fechado^|^4^|^Critico
+2023-06-18T16:10:00-05:00^|^VTT006-18^|^Redirecionado^|^banana^|^Urgente
+2023-07-22T11:55:00-05:00^|^VTT007-22^|^abrir^|^-1^|^Normal
+2023-08-15T13:35:00-05:00^|^VTT008-15^|^fechar^|^0^|^Follow-up
+2023-09-10T17:45:00-05:00^|^VTT009-10^|^redirecionar^|^1^|^Critico
+2023-10-05T08:20:00-05:00^|^VTT010-05^|^abrir^|^2^|^Urgente
