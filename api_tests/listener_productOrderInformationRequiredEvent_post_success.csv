@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^No issues observed.^|^PROJETO^|^Installation^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^0^|^Initial
+DOC002^|^1002^|^20230315000002^|^fechar^|^7030^|^Pendencia de rede^|^false^|^Resolved after adjustment.^|^MANUTENCAO^|^Repair^|^TECNICA^|^2022-02-25T11:50:50-03:00^|^1^|^Follow-up
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7021^|^Cliente solicita nova data^|^true^|^Date rescheduled.^|^CLIENTE^|^Rescheduling^|^CLIENTE^|^2023-01-12T09:15:30-03:00^|^2^|^Reschedule
+DOC004^|^1004^|^20230315000004^|^abrir^|^7031^|^Agendamento confirmado^|^false^|^Confirmed for next week.^|^SERVICO^|^Confirmation^|^TECNICA^|^2023-03-05T13:22:10-03:00^|^3^|^Confirmation
+DOC005^|^1005^|^20230315000005^|^fechar^|^7029^|^Pendencia por chuva^|^true^|^Postponed due to weather.^|^CLIMA^|^Postponement^|^CLIENTE^|^2023-03-10T16:45:00-03:00^|^4^|^Weather Delay
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7035^|^Area de risco momentanea^|^false^|^Area marked as risky.^|^SEGURANCA^|^Risk Assessment^|^TECNICA^|^2022-11-23T12:00:00-03:00^|^0^|^Risk
+DOC007^|^1007^|^20230315000007^|^abrir^|^7047^|^Acesso impossibilitado^|^true^|^Access denied by property.^|^ACESSO^|^Denied Entry^|^CLIENTE^|^2022-07-18T14:30:50-03:00^|^1^|^Access Issue
+DOC008^|^1008^|^20230315000008^|^fechar^|^7065^|^Local fechado^|^false^|^Site was closed upon arrival.^|^LOCAL^|^Closure^|^TECNICA^|^2022-08-19T17:00:00-03:00^|^2^|^Site Closed
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7079^|^Acesso impossibilitado^|^true^|^Access temporarily blocked.^|^OBRA^|^Blocked Access^|^CLIENTE^|^2022-09-15T11:00:00-03:00^|^3^|^Blocked
+DOC010^|^1010^|^20230315000010^|^abrir^|^7095^|^Agendamento nao cumprido^|^false^|^Appointment missed.^|^CLIENTE^|^Missed Appointment^|^TECNICA^|^2022-10-22T08:30:00-03:00^|^4^|^No Show
