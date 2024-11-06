@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+alert^|^VTT001^|^Pendência Cancelamento por Duplicidade^|^0^|^CLIENTE
+warning^|^VTT002^|^Pendência Agendamento Futuro Obra 7 dias^|^1^|^TECNICA
+error^|^VTT003^|^Pendência de Aprovisionamento 5 dias^|^2^|^CLIENTE
+update^|^VTT004^|^Pendência Cancelamento por Inviabilidade Técnica^|^3^|^TECNICA
+info^|^VTT005^|^Pendência Equipamento Cliente^|^4^|^CLIENTE
+critical^|^VTT006^|^Pendência Agendamento^|^0^|^TECNICA
+notice^|^VTT007^|^Pendência Cliente Ausente^|^1^|^CLIENTE
+success^|^VTT008^|^Pendência Cliente Solicita nova data de Agendamento^|^2^|^TECNICA
+failure^|^VTT009^|^Pendência de Rede 3 dias^|^3^|^CLIENTE
+reminder^|^VTT010^|^Pendência Agendamento^|^4^|^TECNICA
