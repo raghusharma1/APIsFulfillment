@@ -1,0 +1,11 @@
+order^|^associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^type^|^infraType^|^subscriberId^|^businessUnity^|^fantasyName^|^name^|^phoneNumber^|^statusCode^|^scenario
+1^|^DOC123^|^2023-01-15T14:00:00-03:00^|^101^|^Instalacao^|^FTTH^|^SUB001^|^empresarial^|^FastNet Services^|^NetCom Ltd^|^1234567890^|^active^|^scenarioA
+2^|^DOC124^|^2023-02-16T15:00:00-03:00^|^102^|^Retirada^|^FTTP^|^SUB002^|^varejo^|^SkyHigh Networks^|^Sky Services^|^2345678901^|^inactive^|^scenarioB
+3^|^DOC125^|^2023-03-17T16:00:00-03:00^|^103^|^Bloqueio^|^FTTH^|^SUB003^|^empresarial^|^CloudNet Solutions^|^Cloud Services^|^3456789012^|^pending^|^scenarioC
+4^|^DOC126^|^2023-04-18T17:00:00-03:00^|^104^|^Desbloqueio^|^FTTP^|^SUB004^|^varejo^|^TowerNet^|^Tower Communications^|^4567890123^|^active^|^scenarioD
+5^|^DOC127^|^2023-05-19T18:00:00-03:00^|^105^|^AssociarCPE^|^FTTH^|^SUB005^|^empresarial^|^BridgeNet^|^Bridge Solutions^|^5678901234^|^inactive^|^scenarioE
+6^|^DOC128^|^2023-06-20T19:00:00-03:00^|^106^|^Modificacao de Velocidade^|^FTTP^|^SUB006^|^varejo^|^QuantumNet^|^Quantum Services^|^6789012345^|^pending^|^scenarioF
+7^|^DOC129^|^2023-07-21T20:00:00-03:00^|^107^|^RemanejamentoPonto^|^FTTH^|^SUB007^|^empresarial^|^OrbitNet^|^Orbit Solutions^|^7890123456^|^active^|^scenarioG
+8^|^DOC130^|^2023-08-22T21:00:00-03:00^|^108^|^Instalacao^|^FTTP^|^SUB008^|^varejo^|^NexusNet^|^Nexus Services^|^8901234567^|^inactive^|^scenarioH
+9^|^DOC131^|^2023-09-23T22:00:00-03:00^|^109^|^Retirada^|^FTTH^|^SUB009^|^empresarial^|^VertexNet^|^Vertex Solutions^|^9012345678^|^active^|^scenarioI
+10^|^DOC132^|^2023-10-24T23:00:00-03:00^|^110^|^Bloqueio^|^FTTP^|^SUB010^|^varejo^|^HorizonNet^|^Horizon Services^|^0123456789^|^inactive^|^scenarioJ
