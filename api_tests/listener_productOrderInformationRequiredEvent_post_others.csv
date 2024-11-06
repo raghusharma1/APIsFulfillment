@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC12345^|^1001^|^20231001001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^No details^|^PROJETO^|^Install^|^CLIENTE^|^2023-10-01T10:00:00-03:00^|^1^|^Initial
+DOC54321^|^1002^|^20231001002^|^fechar^|^7031^|^Pendencia de rede^|^false^|^Completed^|^MANUTENCAO^|^Check^|^TECNICA^|^2023-10-01T11:30:00-03:00^|^2^|^Follow-up
+DOC67890^|^1003^|^20231001003^|^redirecionar^|^7035^|^Area de risco momentanea^|^true^|^Delayed due to risk^|^SEGURANCA^|^Survey^|^CLIENTE^|^2023-10-01T12:45:00-03:00^|^3^|^Risk assessment
+DOC10112^|^1004^|^20231001004^|^abrir^|^7037^|^Impedimento por chuva^|^false^|^Rain delay^|^CLIMA^|^Repair^|^TECNICA^|^2023-10-01T14:00:00-03:00^|^4^|^Weather issue
+DOC13141^|^1005^|^20231001005^|^fechar^|^7030^|^Pendencia de rede 3 dias^|^true^|^Network issues^|^TECNICO^|^Maintenance^|^TECNICA^|^2023-10-01T15:15:00-03:00^|^0^|^Routine check
+DOC51617^|^1006^|^20231001006^|^redirecionar^|^7021^|^Cliente solicita nova data^|^false^|^Rescheduled^|^CLIENTE^|^Setup^|^CLIENTE^|^2023-10-01T16:30:00-03:00^|^-1^|^Rescheduling
+DOC71819^|^1007^|^20231001007^|^abrir^|^7047^|^Acesso impossibilitado^|^true^|^Access denied^|^SEGURANCA^|^Installation^|^TECNICA^|^2023-10-01T17:45:00-03:00^|^1^|^Access issue
+DOC92021^|^1008^|^20231001008^|^fechar^|^7029^|^Pendencia agendamento^|^false^|^Appointment set^|^OPERACIONAL^|^Review^|^CLIENTE^|^2023-10-01T19:00:00-03:00^|^2^|^Appointment
+DOC11223^|^1009^|^20231001009^|^redirecionar^|^7076^|^Cancelamento e reemissao^|^true^|^Cancellation^|^ADMINISTRATIVO^|^Cancellation^|^TECNICA^|^2023-10-01T20:15:00-03:00^|^3^|^Cancellation process
+DOC31425^|^1010^|^20231001010^|^abrir^|^7095^|^Agendamento nao cumprido^|^false^|^No show^|^CLIENTE^|^Assessment^|^CLIENTE^|^2023-10-01T21:30:00-03:00^|^4^|^No-show follow-up
