@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Client Issue^|^200^|^Test Case 1
+Disabled^|^54321^|^Technical Issue^|^404^|^Test Case 2
+On^|^11223^|^Client Issue^|^500^|^Test Case 3
+Off^|^99881^|^Pendencia de agendamento^|^301^|^Test Case 4
+Enabled^|^77812^|^abrir^|^202^|^Scenario 5
+Active^|^66090^|^redirecionar^|^403^|^Scenario 6
+Yes^|^33122^|^Pendencia de agendamento^|^200^|^Scenario 7
+No^|^44299^|^Cliente Issue^|^503^|^Test Case 8
+True^|^55311^|^Technical Issue^|^400^|^Scenario 9
+False^|^11972^|^Client Issue^|^204^|^Test Case 10
