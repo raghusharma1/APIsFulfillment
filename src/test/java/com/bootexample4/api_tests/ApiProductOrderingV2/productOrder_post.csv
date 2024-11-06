@@ -1,0 +1,3 @@
+requestBody,expectedResponse
+"{""id"":1,""name"":""Product A""}","{""status"":""success""}"
+"{""id"":2,""name"":""Product B""}","{""status"":""success""}"

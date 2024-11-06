@@ -1,0 +1,2 @@
+body
+"{"event":"ProductOrderInformationRequired","details":{"orderId":"1234","productCode":"XYZ"}}"
