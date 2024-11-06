@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+89233456789^|^2023-01-15T12:45:30.123-03:00^|^DOC123^|^2^|^15^|^Ordem cancelada^|^20230315000001^|^Cancelamento^|^200^|^Standard
+12345678901^|^2023-02-20T08:30:00.456-03:00^|^DOC124^|^0^|^16^|^Ordem encerrada com sucesso.^|^20230315000002^|^Encerramento^|^200^|^High Priority
+23456789012^|^2023-03-25T10:00:30.789-03:00^|^DOC125^|^1^|^17^|^Enviando Atualização de Ordem^|^20230315000003^|^Atualização^|^500^|^Standard
+34567890123^|^2023-04-30T15:45:30.012-03:00^|^DOC126^|^3^|^18^|^Início do Processo de Obra^|^20230315000004^|^Início Obra^|^200^|^Low Priority
+45678901234^|^2023-05-05T20:30:30.234-03:00^|^DOC127^|^4^|^19^|^Término do Processo de Obra^|^20230315000005^|^Término Obra^|^404^|^Standard
+56789012345^|^2023-06-10T22:15:30.345-03:00^|^DOC128^|^-1^|^20^|^O Equipamento já está em uso por outro cliente^|^20230315000006^|^Erro^|^200^|^High Risk
+67890123456^|^2023-07-15T11:45:30.456-03:00^|^DOC129^|^2^|^21^|^Ordem cancelada^|^20230315000007^|^Cancelamento^|^200^|^Standard
+78901234567^|^2023-08-20T13:30:30.567-03:00^|^DOC130^|^0^|^22^|^Ordem encerrada com sucesso.^|^20230315000008^|^Encerramento^|^200^|^High Priority
+89012345678^|^2023-09-25T09:00:30.678-03:00^|^DOC131^|^1^|^23^|^Enviando Atualização de Ordem^|^20230315000009^|^Atualização^|^500^|^Standard
+90123456789^|^2023-10-30T14:45:30.789-03:00^|^DOC132^|^3^|^24^|^Início do Processo de Obra^|^20230315000010^|^Início Obra^|^200^|^Low Priority
