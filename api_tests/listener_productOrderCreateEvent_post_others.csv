@@ -1,0 +1,11 @@
+date^|^associatedDocument^|^correlationOrder^|^id^|^subscriberId^|^code^|^description^|^action^|^statusCode^|^scenario
+2023-03-15T12:34:56-03:00^|^DOC12345^|^15^|^20230315000001^|^1234567890^|^1^|^Enviando Atualização de Ordem^|^abrir^|^200^|^Processo Iniciado
+2021-06-05T20:23:29-03:00^|^VTT001^|^10^|^20230315000002^|^0987654321^|^0^|^Ordem encerrada com sucesso^|^fechar^|^404^|^Finalizado
+2022-12-01T08:00:00-03:00^|^DOC67890^|^20^|^20230315000003^|^1122334455^|^2^|^Ordem cancelada^|^redirecionar^|^500^|^Cancelamento
+2023-01-20T15:45:00-03:00^|^DOC54321^|^25^|^20230315000004^|^5566778899^|^3^|^Início do Processo de Obra^|^abrir^|^302^|^Obra
+2023-02-28T22:00:00-03:00^|^DOC22222^|^30^|^20230315000005^|^6677889900^|^4^|^Término do Processo de Obra^|^abrir^|^201^|^Conclusão
+2023-03-01T09:30:00-03:00^|^DOC33333^|^35^|^20230315000006^|^7788990011^|^-1^|^O Equipamento já está em uso por outro cliente^|^fechar^|^403^|^Erro de Equipamento
+2023-03-10T17:20:00-03:00^|^DOC44444^|^40^|^20230315000007^|^8899001122^|^1^|^Enviando Atualização de Ordem^|^redirecionar^|^202^|^Atualização
+2023-03-12T12:00:00-03:00^|^DOC55555^|^45^|^20230315000008^|^9900112233^|^0^|^Ordem encerrada com sucesso^|^fechar^|^204^|^Sucesso
+2023-03-14T08:15:00-03:00^|^DOC66666^|^50^|^20230315000009^|^0011223344^|^2^|^Ordem cancelada^|^abrir^|^206^|^Cancelado
+2023-03-15T07:45:00-03:00^|^DOC77777^|^55^|^20230315000010^|^1231231234^|^3^|^Início do Processo de Obra^|^fechar^|^208^|^Início de Obra

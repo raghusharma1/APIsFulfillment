@@ -1,0 +1,11 @@
+notification^|^statusCode^|^scenario
+open^|^200^|^normal
+close^|^404^|^error
+redirect^|^500^|^server error
+open^|^201^|^new
+^|^400^|^bad request
+close^|^503^|^service unavailable
+redirect^|^302^|^redirect
+open^|^202^|^accepted
+close^|^401^|^unauthorized
+^|^200^|^success
