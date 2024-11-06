@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^statusCode^|^scenario
+USR123456789^|^DOC001^|^ORD1000001^|^1^|^Enviando AtualizaÃ§Ã£o de Ordem^|^Active^|^Scenario1
+USR987654321^|^DOC002^|^ORD1000002^|^2^|^Ordem cancelada^|^Cancelled^|^Scenario2
+USR192837465^|^DOC003^|^ORD1000003^|^3^|^InÃ­cio do Processo de Obra^|^InProgress^|^Scenario3
+USR564738291^|^DOC004^|^ORD1000004^|^4^|^TÃ©rmino do Processo de Obra^|^Completed^|^Scenario4
+USR102938475^|^DOC005^|^ORD1000005^|^1^|^Enviando AtualizaÃ§Ã£o de Ordem^|^Active^|^Scenario5
+USR675849302^|^DOC006^|^ORD1000006^|^2^|^Ordem cancelada^|^Cancelled^|^Scenario6
+USR758493012^|^DOC007^|^ORD1000007^|^3^|^InÃ­cio do Processo de Obra^|^InProgress^|^Scenario7
+USR394857206^|^DOC008^|^ORD1000008^|^4^|^TÃ©rmino do Processo de Obra^|^Completed^|^Scenario8
+USR859302174^|^DOC009^|^ORD1000009^|^0^|^Ordem encerrada com sucesso^|^Success^|^Scenario9
+USR948576120^|^DOC010^|^ORD1000010^|^1^|^Enviando AtualizaÃ§Ã£o de Ordem^|^Active^|^Scenario10
