@@ -1,0 +1,3 @@
+payload,expectedResponse
+"{""order"":{""type"":""Instalacao"",""infraType"":""FTTH"",""associatedDocument"":""VTT001""}}","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""20230315000001""}}"
+"{""order"":{""type"":""Retirada"",""infraType"":""FTTP"",""associatedDocument"":""VTT002""}}","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""20230315000002""}}"
