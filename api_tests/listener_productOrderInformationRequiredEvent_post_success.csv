@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task details^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^1^|^Scenario A
+DOC002^|^1002^|^20230315000002^|^fechar^|^7030^|^Pendencia de agendamento^|^false^|^Another observation^|^MANUTENÇÃO^|^Another task^|^TECNICA^|^2022-02-25T11:50:50.566-03:00^|^2^|^Scenario B
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7001^|^Pendencia Cancelamento por Duplicidade^|^true^|^Further observation^|^PROJETO^|^Task in progress^|^CLIENTE^|^2023-01-01T00:00:00-03:00^|^3^|^Scenario C
+DOC004^|^1004^|^20230315000004^|^abrir^|^7008^|^Pendencia Cancelamento por Inviabilidade Técnica^|^false^|^No observation^|^PROJETO^|^Task completed^|^TECNICA^|^2023-01-02T00:00:00-03:00^|^4^|^Scenario D
+DOC005^|^1005^|^20230315000005^|^fechar^|^7009^|^Pendencia Cancelamento e Reemissão^|^true^|^Observation needed^|^MANUTENÇÃO^|^Pending task^|^CLIENTE^|^2023-01-03T00:00:00-03:00^|^0^|^Scenario E
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7010^|^Pendencia Equipamento Cliente^|^false^|^Observation ongoing^|^PROJETO^|^Task on hold^|^TECNICA^|^2023-01-04T00:00:00-03:00^|^1^|^Scenario F
+DOC007^|^1007^|^20230315000007^|^abrir^|^7013^|^Pendencia Rede Interna Cliente^|^true^|^Final observation^|^MANUTENÇÃO^|^Task starting^|^CLIENTE^|^2023-01-05T00:00:00-03:00^|^2^|^Scenario G
+DOC008^|^1008^|^20230315000008^|^fechar^|^7014^|^Pendencia Cancelamento por Desistência do Serviço^|^false^|^Initial observation^|^PROJETO^|^Task rerouted^|^TECNICA^|^2023-01-06T00:00:00-03:00^|^3^|^Scenario H
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7015^|^Pendencia Cliente Ausente^|^true^|^Observation text missing^|^MANUTENÇÃO^|^Task delayed^|^CLIENTE^|^2023-01-07T00:00:00-03:00^|^4^|^Scenario I
+DOC010^|^1010^|^20230315000010^|^abrir^|^7016^|^Pendencia Cliente Solicita nova data de Agendamento^|^false^|^Complete observation^|^PROJETO^|^Task forwarded^|^TECNICA^|^2023-01-08T00:00:00-03:00^|^0^|^Scenario J

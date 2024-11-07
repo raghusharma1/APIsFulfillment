@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^action^|^description^|^statusCode^|^scenario
+sub12345^|^VTT001^|^CO-2023-0001^|^20230315000001^|^abrir^|^Ordem encerrada com sucesso^|^0^|^Processo de Instalação
+sub12346^|^VTT002^|^CO-2023-0002^|^20230315000002^|^fechar^|^Enviando Atualização de Ordem^|^1^|^Atualização de Serviço
+sub12347^|^VTT003^|^CO-2023-0003^|^20230315000003^|^redirecionar^|^Ordem cancelada^|^2^|^Cancelamento de Ordem
+sub12348^|^VTT004^|^CO-2023-0004^|^20230315000004^|^abrir^|^Início do Processo de Obra^|^3^|^Início de Obra
+sub12349^|^VTT005^|^CO-2023-0005^|^20230315000005^|^fechar^|^Término do Processo de Obra^|^4^|^Término de Obra
+sub12350^|^VTT006^|^CO-2023-0006^|^20230315000006^|^abrir^|^O Equipamento já está em uso por outro cliente^|^-1^|^Erro de Equipamento
+sub12351^|^VTT007^|^CO-2023-0007^|^20230315000007^|^fechar^|^Ordem encerrada com sucesso^|^0^|^Conclusão de Serviço
+sub12352^|^VTT008^|^CO-2023-0008^|^20230315000008^|^redirecionar^|^Enviando Atualização de Ordem^|^1^|^Update de Serviço
+sub12353^|^VTT009^|^CO-2023-0009^|^20230315000009^|^abrir^|^Ordem cancelada^|^2^|^Cancelamento de Serviço
+sub12354^|^VTT010^|^CO-2023-0010^|^20230315000010^|^fechar^|^Início do Processo de Obra^|^3^|^Início de Construção
