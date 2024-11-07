@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^statusCode^|^scenario
+USR001^|^DOC1001^|^ORD0001^|^1^|^Enviando Atualização de Ordem^|^200^|^Processo Iniciado
+USR002^|^DOC1002^|^ORD0002^|^2^|^Ordem cancelada^|^404^|^Erro no Processamento
+USR003^|^DOC1003^|^ORD0003^|^3^|^Início do Processo de Obra^|^202^|^Obra Iniciada
+USR004^|^DOC1004^|^ORD0004^|^4^|^Término do Processo de Obra^|^200^|^Obra Concluída
+USR005^|^DOC1005^|^ORD0005^|^0^|^Ordem encerrada com sucesso^|^200^|^Ordem Concluída
+USR006^|^DOC1006^|^ORD0006^|^1^|^Enviando Atualização de Ordem^|^203^|^Atualização Pendente
+USR007^|^DOC1007^|^ORD0007^|^2^|^Ordem cancelada^|^404^|^Falha na Cancelamento
+USR008^|^DOC1008^|^ORD0008^|^3^|^Início do Processo de Obra^|^202^|^Construção Iniciada
+USR009^|^DOC1009^|^ORD0009^|^4^|^Término do Processo de Obra^|^200^|^Projeto Finalizado
+USR010^|^DOC1010^|^ORD0010^|^0^|^Ordem encerrada com sucesso^|^200^|^Execução Completa

@@ -1,0 +1,11 @@
+order^|^associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^type^|^infraType^|^statusCode^|^scenario
+1^|^DOC123^|^2023-01-15T12:00:00-03:00^|^101^|^Instalacao^|^FTTH^|^A1^|^ScenarioA
+2^|^DOC124^|^2023-01-16T13:00:00-03:00^|^102^|^Retirada^|^FTTP^|^B2^|^ScenarioB
+3^|^DOC125^|^2023-01-17T14:00:00-03:00^|^103^|^Bloqueio^|^FTTH^|^C3^|^ScenarioC
+4^|^DOC126^|^2023-01-18T15:00:00-03:00^|^104^|^Desbloqueio^|^FTTP^|^D4^|^ScenarioD
+5^|^DOC127^|^2023-01-19T16:00:00-03:00^|^105^|^AssociarCPE^|^FTTH^|^E5^|^ScenarioE
+6^|^DOC128^|^2023-01-20T17:00:00-03:00^|^106^|^Modificacao de Velocidade^|^FTTP^|^F6^|^ScenarioF
+7^|^DOC129^|^2023-01-21T18:00:00-03:00^|^107^|^RemanejamentoPonto^|^FTTH^|^G7^|^ScenarioG
+8^|^DOC130^|^2023-01-22T19:00:00-03:00^|^108^|^Instalacao^|^FTTP^|^H8^|^ScenarioH
+9^|^DOC131^|^2023-01-23T20:00:00-03:00^|^109^|^Retirada^|^FTTH^|^I9^|^ScenarioI
+10^|^DOC132^|^2023-01-24T21:00:00-03:00^|^110^|^Bloqueio^|^FTTP^|^J0^|^ScenarioJ
