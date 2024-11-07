@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+2023-09-21T10:30:00-03:00^|^VTT001-10^|^Abertura de chamado^|^0^|^Cliente ausente
+2023-09-22T11:00:00-03:00^|^VTT002-11^|^Pendência de rede^|^1^|^Técnica
+2023-09-23T09:45:00-03:00^|^VTT003-12^|^Cliente não solicitou instalação^|^2^|^Cliente
+2023-09-24T08:15:00-03:00^|^VTT004-13^|^Endereço não localizado^|^3^|^Logística
+2023-09-25T16:00:00-03:00^|^VTT005-14^|^Agendamento não cumprido^|^4^|^Operacional
+2023-09-26T14:30:00-03:00^|^VTT006-15^|^Cancelamento por duplicidade^|^0^|^Cliente
+2023-09-27T12:20:00-03:00^|^VTT007-16^|^^|^1^|^Técnica
+2023-09-28T17:00:00-03:00^|^VTT008-17^|^Impedimento de atividade por chuva^|^2^|^Segurança
+2023-09-29T18:30:00-03:00^|^VTT009-18^|^Acesso impossibilitado^|^3^|^Técnica
+2023-09-30T19:45:00-03:00^|^VTT010-19^|^Erro 404^|^4^|^Operacional
