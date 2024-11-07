@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^statusCode^|^scenario
+123456789^|^DOC-2023-001^|^CO-987654321^|^20230915000001^|^1^|^ProcessStart
+987654321^|^DOC-2023-002^|^CO-123456789^|^20230915000002^|^2^|^ProcessEnd
+abc123xyz^|^DOC-2023-003^|^CO-abc987xyz^|^20230915000003^|^3^|^OrderUpdate
+sub-4567-xyz^|^DOC-2023-004^|^CO-456def123^|^20230915000004^|^4^|^Cancellation
+user0987^|^DOC-2023-005^|^CO-789xyz123^|^20230915000005^|^0^|^SuccessEnd
+customer001^|^DOC-2023-006^|^CO-123abc456^|^20230915000006^|^-1^|^EquipmentInUse
+subTest789^|^DOC-2023-007^|^CO-321cba654^|^20230915000007^|^banana^|^ProcessStart
+uniqueUser8^|^DOC-2023-008^|^CO-654zyx987^|^20230915000008^|^1^|^OrderUpdate
+profile1234^|^DOC-2023-009^|^CO-852vbn741^|^20230915000009^|^2^|^Cancellation
+id0987654321^|^DOC-2023-010^|^CO-963asd852^|^20230915000010^|^3^|^ProcessEnd
