@@ -1,0 +1,11 @@
+date^|^associatedDocument^|^correlationOrder^|^id^|^subscriberId^|^code^|^description^|^statusCode^|^scenario
+2023-11-15T13:20:00-03:00^|^DOC001^|^1001^|^202311150001^|^SUB001^|^3^|^Início do Processo de Obra^|^200^|^Standard Process
+2021-06-05T20:23:29-03:00^|^DOC002^|^1002^|^202311150002^|^SUB002^|^1^|^Enviando Atualização de Ordem^|^500^|^Urgent Repair
+2023-12-01T09:30:45-03:00^|^DOC003^|^1003^|^202311150003^|^SUB003^|^4^|^Término do Processo de Obra^|^404^|^Finalization
+2023-10-21T15:40:10-03:00^|^DOC004^|^1004^|^202311150004^|^SUB004^|^0^|^Ordem encerrada com sucesso^|^200^|^Closure
+2023-09-30T08:15:22-03:00^|^DOC005^|^1005^|^202311150005^|^SUB005^|^2^|^Ordem cancelada^|^503^|^Cancellation
+2024-01-10T11:12:33-03:00^|^DOC006^|^1006^|^202311150006^|^SUB006^|^3^|^Início do Processo de Obra^|^301^|^Initialization
+2023-08-19T14:55:00-03:00^|^DOC007^|^1007^|^202311150007^|^SUB007^|^-1^|^O Equipamento já está em uso por outro cliente^|^400^|^Conflict
+2023-07-22T16:45:19-03:00^|^DOC008^|^1008^|^202311150008^|^^|^2^|^Ordem cancelada^|^^|^Cancellation
+2023-05-17T10:20:40-03:00^|^DOC009^|^1009^|^202311150009^|^SUB009^|^1^|^Enviando Atualização de Ordem^|^200^|^Update
+2023-04-03T18:30:55-03:00^|^DOC010^|^1010^|^202311150010^|^SUB010^|^4^|^Término do Processo de Obra^|^^|^Completion

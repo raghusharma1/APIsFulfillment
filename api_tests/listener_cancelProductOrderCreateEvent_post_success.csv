@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^action^|^description^|^statusCode^|^scenario
+CUST0001^|^DOC1001^|^ORD2001^|^ID3001^|^0^|^fechar^|^Ordem encerrada com sucesso^|^200^|^ScenarioA
+CUST0002^|^DOC1002^|^ORD2002^|^ID3002^|^1^|^abrir^|^Enviando Atualização de Ordem^|^201^|^ScenarioB
+CUST0003^|^DOC1003^|^ORD2003^|^ID3003^|^2^|^redirecionar^|^Ordem cancelada^|^202^|^ScenarioC
+CUST0004^|^DOC1004^|^ORD2004^|^ID3004^|^3^|^fechar^|^Início do Processo de Obra^|^203^|^ScenarioD
+CUST0005^|^DOC1005^|^ORD2005^|^ID3005^|^4^|^abrir^|^Término do Processo de Obra^|^204^|^ScenarioE
+CUST0006^|^DOC1006^|^ORD2006^|^ID3006^|-1^|^redirecionar^|^O Equipamento já está em uso por outro cliente^|^205^|^ScenarioF
+CUST0007^|^DOC1007^|^ORD2007^|^ID3007^|^0^|^fechar^|^Ordem encerrada com sucesso^|^206^|^ScenarioG
+CUST0008^|^DOC1008^|^ORD2008^|^ID3008^|^1^|^abrir^|^Enviando Atualização de Ordem^|^207^|^ScenarioH
+CUST0009^|^DOC1009^|^ORD2009^|^ID3009^|^2^|^redirecionar^|^Ordem cancelada^|^208^|^ScenarioI
+CUST0010^|^DOC1010^|^ORD2010^|^ID3010^|^3^|^fechar^|^Início do Processo de Obra^|^209^|^ScenarioJ
