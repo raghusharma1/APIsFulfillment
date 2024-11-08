@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^description^|^statusCode^|^scenario
+12345^|^DOC001^|^CORR10^|^20230101^|^1^|^Order Successful^|^200^|^Standard Process
+22345^|^DOC002^|^CORR20^|^20230102^|^2^|^Order Cancelled^|^400^|^Cancellation
+32345^|^DOC003^|^CORR30^|^20230103^|^3^|^Process Started^|^200^|^Process Initiation
+42345^|^DOC004^|^CORR40^|^20230104^|^4^|^Process Completed^|^200^|^Completion
+52345^|^DOC005^|^CORR50^|^20230105^|^0^|^Order Closed^|^200^|^Closure
+62345^|^DOC006^|^CORR60^|^20230106^|^1^|^Sending Update^|^202^|^Update
+72345^|^DOC007^|^CORR70^|^20230107^|^2^|^Order Cancelled^|^400^|^Cancellation
+82345^|^DOC008^|^CORR80^|^20230108^|^4^|^Process Completed^|^200^|^Completion
+92345^|^DOC009^|^CORR90^|^20230109^|^3^|^Process Started^|^200^|^Process Initiation
+102345^|^DOC010^|^CORR100^|^20230110^|^1^|^Sending Update^|^202^|^Update
