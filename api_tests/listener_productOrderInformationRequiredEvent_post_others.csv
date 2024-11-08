@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Missing info^|^200^|^Test case 1
+Disabled^|^54321^|^Invalid entry^|^404^|^Test case 2
+Active^|^11223^|^null^|^500^|^Scenario 3
+On^|^32456^|^Closed^|^^|^Scenario 4
+Off^|^78901^|^Open^|^403^|^Scenario 5
+Enabled^|^56789^|^Pending^|^201^|^Scenario 6
+^|^20202^|^Resolved^|^200^|^Scenario 7
+Active^|^30303^|^Delayed^|^401^|^Test case 8
+^|^40404^|^Processed^|^200^|^Scenario 9
+On^|^50505^|^Cancelled^|^^|^Test case 10
