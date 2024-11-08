@@ -1,0 +1,2 @@
+requestBody,expectedResponse
+"{""productId"":""123"",""qty"":2}","{""status"":""success""}"
