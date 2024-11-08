@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^description^|^statusCode^|^scenario
+12345^|^VTT001^|^10^|^20230315000001^|^2^|^Ordem cancelada^|^200^|^Standard
+67890^|^VTT002^|^20^|^20230315000002^|^4^|^Término do Processo de Obra^|^300^|^Urgent
+abcde^|^VTT003^|^30^|^20230315000003^|^1^|^Enviando Atualização de Ordem^|^400^|^High Priority
+fghij^|^VTT004^|^40^|^20230315000004^|^3^|^Início do Processo de Obra^|^500^|^Delayed
+klmno^|^VTT005^|^50^|^20230315000005^|^0^|^Ordem encerrada com sucesso^|^600^|^Completed
+pqrst^|^VTT006^|^60^|^20230315000006^|^banana^|^Invalid Description^|^700^|^Error
+uvwxyz^|^VTT007^|^70^|^20230315000007^|^2^|^Ordem cancelada^|^800^|^Standard
+123abc^|^VTT008^|^80^|^20230315000008^|^4^|^Término do Processo de Obra^|^900^|^Urgent
+456def^|^VTT009^|^90^|^20230315000009^|^1^|^Enviando Atualização de Ordem^|^100^|^High Priority
+789ghi^|^VTT010^|^100^|^20230315000010^|^3^|^Início do Processo de Obra^|^200^|^Delayed
