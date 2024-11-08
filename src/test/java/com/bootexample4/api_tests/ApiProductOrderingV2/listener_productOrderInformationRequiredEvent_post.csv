@@ -1,0 +1,3 @@
+body,expectedResponse
+"{""type"":""SMS"",""content"":""Your order is ready.""}","{}"
+"{""type"":""Email"",""content"":""Please collect your order.""}","{}"
