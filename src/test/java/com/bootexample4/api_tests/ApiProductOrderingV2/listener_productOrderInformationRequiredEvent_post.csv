@@ -1,0 +1,3 @@
+Type,RequestBody
+"SimpleType","{""data"":""value""}"
+"ComplexType","{""info"":{""id"":123,""desc"":""example""}}"

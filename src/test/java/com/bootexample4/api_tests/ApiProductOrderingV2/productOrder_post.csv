@@ -1,0 +1,4 @@
+payload,expectedResponse
+"read('examples/Associate_CPE_Order.json')","""{ control: { code: '201', message: 'Created', type: 'S' }, order: { id: '#string' }}"""
+"read('examples/Installation_Order.json')","""{ control: { code: '201', message: 'Created', type: 'S' }, order: { id: '#string' }}"""
+"read('examples/Removal_Order.json')","""{ control: { code: '201', message: 'Created', type: 'S' }, order: { id: '#string' }}"""
