@@ -1,0 +1,11 @@
+subscriberId^|^correlationOrder^|^id^|^action^|^code^|^statusCode^|^scenario
+USR1001^|^CO1001^|^ID1001^|^abrir^|^7001^|^0^|^Início do Processo de Obra
+USR1002^|^CO1002^|^ID1002^|^fechar^|^7008^|^1^|^Ordem cancelada
+USR1003^|^CO1003^|^ID1003^|^redirecionar^|^7010^|^2^|^Término do Processo de Obra
+USR1004^|^CO1004^|^ID1004^|^abrir^|^7014^|^3^|^Enviando Atualização de Ordem
+USR1005^|^CO1005^|^ID1005^|^fechar^|^7015^|^4^|^Ordem encerrada com sucesso
+USR1006^|^CO1006^|^ID1006^|^redirecionar^|^7016^|^0^|^Início do Processo de Obra
+USR1007^|^CO1007^|^ID1007^|^abrir^|^7017^|^1^|^Ordem cancelada
+USR1008^|^CO1008^|^ID1008^|^fechar^|^7021^|^2^|^Término do Processo de Obra
+USR1009^|^CO1009^|^ID1009^|^redirecionar^|^7029^|^3^|^Enviando Atualização de Ordem
+USR1010^|^CO1010^|^ID1010^|^abrir^|^7031^|^4^|^Ordem encerrada com sucesso

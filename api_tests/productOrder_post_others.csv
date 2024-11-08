@@ -1,0 +1,11 @@
+order^|^associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^type^|^infraType^|^subscriberId^|^businessUnity^|^fantasyName^|^name^|^phoneNumber^|^statusCode^|^scenario
+1^|^VTT001^|^2020-10-22T14:00:00-03:00^|^2310^|^AssociarCPE^|^FTTP^|^SVTAL001^|^empresarial^|^InterCorp Internet^|^V.tal^|^21965400000^|^100^|^Main
+2^|^VTT002^|^2021-06-09T18:20:53-03:00^|^10^|^Instalacao^|^FTTH^|^SVTAL002^|^varejo^|^InterHome Internet^|^Sandbox V.tal^|^000000000^|^200^|^Secondary
+3^|^VTT003^|^2021-05-05T08:00:00^|^9^|^Instalacao^|^FTTH^|^SVTAL003^|^varejo^|^InterHome Internet^|^Sandbox V.tal^|^21999999999^|^300^|^Tertiary
+4^|^VTT004^|^2021-05-05T08:00:00^|^10^|^Instalacao^|^FTTP^|^SVTAL004^|^empresarial^|^InterCorp Internet^|^Sandbox V.tal^|^21999999999^|^400^|^Quaternary
+5^|^VTT005^|^2021-06-09T18:20:53-03:00^|^10^|^Instalacao^|^FTTP^|^SVTAL005^|^empresarial^|^InterCorp Internet^|^Sandbox V.tal^|^000000000^|^500^|^Quinary
+6^|^VTT006^|^2021-06-09T18:20:53-03:00^|^9^|^Bloqueio^|^FTTH^|^SVTAL006^|^varejo^|^InterHome Internet^|^Sandbox V.tal^|^000000000^|^600^|^Senary
+7^|^VTT007^|^2021-06-09T18:20:53-03:00^|^10^|^Bloqueio^|^FTTP^|^SVTAL007^|^empresarial^|^InterCorp Internet^|^Sandbox V.tal^|^000000000^|^700^|^Septenary
+8^|^VTT008^|^2021-05-05T08:00:00^|^923467432^|^RemanejamentoPonto^|^FTTH^|^SVTAL008^|^varejo^|^InterHome Internet^|^Sandbox V.tal^|^000000000^|^800^|^Octonary
+9^|^VTT009^|^2020-11-13T16:20:00^|^9^|^Retirada^|^FTTH^|^SVTAL009^|^varejo^|^InterHome Internet^|^Sandbox V.tal^|^000000000^|^900^|^Nonary
+10^|^VTT010^|^2021-06-09T18:20:53-03:00^|^10^|^Retirada^|^FTTP^|^SVTAL010^|^empresarial^|^InterCorp Internet^|^Sandbox V.tal^|^000000000^|^1000^|^Denary
