@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Critical Error^|^200^|^Test
+Disabled^|^ABC123^|^Minor Warning^|^404^|^Live
+^|^78910^|^Major Error^|^500^|^Simulation
+Enabled^|^XYZ789^|^^|^204^|^Development
+^|^45678^|^System Down^|^301^|^Production
+On^|^19283^|^Low Risk^|^503^|^Testing
+Off^|^83746^|^High Risk^|^401^|^Demo
+Yes^|^11111^|^Moderate Risk^|^202^|^Staging
+No^|^22222^|^Data Missing^|^403^|^Prototype
+Active^|^33333^|^System Overload^|^502^|^Benchmark

@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task details^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^1^|^Scenario A
+DOC002^|^1002^|^20230315000002^|^fechar^|^7030^|^Pendencia de agendamento^|^false^|^Another observation^|^MANUTENÇÃO^|^Another task^|^TECNICA^|^2022-02-25T11:50:50.566-03:00^|^2^|^Scenario B
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7001^|^Pendencia Cancelamento por Duplicidade^|^true^|^Further observation^|^DESISTÊNCIA^|^Task C^|^CLIENTE^|^2023-01-12T09:30:20.123-03:00^|^3^|^Scenario C
+DOC004^|^1004^|^20230315000004^|^abrir^|^7008^|^Pendencia de Rede 3 dias^|^false^|^More observations^|^RISCO^|^Task D^|^TECNICA^|^2021-07-15T14:25:30.789-03:00^|^4^|^Scenario D
+DOC005^|^1005^|^20230315000005^|^fechar^|^7014^|^Pendencia Rede Interna Cliente^|^true^|^Detailed observation^|^PROJETO^|^Task E^|^CLIENTE^|^2020-12-19T08:15:45.456-03:00^|^0^|^Scenario E
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7021^|^Pendencia Cliente Interrompe e Solicita nova data de Agendamento^|^false^|^Note something here^|^MANUTENÇÃO^|^Task F^|^TECNICA^|^2022-03-21T12:00:50.666-03:00^|^1^|^Scenario F
+DOC007^|^1007^|^20230315000007^|^abrir^|^7035^|^Pendencia área de Risco Momentânea^|^true^|^Observation here^|^DESISTÊNCIA^|^Task G^|^CLIENTE^|^2021-11-11T11:11:11.111-03:00^|^2^|^Scenario G
+DOC008^|^1008^|^20230315000008^|^fechar^|^7042^|^Pendencia Local Fechado^|^false^|^Another detailed observation^|^RISCO^|^Task H^|^TECNICA^|^2023-02-28T17:45:55.555-03:00^|^3^|^Scenario H
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7047^|^Pendencia Acesso Impossibilitado^|^true^|^Some observation^|^PROJETO^|^Task I^|^CLIENTE^|^2020-05-20T20:20:20.202-03:00^|^4^|^Scenario I
+DOC010^|^1010^|^20230315000010^|^abrir^|^7051^|^Pendencia de Aprovisionamento 5 dias^|^false^|^Observation for this^|^MANUTENÇÃO^|^Task J^|^TECNICA^|^2019-09-30T23:59:59.999-03:00^|^0^|^Scenario J

@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+234567890^|^2023-01-15T12:34:56.789-03:00^|^VTT002^|^2^|^15^|^Ordem cancelada^|^20230315000002^|^Cancelamento^|^200^|^Scenario A
+123456789^|^2022-12-24T12:00:00.000-03:00^|^VTT003^|^0^|^20^|^Ordem encerrada com sucesso.^|^20230315000003^|^Encerramento^|^201^|^Scenario B
+456789123^|^2023-02-28T10:30:30.300-03:00^|^VTT004^|^1^|^25^|^Enviando Atualização de Ordem^|^20230315000004^|^Atualizacao^|^202^|^Scenario C
+789012345^|^2021-06-30T08:15:45.600-03:00^|^VTT005^|^3^|^30^|^Início do Processo de Obra^|^20230315000005^|^Obra^|^203^|^Scenario D
+890123456^|^2020-11-20T07:45:10.100-03:00^|^VTT006^|^4^|^35^|^Término do Processo de Obra^|^20230315000006^|^Termino^|^204^|^Scenario E
+012345678^|^2023-03-01T09:00:00.000-03:00^|^VTT007^|^-1^|^40^|^O Equipamento já está em uso por outro cliente^|^20230315000007^|^Conflito^|^205^|^Scenario F
+678901234^|^2021-07-15T16:30:00.000-03:00^|^VTT008^|^2^|^45^|^Ordem cancelada^|^20230315000008^|^Cancelamento^|^206^|^Scenario G
+345678901^|^2020-05-05T14:20:20.200-03:00^|^VTT009^|^0^|^50^|^Ordem encerrada com sucesso.^|^20230315000009^|^Encerramento^|^207^|^Scenario H
+901234567^|^2022-09-10T13:10:10.100-03:00^|^VTT010^|^1^|^55^|^Enviando Atualização de Ordem^|^20230315000010^|^Atualizacao^|^208^|^Scenario I
+234567891^|^2023-01-25T19:50:50.500-03:00^|^VTT011^|^3^|^60^|^Início do Processo de Obra^|^20230315000011^|^Obra^|^209^|^Scenario J
