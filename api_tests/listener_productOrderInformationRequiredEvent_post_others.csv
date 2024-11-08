@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+2023-09-21T10:30:00-03:00^|^VTT001-10^|^Abertura de chamado^|^200^|^Cliente
+2023-09-22T11:45:00-03:00^|^VTT002-11^|^Pendência de rede^|^404^|^Técnica
+2023-09-23T12:50:00-03:00^|^VTT003-12^|^null^|^500^|^Cliente
+2023-09-24T13:55:00-03:00^|^VTT004-13^|^Manutenção preventiva^|^200^|^Técnica
+2023-09-25T14:00:00-03:00^|^VTT005-14^|^Cliente ausente^|^301^|^Cliente
+2023-09-26T15:05:00-03:00^|^VTT006-15^|^Cancelamento por duplicidade^|^200^|^Técnica
+2023-09-27T16:10:00-03:00^|^VTT007-16^|^Cliente solicita nova data^|^403^|^Cliente
+2023-09-28T17:15:00-03:00^|^VTT008-17^|^Fechar chamado^|^200^|^Técnica
+2023-09-29T18:20:00-03:00^|^VTT009-18^|^Equipamento danificado^|^404^|^Cliente
+2023-09-30T19:25:00-03:00^|^VTT010-19^|^Erro de sistema^|^503^|^Técnica
