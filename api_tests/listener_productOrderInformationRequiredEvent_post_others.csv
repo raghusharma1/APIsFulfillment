@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Client Issue^|^200^|^Test Case 1
+Disabled^|^54321^|^Technical Issue^|^404^|^Test Case 2
+Enabled^|^11223^|^Update Required^|^500^|^Test Case 3
+^|^77889^|^Missing Data^|^403^|^Test Case 4
+Enabled^|^99012^|^Error on Page^|^^|^Test Case 5
+Disabled^|^33012^|^Network Failure^|^301^|^Test Case 6
+Enabled^|^12034^|^Server Down^|^202^|^Test Case 7
+^|^45056^|^Client Timeout^|^401^|^Test Case 8
+Enabled^|^66789^|^Authentication Error^|^503^|^Test Case 9
+Disabled^|^88900^|^Data Mismatch^|^400^|^Test Case 10
