@@ -1,0 +1,11 @@
+RequestBody^|^statusCode
+{"name":"John","age":30,"city":"New York"}^|^201
+{"name":"Jane","age":25,"city":"Los Angeles"}^|^404
+{"name":"Alice","age":28,"city":"Chicago"}^|^403
+{"name":"Bob","age":34,"city":"Houston"}^|^500
+{"name":"Carol","age":29,"city":"Phoenix"}^|^401
+{"name":"Mike","age":32,"city":"Philadelphia"}^|^429
+{"name":"Gloria","age":27,"city":"San Antonio"}^|^406
+{"name":"Craig","age":31,"city":"San Diego"}^|^503
+{"name":"Diana","age":35,"city":"Dallas"}^|^504
+{"name":"Evan","age":33,"city":"San Jose"}^|^400
