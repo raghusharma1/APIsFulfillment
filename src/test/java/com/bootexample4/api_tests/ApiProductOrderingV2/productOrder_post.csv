@@ -1,0 +1,4 @@
+payload,expectedResponse
+"{""order"":{""associatedDocument"":""VTT001"",""type"":""AssociarCPE"",""infraType"":""FTTP""}}","{""order"":{""id"":""#number""},""control"":{""type"":""S""}}"
+"{""order"":{""associatedDocument"":""VTT002"",""type"":""Instalacao"",""infraType"":""FTTH""}}","{""order"":{""id"":""#number""},""control"":{""type"":""S""}}"
+"{""order"":{""associatedDocument"":""VTT003"",""type"":""Bloqueio"",""infraType"":""FTTH""}}","{""order"":{""id"":""#number""},""control"":{""type"":""S""}}"
