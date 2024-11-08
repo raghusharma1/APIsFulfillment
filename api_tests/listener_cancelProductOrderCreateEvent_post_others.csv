@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^action^|^codeIssue^|^descriptionIssue^|^lostEquipment^|^statusCode^|^scenario
+user123^|^2023-09-15T14:22:00^|^VTT001^|^1^|^ord123^|^Enviando Atualização de Ordem^|^202309150001^|^abrir^|^7001^|^Pendência Cancelamento por Duplicidade^|^True^|^200^|^Initial
+user124^|^2023-09-15T15:00:00^|^VTT002^|^2^|^ord124^|^Ordem cancelada^|^202309150002^|^fechar^|^7004^|^Pendência Agendamento Futuro Obra 7 dias^|^False^|^404^|^Maintenance
+user125^|^2023-09-16T10:00:00^|^VTT003^|^3^|^ord125^|^Início do Processo de Obra^|^202309160001^|^redirecionar^|^7010^|^Pendência Equipamento Cliente^|^True^|^500^|^Upgrade
+user126^|^2023-09-16T11:00:00^|^VTT004^|^-1^|^ord126^|^O Equipamento já está em uso por outro cliente^|^202309160002^|^abrir^|^7020^|^Pendência de Rede 3 dias^|^False^|^200^|^Error
+user127^|^2023-09-17T12:00:00^|^VTT005^|^0^|^ord127^|^Ordem encerrada com sucesso^|^202309170001^|^fechar^|^7031^|^Pendência Agendamento^|^False^|^200^|^Completed
+user128^|^2023-09-17T13:00:00^|^VTT006^|^4^|^ord128^|^Término do Processo de Obra^|^202309170002^|^redirecionar^|^7047^|^Pendência Acesso Impossibilitado^|^True^|^403^|^Finalized
+user129^|^2023-09-18T14:00:00^|^VTT007^|^1^|^ord129^|^Enviando Atualização de Ordem^|^202309180001^|^abrir^|^7054^|^Pendência de Aprovisionamento 5 dias^|^False^|^202^|^Processing
+user130^|^2023-09-18T15:00:00^|^VTT008^|^2^|^ord130^|^Ordem cancelada^|^202309180002^|^fechar^|^7067^|^Pendência Cancelamento por Área de Risco^|^True^|^404^|^Cancelled
+user131^|^2023-09-19T16:00:00^|^VTT009^|^3^|^ord131^|^Início do Processo de Obra^|^202309190001^|^redirecionar^|^7078^|^Pendência Cancelamento por Desistência do Serviço^|^False^|^301^|^Restart
+user132^|^2023-09-19T17:00:00^|^VTT010^|^-1^|^ord132^|^O Equipamento já está em uso por outro cliente^|^202309190002^|^abrir^|^7092^|^Pendência Cancelamento por Duplicidade^|^True^|^409^|^Conflict
