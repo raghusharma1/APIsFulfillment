@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^7031^|^OK^|^Test
+Disabled^|^ABC123^|^7014^|^Error^|^Live
+^|^67890^|^7100^|^Pending^|^Simulation
+Active^|^101112^|^7009^|^Failed^|^Demo
+^|^^|^7029^|^Success^|^Trial
+On^|^131415^|^7037^|^OK^|^Development
+Off^|^161718^|^7047^|^Error^|^Production
+Yes^|^192021^|^7080^|^Pending^|^Testing
+No^|^222324^|^7078^|^Failed^|^Staging
+Enabled^|^252627^|^7095^|^Success^|^Evaluation
