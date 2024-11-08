@@ -1,0 +1,11 @@
+order^|^associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^type^|^infraType^|^subscriberId^|^businessUnity^|^fantasyName^|^name^|^phoneNumber^|^statusCode^|^scenario
+1^|^DOC123^|^2023-01-15T14:00:00-03:00^|^101^|^Instalacao^|^FTTH^|^SUB001^|^empresarial^|^NetFast^|^John Doe^|^1234567890^|^active^|^scenario1
+2^|^DOC124^|^2023-01-16T15:00:00-03:00^|^102^|^Retirada^|^FTTP^|^SUB002^|^varejo^|^QuickNet^|^Jane Smith^|^0987654321^|^inactive^|^scenario2
+3^|^DOC125^|^2023-01-17T16:00:00-03:00^|^103^|^Bloqueio^|^FTTH^|^SUB003^|^empresarial^|^SpeedSurf^|^Alice Johnson^|^1122334455^|^suspended^|^scenario3
+4^|^DOC126^|^2023-01-18T17:00:00-03:00^|^104^|^Desbloqueio^|^FTTP^|^SUB004^|^varejo^|^WaveNet^|^Bob Brown^|^5566778899^|^active^|^scenario4
+5^|^DOC127^|^2023-01-19T18:00:00-03:00^|^105^|^AssociarCPE^|^FTTH^|^SUB005^|^empresarial^|^Streamline^|^Carol White^|^1231231234^|^active^|^scenario5
+6^|^DOC128^|^2023-01-20T19:00:00-03:00^|^106^|^Modificacao de Velocidade^|^FTTP^|^SUB006^|^varejo^|^DataFast^|^Dave Black^|^3213214321^|^active^|^scenario6
+7^|^DOC129^|^2023-01-21T20:00:00-03:00^|^107^|^RemanejamentoPonto^|^FTTH^|^SUB007^|^empresarial^|^NetStream^|^Eve Green^|^2132132144^|^inactive^|^scenario7
+8^|^DOC130^|^2023-01-22T21:00:00-03:00^|^108^|^Instalacao^|^FTTP^|^SUB008^|^varejo^|^SkyNet^|^Frank Cyan^|^4343434343^|^suspended^|^scenario8
+9^|^DOC131^|^2023-01-23T22:00:00-03:00^|^109^|^Retirada^|^FTTH^|^SUB009^|^empresarial^|^UltraNet^|^Grace Magenta^|^5454545454^|^active^|^scenario9
+10^|^DOC132^|^2023-01-24T23:00:00-03:00^|^110^|^Bloqueio^|^FTTP^|^SUB010^|^varejo^|^PrimeNet^|^Harry Red^|^6565656565^|^inactive^|^scenario10
