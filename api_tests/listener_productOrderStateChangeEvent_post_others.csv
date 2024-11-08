@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+234567890^|^2023-01-15T12:34:56.789-03:00^|^DOC123^|^2^|^15^|^Order Complete^|^202301150001^|^Completion^|^200^|^Standard Process
+123456789^|^2023-02-16T13:45:00.000-03:00^|^DOC124^|^1^|^16^|^Order Pending^|^202302160002^|^Pending^|^100^|^Urgent Request
+987654321^|^2023-03-17T14:55:10.123-03:00^|^DOC125^|^0^|^17^|^Order Failed^|^202303170003^|^Failure^|^500^|^Retry Scenario
+876543219^|^2023-04-18T15:05:20.234-03:00^|^DOC126^|^3^|^18^|^Order Cancelled^|^202304180004^|^Cancellation^|^400^|^Cancellation Request
+765432198^|^2023-05-19T16:15:30.345-03:00^|^DOC127^|^4^|^19^|^Order Updated^|^202305190005^|^Update^|^300^|^Update Process
+654321987^|^2023-06-20T17:25:40.456-03:00^|^DOC128^|^banana^|^20^|^Order Reopened^|^202306200006^|^Reopening^|^250^|^Reopen Case
+543219876^|^2023-07-21T18:35:50.567-03:00^|^DOC129^|^2^|^21^|^Order Processed^|^202307210007^|^Processing^|^220^|^Standard Process
+432198765^|^2023-08-22T19:45:60.678-03:00^|^DOC130^|^1^|^22^|^Order Dispatched^|^202308220008^|^Dispatch^|^210^|^Dispatch Scenario
+321987654^|^2023-09-23T20:55:10.789-03:00^|^DOC131^|^0^|^23^|^Order Received^|^202309230009^|^Reception^|^200^|^Reception Process
+219876543^|^2023-10-24T21:05:20.890-03:00^|^DOC132^|^3^|^24^|^Order In Transit^|^202310240010^|^Transit^|^202^|^Transit Scenario

@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^description^|^statusCode^|^scenario
+sub12345^|^DOC-20230001^|^CO-10001^|^20230001^|^1^|^Enviando Atualizao de Ordem^|^200^|^ScenarioA
+sub12346^|^DOC-20230002^|^CO-10002^|^20230002^|^2^|^Ordem cancelada^|^404^|^ScenarioB
+sub12347^|^DOC-20230003^|^^|^20230003^|^3^|^Início do Processo de Obra^|^500^|^ScenarioC
+sub12348^|^DOC-20230004^|^CO-10004^|^20230004^|^4^|^Término do Processo de Obra^|^200^|^ScenarioD
+sub12349^|^DOC-20230005^|^CO-10005^|^20230005^|^0^|^Ordem encerrada com sucesso^|^200^|^ScenarioE
+sub12350^|^DOC-20230006^|^CO-10006^|^20230006^|^-1^|^O Equipamento já está em uso por outro cliente^|^409^|^ScenarioF
+sub12351^|^DOC-20230007^|^CO-10007^|^20230007^|^-1^|^O Equipamento já está em uso por outro cliente^|^409^|^ScenarioG
+sub12352^|^DOC-20230008^|^CO-10008^|^20230008^|^2^|^Ordem cancelada^|^404^|^ScenarioH
+sub12353^|^DOC-20230009^|^CO-10009^|^20230009^|^3^|^Início do Processo de Obra^|^500^|^ScenarioI
+sub12354^|^DOC-20230010^|^CO-10010^|^20230010^|^4^|^Término do Processo de Obra^|^200^|^ScenarioJ
