@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+2023-09-21T10:30:00-03:00^|^VTT001-23^|^Abertura pendência^|^0^|^Cancelamento
+2023-09-21T11:00:00-03:00^|^VTT002-24^|^Pendência técnica^|^1^|^Manutenção
+2023-09-21T11:30:00-03:00^|^VTT003-25^|^Aguardando cliente^|^2^|^Instalação
+2023-09-21T12:00:00-03:00^|^VTT004-26^|^^|^3^|^Upgrade
+2023-09-21T12:30:00-03:00^|^VTT005-27^|^Erro de agendamento^|^4^|^Revisão
+2023-09-21T13:00:00-03:00^|^VTT006-28^|^Cliente não encontrado^|^banana^|^Reagendamento
+2023-09-21T13:30:00-03:00^|^VTT007-29^|^Pendência de equipamento^|^1^|^Troca
+2023-09-21T14:00:00-03:00^|^VTT008-30^|^^|^2^|^Desinstalação
+2023-09-21T14:30:00-03:00^|^VTT009-31^|^Pendência de rede^|^3^|^Conexão
+2023-09-21T15:00:00-03:00^|^VTT010-32^|^Pendência de segurança^|^-1^|^Segurança

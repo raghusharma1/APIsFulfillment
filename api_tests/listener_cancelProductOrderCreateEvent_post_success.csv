@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^action^|^description^|^statusCode^|^scenario
+CUST0001^|^DOC001^|^ORD001^|^ID001^|^3^|^abrir^|^Início do Processo de Obra^|^200^|^Normal
+CUST0002^|^DOC002^|^ORD002^|^ID002^|^1^|^fechar^|^Enviando Atualização de Ordem^|^200^|^Urgent
+CUST0003^|^DOC003^|^ORD003^|^ID003^|^4^|^redirecionar^|^Término do Processo de Obra^|^404^|^Normal
+CUST0004^|^DOC004^|^ORD004^|^ID004^|^2^|^abrir^|^Ordem cancelada^|^500^|^Critical
+CUST0005^|^DOC005^|^ORD005^|^ID005^|^0^|^fechar^|^Ordem encerrada com sucesso^|^200^|^Low
+CUST0006^|^DOC006^|^ORD006^|^ID006^|^3^|^redirecionar^|^Início do Processo de Obra^|^200^|^Normal
+CUST0007^|^DOC007^|^ORD007^|^ID007^|^1^|^abrir^|^Enviando Atualização de Ordem^|^301^|^Normal
+CUST0008^|^DOC008^|^ORD008^|^ID008^|^2^|^fechar^|^Ordem cancelada^|^404^|^High
+CUST0009^|^DOC009^|^ORD009^|^ID009^|^4^|^redirecionar^|^Término do Processo de Obra^|^200^|^Normal
+CUST0010^|^DOC010^|^ORD010^|^ID010^|^0^|^abrir^|^Ordem encerrada com sucesso^|^200^|^Low
