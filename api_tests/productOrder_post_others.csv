@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2020-10-22T14:00:00-03:00^|^2310^|^V.tal^|^ONT^|^FTTP^|^AssociarCPE^|^A1^|^Standard
+VTT002^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTH^|^Instalacao^|^B2^|^High Priority
+VTT003^|^2021-05-05T08:00:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Instalacao^|^C3^|^Change Request
+VTT004^|^2021-06-09T18:20:53-03:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Instalacao^|^D4^|^Partial Block
+VTT005^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTP^|^Instalacao^|^E5^|^Full Block
+VTT006^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTP^|^Instalacao^|^F6^|^Unblock
+VTT007^|^2021-06-09T18:20:53-03:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Bloqueio^|^G7^|^Speed Modification
+VTT008^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTP^|^Bloqueio^|^H8^|^Removal
+VTT009^|^2021-06-09T18:20:53-03:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Retirada^|^I9^|^Risk Area
+VTT010^|^2021-06-09T18:20:53-03:00^|^10^|^Sandbox V.tal^|^ONT^|^FTTP^|^Retirada^|^J0^|^Service Cancelled
