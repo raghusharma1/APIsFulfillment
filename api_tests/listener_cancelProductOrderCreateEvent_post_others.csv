@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^code^|^statusCode^|^scenario
+ID12345678^|^DOC-001^|^CORR-1000^|^1^|^Active^|^Normal
+ID12345679^|^DOC-002^|^CORR-1001^|^2^|^Inactive^|^Emergency
+ID12345680^|^DOC-003^|^CORR-1002^|^3^|^Pending^|^Maintenance
+ID12345681^|^DOC-004^|^CORR-1003^|^4^|^Cancelled^|^Upgrade
+ID12345682^|^DOC-005^|^CORR-1004^|^0^|^Processing^|^Normal
+ID12345683^|^DOC-006^|^^|^2^|^Suspended^|^Emergency
+ID12345684^|^DOC-007^|^CORR-1006^|^-1^|^Active^|^Maintenance
+ID12345685^|^DOC-008^|^CORR-1007^|^hello^|^Pending^|^Upgrade
+ID12345686^|^DOC-009^|^CORR-1008^|^1^|^Cancelled^|^Normal
+ID12345687^|^DOC-010^|^CORR-1009^|^2^|^Active^|^Emergency
