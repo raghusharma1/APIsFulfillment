@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Issue with installation^|^200^|^Test Case 1
+Disabled^|^54321^|^Configuration error^|^404^|^Test Case 2
+Enabled^|^13579^|^Missing component^|^500^|^Test Case 3
+Active^|^24680^|^^|^200^|^Test Case 4
+^|^97531^|^Hardware failure^|^503^|^Test Case 5
+Enabled^|^86420^|^Software bug^|^true^|^Test Case 6
+On^|^15302^|^Network outage^|^300^|^Test Case 7
+Off^|^20486^|^User error^|^400^|^Test Case 8
+Yes^|^31987^|^Incorrect setup^|^201^|^Test Case 9
+No^|^90210^|^Delayed response^|^301^|^Test Case 10
