@@ -1,0 +1,2 @@
+requestBody
+"{""notification"":{""order"":{""associatedDocument"":""VTT001"",""code"":""0"",""correlationOrder"":""CORR001"",""description"":""Ordem encerrada com sucesso"",""id"":""20230315000001"",""issue"":{""action"":""abrir"",""code"":{""code"":7001},""description"":""Pendência Cancelamento por Duplicidade""}},""customer"":{""subscriberId"":""1234567890""},""date"":""2023-03-15T12:00:00Z""}}"
