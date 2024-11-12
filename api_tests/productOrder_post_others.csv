@@ -1,0 +1,11 @@
+order^|^associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^type^|^infraType^|^subscriberId^|^statusCode^|^scenario
+1^|^VTT002^|^2023-01-15T10:00:00-03:00^|^1001^|^Instalacao^|^FTTH^|^SVTAL002^|^200^|^ScenarioA
+2^|^VTT003^|^2023-01-16T11:30:00-03:00^|^1002^|^Retirada^|^FTTP^|^SVTAL003^|^404^|^ScenarioB
+3^|^VTT004^|^2023-01-17T09:20:00-03:00^|^1003^|^Bloqueio^|^FTTH^|^SVTAL004^|^500^|^ScenarioC
+4^|^VTT005^|^2023-01-18T08:45:00-03:00^|^1004^|^Desbloqueio^|^FTTP^|^SVTAL005^|^^|^ScenarioD
+5^|^VTT006^|^2023-01-19T14:00:00-03:00^|^1005^|^AssociarCPE^|^FTTH^|^SVTAL006^|^200^|^ScenarioE
+6^|^VTT007^|^2023-01-20T16:00:00-03:00^|^1006^|^Modificacao de Velocidade^|^FTTP^|^SVTAL007^|^300^|^ScenarioF
+7^|^VTT008^|^banana^|^1007^|^RemanejamentoPonto^|^FTTH^|^SVTAL008^|^200^|^ScenarioG
+8^|^VTT009^|^2023-01-22T12:00:00-03:00^|^1008^|^Instalacao^|^FTTP^|^SVTAL009^|^100^|^ScenarioH
+9^|^VTT010^|^2023-01-23T15:00:00-03:00^|^1009^|^Retirada^|^FTTH^|^SVTAL010^|^250^|^ScenarioI
+10^|^VTT011^|^2023-01-24T17:00:00-03:00^|^1010^|^Bloqueio^|^FTTP^|^SVTAL011^|^^|^ScenarioJ
