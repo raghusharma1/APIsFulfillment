@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^code^|^description^|^statusCode^|^scenario
+SUB123456789^|^DOC0001^|^CORR001^|^1^|^Enviando Atualização de Ordem^|^200^|^Processo Iniciado
+SUB123456790^|^DOC0002^|^CORR002^|^2^|^Ordem cancelada^|^400^|^Erro no Processo
+SUB123456791^|^DOC0003^|^CORR003^|^3^|^Início do Processo de Obra^|^200^|^Processo em Andamento
+SUB123456792^|^DOC0004^|^CORR004^|^4^|^Término do Processo de Obra^|^200^|^Processo Concluído
+SUB123456793^|^DOC0005^|^CORR005^|^0^|^Ordem encerrada com sucesso^|^200^|^Processo Concluído
+SUB123456794^|^DOC0006^|^CORR006^|^1^|^Enviando Atualização de Ordem^|^200^|^Processo em Andamento
+SUB123456795^|^DOC0007^|^CORR007^|^2^|^Ordem cancelada^|^400^|^Erro no Processo
+SUB123456796^|^DOC0008^|^CORR008^|^3^|^Início do Processo de Obra^|^200^|^Processo em Andamento
+SUB123456797^|^DOC0009^|^CORR009^|^4^|^Término do Processo de Obra^|^200^|^Processo Concluído
+SUB123456798^|^DOC0010^|^CORR010^|^0^|^Ordem encerrada com sucesso^|^200^|^Processo Concluído

@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+123456789^|^2023-09-21T14:22:00-03:00^|^DOC12345^|^1^|^1001^|^Enviando Atualização de Ordem^|^202309210001^|^Processo^|^200^|^Test Scenario 1
+987654321^|^2023-09-21T15:45:10-03:00^|^DOC54321^|^2^|^1002^|^Ordem cancelada^|^202309210002^|^Cancelamento^|^404^|^Test Scenario 2
+234567890^|^2023-09-21T16:00:00-03:00^|^DOC23456^|^0^|^1003^|^Ordem encerrada com sucesso.^|^202309210003^|^Encerramento^|^200^|^Test Scenario 3
+876543219^|^2023-09-21T17:30:45-03:00^|^DOC76543^|^3^|^1004^|^Início do Processo de Obra^|^202309210004^|^Obra^|^503^|^Test Scenario 4
+345678901^|^2023-09-21T18:00:00-03:00^|^DOC45678^|^4^|^1005^|^Término do Processo de Obra^|^202309210005^|^Finalização^|^200^|^Test Scenario 5
+765432198^|^2023-09-21T19:15:30-03:00^|^DOC87654^|^1^|^1006^|^Enviando Atualização de Ordem^|^202309210006^|^Processo^|^202^|^Test Scenario 6
+456789012^|^2023-09-21T20:45:00-03:00^|^DOC56789^|^-1^|^1007^|^O Equipamento já está em uso por outro cliente^|^202309210007^|^Erro^|^409^|^Test Scenario 7
+654321987^|^2023-09-21T21:30:00-03:00^|^DOC65432^|^0^|^1008^|^Ordem encerrada com sucesso.^|^202309210008^|^Encerramento^|^200^|^Test Scenario 8
+567890123^|^2023-09-21T22:00:00-03:00^|^DOC78901^|^2^|^1009^|^Ordem cancelada^|^202309210009^|^Cancelamento^|^404^|^Test Scenario 9
+432198765^|^2023-09-21T23:15:00-03:00^|^DOC32198^|^3^|^1010^|^Início do Processo de Obra^|^202309210010^|^Obra^|^503^|^Test Scenario 10
