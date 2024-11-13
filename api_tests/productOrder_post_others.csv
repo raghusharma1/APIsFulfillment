@@ -1,0 +1,11 @@
+order^|^associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^statusCode^|^scenario
+1^|^DOC123^|^2023-01-15T12:00:00-03:00^|^1001^|^Active^|^Installation
+2^|^DOC124^|^2023-01-16T12:00:00-03:00^|^1002^|^Pending^|^Maintenance
+3^|^DOC125^|^2023-01-17T12:00:00-03:00^|^1003^|^Cancelled^|^Upgrade
+4^|^DOC126^|^2023-01-18T12:00:00-03:00^|^1004^|^Completed^|^Installation
+5^|^DOC127^|^2023-01-19T12:00:00-03:00^|^1005^|^Active^|^Maintenance
+6^|^DOC128^|^2023-01-20T12:00:00-03:00^|^1006^|^Pending^|^Upgrade
+7^|^DOC129^|^2023-01-21T12:00:00-03:00^|^1007^|^Cancelled^|^Installation
+8^|^DOC130^|^2023-01-22T12:00:00-03:00^|^1008^|^Completed^|^Maintenance
+9^|^DOC131^|^2023-01-23T12:00:00-03:00^|^1009^|^Active^|^Upgrade
+10^|^DOC132^|^2023-01-24T12:00:00-03:00^|^1010^|^Pending^|^Installation
