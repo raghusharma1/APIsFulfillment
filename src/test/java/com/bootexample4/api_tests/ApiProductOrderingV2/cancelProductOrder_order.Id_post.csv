@@ -1,0 +1,2 @@
+order_Id,requestBody
+"20230315000001","""{ "order": { "associatedDocument": "VTT001", "customer": { "subscriberId": "SVTAL001" } }}"""
