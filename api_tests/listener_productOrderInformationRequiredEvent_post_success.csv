@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task details^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^1^|^Scenario A
+DOC002^|^1002^|^20230315000002^|^fechar^|^7030^|^Pendencia tecnica^|^false^|^Another observation^|^MANUTENCAO^|^Another task^|^TECNICA^|^2022-02-25T11:50:50-03:00^|^2^|^Scenario B
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7001^|^Pendencia cliente^|^true^|^More observations^|^DESENVOLVIMENTO^|^Task in progress^|^CLIENTE^|^2023-01-12T09:30:20-03:00^|^3^|^Scenario C
+DOC004^|^1004^|^20230315000004^|^abrir^|^7008^|^Pendencia rede^|^false^|^Observation here^|^PROJETO^|^Task details^|^TECNICA^|^2021-03-15T14:22:10-03:00^|^0^|^Scenario D
+DOC005^|^1005^|^20230315000005^|^fechar^|^7021^|^Pendencia agendamento^|^true^|^Text observation^|^MANUTENCAO^|^Another task detail^|^CLIENTE^|^2022-04-18T16:45:33-03:00^|^1^|^Scenario E
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7031^|^Pendencia tecnica^|^false^|^Further observation^|^DESENVOLVIMENTO^|^Task in action^|^TECNICA^|^2023-02-20T12:10:50-03:00^|^2^|^Scenario F
+DOC007^|^1007^|^20230315000007^|^abrir^|^7009^|^Pendencia cliente^|^true^|^Observation text^|^PROJETO^|^Task details^|^CLIENTE^|^2021-05-21T11:05:15-03:00^|^3^|^Scenario G
+DOC008^|^1008^|^20230315000008^|^fechar^|^7010^|^Pendencia rede^|^false^|^Another observation^|^MANUTENCAO^|^Another task^|^TECNICA^|^2022-06-30T17:55:40-03:00^|^0^|^Scenario H
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7013^|^Pendencia agendamento^|^true^|^More observations^|^DESENVOLVIMENTO^|^Task in progress^|^CLIENTE^|^2023-03-22T08:25:25-03:00^|^1^|^Scenario I
+DOC010^|^1010^|^20230315000010^|^abrir^|^7014^|^Pendencia tecnica^|^false^|^Observation here^|^PROJETO^|^Task details^|^TECNICA^|^2021-07-19T13:40:57-03:00^|^2^|^Scenario J

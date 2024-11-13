@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Critical Error^|^200^|^Test Case 1
+Disabled^|^54321^|^Minor Issue^|^404^|^Test Case 2
+On^|^11223^|^High Priority^|^500^|^Scenario A
+Off^|^22113^|^Low Priority^|^503^|^Scenario B
+Active^|^33124^|^Maintenance^|^202^|^Test Case 3
+Inactive^|^44235^|^Operational^|^301^|^Scenario C
+Yes^|^55346^|^Resolved^|^400^|^Test Case 4
+No^|^66457^|^Pending^|^401^|^Scenario D
+True^|^77568^|^Unresolved^|^403^|^Test Case 5
+False^|^88679^|^Scheduled^|^302^|^Scenario E
