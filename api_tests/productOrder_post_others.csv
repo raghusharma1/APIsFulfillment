@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^infraType^|^type^|^statusCode^|^scenario
+DOC12345^|^2023-01-15T12:00:00-03:00^|^001^|^InterWeb Corp^|^FTTP^|^Installation^|^200^|^Normal Operation
+DOC67890^|^2023-01-16T13:00:00-03:00^|^002^|^NetFast Services^|^FTTH^|^Maintenance^|^400^|^Scheduled Downtime
+VTT001^|^2023-01-17T14:00:00-03:00^|^003^|^SkyNet Providers^|^FTTP^|^Upgrade^|^500^|^Emergency Repair
+DOC54321^|^2023-01-18T15:00:00-03:00^|^004^|^UltraNet LLC^|^FTTH^|^Installation^|^^|^Normal Operation
+VTT002^|^2023-01-19T16:00:00-03:00^|^005^|^DataFast Networks^|^FTTP^|^Removal^|^200^|^Normal Operation
+DOC13579^|^2023-01-20T17:00:00-03:00^|^006^|^QuickNet Co.^|^FTTH^|^Modification^|^301^|^Upgrade Procedure
+VTT003^|^2023-01-21T18:00:00-03:00^|^007^|^SpeedyNet Services^|^FTTP^|^Installation^|^404^|^Error in Operation
+DOC24680^|^2023-01-22T19:00:00-03:00^|^008^|^Streamline Internet^|^FTTH^|^Maintenance^|^200^|^Normal Operation
+VTT004^|^2023-01-23T20:00:00-03:00^|^009^|^WebFast Providers^|^FTTP^|^Upgrade^|^503^|^Service Outage
+DOC97531^|^2023-01-24T21:00:00-03:00^|^010^|^NetStream LLC^|^FTTH^|^Removal^|^202^|^Partial Outage

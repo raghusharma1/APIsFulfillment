@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+2023-09-21T10:30:00-03:00^|^VTT001-10^|^Abertura^|^0^|^Normal
+2023-09-22T11:45:00-03:00^|^VTT002-15^|^Fechamento^|^1^|^Urgente
+2023-09-23T12:00:00-03:00^|^VTT003-20^|^Redirecionamento^|^2^|^Crítico
+2023-09-24T13:30:00-03:00^|^VTT004-25^|^Abertura^|^3^|^Normal
+2023-09-25T14:40:00-03:00^|^VTT005-30^|^Fechamento^|^4^|^Urgente
+2023-09-26T15:50:00-03:00^|^VTT006-35^|^Redirecionamento^|^-1^|^Crítico
+2023-09-27T16:00:00-03:00^|^VTT007-40^|^Abertura^|^0^|^Normal
+2023-09-28T17:10:00-03:00^|^VTT008-45^|^Fechamento^|^1^|^Urgente
+2023-09-29T18:20:00-03:00^|^VTT009-50^|^Redirecionamento^|^2^|^Crítico
+2023-09-30T19:30:00-03:00^|^VTT010-55^|^Abertura^|^3^|^Normal
