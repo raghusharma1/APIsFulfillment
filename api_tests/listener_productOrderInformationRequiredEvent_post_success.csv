@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^No issues observed.^|^PROJETO^|^Installation^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^0^|^Initial
+DOC002^|^1002^|^20230315000002^|^fechar^|^7030^|^Pendencia de agendamento^|^false^|^Missing equipment.^|^MANUTENCAO^|^Maintenance^|^TECNICA^|^2022-02-25T11:50:50.566-03:00^|^1^|^Follow-up
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7001^|^Pendencia Cancelamento por Duplicidade^|^true^|^Duplicate order found.^|^CLIENTE^|^Review^|^CLIENTE^|^2022-03-10T10:20:30-03:00^|^2^|^Error Handling
+DOC004^|^1004^|^20230315000004^|^abrir^|^7008^|^Pendencia Cancelamento por Inviabilidade Tecnica^|^false^|^Technical issue at site.^|^TECNICA^|^Repair^|^TECNICA^|^2022-04-15T14:25:40-03:00^|^3^|^Urgent
+DOC005^|^1005^|^20230315000005^|^fechar^|^7029^|^Pendencia Agendamento^|^true^|^Rescheduled successfully.^|^PROJETO^|^Reschedule^|^CLIENTE^|^2021-05-21T09:30:00-03:00^|^4^|^Rescheduling
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7009^|^Pendencia Cancelamento e Reemissao^|^false^|^Reissued after cancellation.^|^CLIENTE^|^Cancellation^|^CLIENTE^|^2022-06-18T16:40:50-03:00^|^0^|^Cancellation Process
+DOC007^|^1007^|^20230315000007^|^abrir^|^7010^|^Pendencia Equipamento Cliente^|^true^|^Client equipment pending.^|^TECNICA^|^Check-up^|^TECNICA^|^2022-07-22T12:55:20-03:00^|^1^|^Equipment Check
+DOC008^|^1008^|^20230315000008^|^fechar^|^7013^|^Pendencia Rede Interna Cliente^|^false^|^Internal network issue resolved.^|^MANUTENCAO^|^Internal Repair^|^TECNICA^|^2022-08-30T18:10:10-03:00^|^2^|^Network Maintenance
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7014^|^Pendencia Cancelamento por Desistencia do Servico^|^true^|^Service discontinued by client.^|^CLIENTE^|^Discontinuation^|^CLIENTE^|^2022-09-25T13:35:30-03:00^|^3^|^Service Closure
+DOC010^|^1010^|^20230315000010^|^abrir^|^7015^|^Pendencia Cliente Ausente^|^false^|^Client was not present at the appointment.^|^PROJETO^|^Follow-up^|^CLIENTE^|^2022-10-05T15:00:00-03:00^|^4^|^Client Absence
