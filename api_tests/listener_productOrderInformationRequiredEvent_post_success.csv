@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task details^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^1^|^Scenario A
+DOC002^|^1002^|^20230315000002^|^fechar^|^7030^|^Pendencia tecnica^|^false^|^Another observation^|^MANUTENCAO^|^Another task^|^TECNICA^|^2022-02-25T11:50:50-03:00^|^2^|^Scenario B
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7001^|^Pendencia cliente ausente^|^true^|^More details here^|^CLIENTE^|^Task for redirection^|^CLIENTE^|^2023-01-01T09:15:30-03:00^|^3^|^Scenario C
+DOC004^|^1004^|^20230315000004^|^abrir^|^7031^|^Pendencia por chuva^|^false^|^Observation needed^|^TEMPO^|^Task affected by weather^|^TECNICA^|^2023-03-10T14:20:55-03:00^|^4^|^Scenario D
+DOC005^|^1005^|^20230315000005^|^fechar^|^7021^|^Pendencia de rede^|^true^|^Network issue observed^|^REDE^|^Network task^|^TECNICA^|^2022-12-15T12:30:45-03:00^|^0^|^Scenario E
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7014^|^Cliente solicita nova data^|^false^|^Needs rescheduling^|^CLIENTE^|^Reschedule task^|^CLIENTE^|^2023-02-20T18:45:20-03:00^|^1^|^Scenario F
+DOC007^|^1007^|^20230315000007^|^abrir^|^7047^|^Acesso impossibilitado^|^true^|^Access issue^|^ACESSO^|^Access related task^|^TECNICA^|^2023-01-25T16:40:35-03:00^|^2^|^Scenario G
+DOC008^|^1008^|^20230315000008^|^fechar^|^7059^|^Pendencia de aprovisionamento^|^false^|^Provisioning delay^|^SUPRIMENTO^|^Provisioning task^|^TECNICA^|^2022-11-30T13:55:25-03:00^|^3^|^Scenario H
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7065^|^Local fechado^|^true^|^Site closed on arrival^|^LOCAL^|^Closure task^|^CLIENTE^|^2023-03-05T17:50:00-03:00^|^4^|^Scenario I
+DOC010^|^1010^|^20230315000010^|^abrir^|^7075^|^Cancelamento por tecnica^|^false^|^Technical cancellation^|^TECNICA^|^Cancellation task^|^TECNICA^|^2022-10-22T19:05:50-03:00^|^0^|^Scenario J
