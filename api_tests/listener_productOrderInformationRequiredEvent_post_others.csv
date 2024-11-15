@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^VTT001^|^Pendencia de agendamento^|^0^|^Test
+Enabled^|^VTT002^|^Pendencia de rede 3 dias^|^1^|^Production
+Disabled^|^VTT003^|^Pendencia cliente^|^2^|^Development
+Enabled^|^VTT004^|^Pendencia de aprovisionamento 5 dias^|^3^|^Test
+On^|^VTT005^|^Pendencia de rede 3 dias^|^4^|^Production
+On^|^VTT006^|^Pendencia agendamento^|^banana^|^Development
+Off^|^VTT007^|^Pendencia de rede 3 dias^|^0^|^Test
+Enabled^|^VTT008^|^Pendencia de rede 3 dias^|^1^|^Production
+Disabled^|^VTT009^|^Pendencia cliente^|^2^|^Development
+Enabled^|^VTT010^|^Pendencia de aprovisionamento 5 dias^|^3^|^Test
