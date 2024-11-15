@@ -1,0 +1,5 @@
+payload,expectedResponse
+"read('classpath:examples/Associate CPE Order Type FTTP.json')","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":""#object""}"
+"read('classpath:examples/Installation Order Type FTTH.json')","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":""#object""}"
+"read('classpath:examples/Installation Order Type FTTH arising from a address change.json')","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":""#object""}"
+"read('classpath:examples/Installation Order Type FTTP.json')","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":""#object""}"
