@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+alert^|^VTT001^|^Pendência Cancelamento por Duplicidade^|^0^|^TEST
+message^|^VTT002^|^Pendência de Rede 3 dias^|^1^|^PROD
+notification^|^VTT003^|^Pendência Cliente Ausente^|^2^|^TEST
+alert^|^VTT004^|^Pendência Agendamento^|^3^|^DEV
+^|^VTT005^|^Pendência de Aprovisionamento 5 dias^|^4^|^PROD
+message^|^VTT006^|^Pendência Cancelamento por Inviabilidade Técnica^|^-1^|^TEST
+notification^|^VTT007^|^Pendência Cliente Solicita nova data de Agendamento^|^0^|^PROD
+alert^|^VTT008^|^Pendência de Rede 3 dias^|^1^|^DEV
+^|^VTT009^|^Pendência Agendamento^|^2^|^TEST
+message^|^VTT010^|^Pendência Cliente Interrompe e Solicita nova data de Agendamento^|^3^|^DEV
