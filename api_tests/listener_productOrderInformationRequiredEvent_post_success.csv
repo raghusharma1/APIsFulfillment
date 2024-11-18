@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Observation text here^|^PROJETO^|^Task1^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^1^|^Scenario A
+DOC002^|^1002^|^20230315000002^|^fechar^|^7030^|^Pendencia tecnica^|^false^|^Observation text here^|^MANUTENCAO^|^Task2^|^TECNICA^|^2022-02-25T11:50:50.566-03:00^|^2^|^Scenario B
+DOC003^|^1003^|^20230315000003^|^redirecionar^|^7001^|^Cancelamento por duplicidade^|^true^|^Observation text here^|^ATENDIMENTO^|^Task3^|^CLIENTE^|^2023-01-01T10:00:00-03:00^|^3^|^Scenario C
+DOC004^|^1004^|^20230315000004^|^abrir^|^7021^|^Cliente solicita nova data^|^false^|^Observation text here^|^LOGISTICA^|^Task4^|^TECNICA^|^2023-02-01T13:20:30-03:00^|^4^|^Scenario D
+DOC005^|^1005^|^20230315000005^|^fechar^|^7035^|^Area de risco momentanea^|^true^|^Observation text here^|^SEGURANCA^|^Task5^|^CLIENTE^|^2023-03-05T15:45:25-03:00^|^0^|^Scenario E
+DOC006^|^1006^|^20230315000006^|^redirecionar^|^7037^|^Impedimento por chuva^|^false^|^Observation text here^|^OPERACIONAL^|^Task6^|^TECNICA^|^2023-04-10T08:30:50-03:00^|^1^|^Scenario F
+DOC007^|^1007^|^20230315000007^|^abrir^|^7042^|^Local fechado^|^true^|^Observation text here^|^COMERCIAL^|^Task7^|^CLIENTE^|^2023-05-15T12:10:40-03:00^|^2^|^Scenario G
+DOC008^|^1008^|^20230315000008^|^fechar^|^7047^|^Acesso impossibilitado^|^false^|^Observation text here^|^TECNICO^|^Task8^|^TECNICA^|^2023-06-20T16:55:55-03:00^|^3^|^Scenario H
+DOC009^|^1009^|^20230315000009^|^redirecionar^|^7049^|^Endereco nao localizado^|^true^|^Observation text here^|^LOGISTICA^|^Task9^|^CLIENTE^|^2023-07-25T09:40:10-03:00^|^4^|^Scenario I
+DOC010^|^1010^|^20230315000010^|^abrir^|^7065^|^Local fechado^|^false^|^Observation text here^|^ATENDIMENTO^|^Task10^|^TECNICA^|^2023-08-30T11:25:30-03:00^|^0^|^Scenario J
