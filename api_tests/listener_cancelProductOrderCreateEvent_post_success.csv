@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^id^|^code^|^description^|^action^|^statusCode^|^scenario
+SUB123456789^|^DOC0001^|^202310150001^|^1^|^Enviando Atualização de Ordem^|^abrir^|^200^|^Initial
+SUB123456790^|^DOC0002^|^202310150002^|^2^|^Ordem cancelada^|^fechar^|^404^|^Cancellation
+SUB123456791^|^DOC0003^|^202310150003^|^3^|^Início do Processo de Obra^|^redirecionar^|^500^|^Construction
+SUB123456792^|^DOC0004^|^202310150004^|^4^|^Término do Processo de Obra^|^abrir^|^201^|^Completion
+SUB123456793^|^DOC0005^|^202310150005^|^0^|^Ordem encerrada com sucesso^|^fechar^|^200^|^Success
+SUB123456794^|^DOC0006^|^202310150006^|^1^|^Enviando Atualização de Ordem^|^redirecionar^|^202^|^Update
+SUB123456795^|^DOC0007^|^202310150007^|^2^|^Ordem cancelada^|^abrir^|^404^|^Cancellation
+SUB123456796^|^DOC0008^|^202310150008^|^3^|^Início do Processo de Obra^|^fechar^|^500^|^Construction
+SUB123456797^|^DOC0009^|^202310150009^|^4^|^Término do Processo de Obra^|^redirecionar^|^201^|^Completion
+SUB123456798^|^DOC0010^|^202310150010^|^0^|^Ordem encerrada com sucesso^|^abrir^|^200^|^Success
