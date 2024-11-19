@@ -1,0 +1,3 @@
+order_Id,request_body,expected_response
+"12345","{""productId"":67890,""quantity"":10}","{""success"":true,""id"":12345}"
+"67890","{""productId"":12345,""quantity"":5}","{""success"":true,""id"":67890}"
