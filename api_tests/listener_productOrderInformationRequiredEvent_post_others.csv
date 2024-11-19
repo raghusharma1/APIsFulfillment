@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+2023-08-21T14:30:00-03:00^|^VTT001-10^|^Abertura de chamado^|^0^|^Pendência técnica
+2023-08-22T15:45:00-03:00^|^VTT002-20^|^Fechamento de chamado^|^1^|^Pendência de cliente
+2023-08-23T16:50:00-03:00^|^VTT003-30^|^Redirecionamento de equipe^|^2^|^Pendência operacional
+2023-08-24T17:55:00-03:00^|^VTT004-40^|^Abertura de chamado^|^3^|^Pendência técnica
+2023-08-25T18:00:00-03:00^|^VTT005-50^|^Fechamento de chamado^|^4^|^Pendência de cliente
+2023-08-26T19:05:00-03:00^|^VTT006-60^|^^|^0^|^Pendência operacional
+2023-08-27T20:10:00-03:00^|^VTT007-70^|^Redirecionamento de equipe^|^1^|^Pendência técnica
+2023-08-28T21:15:00-03:00^|^VTT008-80^|^Abertura de chamado^|^2^|^Pendência de cliente
+2023-08-29T22:20:00-03:00^|^VTT009-90^|^Fechamento de chamado^|^3^|^Pendência operacional
+2023-08-30T23:25:00-03:00^|^VTT010-100^|^Redirecionamento de equipe^|^4^|^Pendência técnica
