@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^code^|^description^|^action^|^statusCode^|^scenario
+1234567890^|^VTT001^|^1^|^Ordem encerrada com sucesso^|^abrir^|^200^|^Normal
+9876543210^|^VTT002^|^2^|^Ordem cancelada^|^fechar^|^404^|^Urgent
+1357924680^|^VTT003^|^3^|^Início do Processo de Obra^|^redirecionar^|^500^|^Standard
+2468013579^|^VTT004^|^4^|^Término do Processo de Obra^|^abrir^|^202^|^Delayed
+1029384756^|^VTT005^|^0^|^Ordem encerrada com sucesso^|^fechar^|^204^|^High Priority
+5647382910^|^VTT006^|^1^|^Enviando Atualização de Ordem^|^abrir^|^403^|^Low Priority
+0987654321^|^VTT007^|^2^|^Ordem cancelada^|^redirecionar^|^401^|^Critical
+5647382901^|^VTT008^|^3^|^Início do Processo de Obra^|^abrir^|^400^|^Optional
+6758493021^|^VTT009^|^4^|^Término do Processo de Obra^|^fechar^|^403^|^Review
+9182736450^|^VTT010^|^0^|^Ordem encerrada com sucesso^|^redirecionar^|^200^|^Update

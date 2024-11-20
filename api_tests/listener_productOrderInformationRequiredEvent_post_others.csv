@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+Enabled^|^12345^|^Critical Error^|^200^|^Test
+Disabled^|^ABC123^|^Minor Warning^|^404^|^Live
+^|^78910^|^Major Error^|^500^|^Simulation
+Enabled^|^XYZ789^|^^|^204^|^Development
+^|^456DEF^|^System Down^|^301^|^Production
+On^|^65432^|^Low Risk^|^202^|^Testing
+Off^|^QWERTY^|^High Risk^|^400^|^Demo
+Active^|^ASD456^|^No Issue^|^503^|^Staging
+Inactive^|^09876^|^Regular Check^|^200^|^Upgrade
+^|^321XYZ^|^Timeout^|^504^|^Rollback
