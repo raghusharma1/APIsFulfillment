@@ -1,0 +1,12 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^issueCode^|^statusCode^|^scenario
+cust-001^|^DOC001^|^ORD-1001^|^20230001^|^7001^|^OPEN^|^Update Required
+cust-002^|^DOC002^|^ORD-1002^|^20230002^|^7008^|^CLOSED^|^Normal Operation
+cust-003^|^DOC003^|^ORD-1003^|^20230003^|^7010^|^PENDING^|^Requires Review
+cust-004^|^DOC004^|^ORD-1004^|^20230004^|^7021^|^IN_PROGRESS^|^Update Pending
+cust-005^|^DOC005^|^ORD-1005^|^20230005^|^7031^|^RESOLVED^|^Resolved Issues
+cust-006^|^DOC006^|^ORD-1006^|^20230006^|^7035^|^FAILED^|^Failure Report
+cust-007^|^DOC007^|^ORD-1007^|^20230007^|^7047^|^CANCELLED^|^Cancellation Processed
+cust-008^|^DOC008^|^ORD-1008^|^20230008^|^7067^|^REOPENED^|^Reopen Case
+cust-009^|^DOC009^|^ORD-1009^|^20230009^|^7078^|^ON_HOLD^|^On Hold for Information
+cust-010^|^DOC010^|^ORD-1010^|^20230010^|^7092^|^COMPLETED^|^Completed Successfully
+cust-011^|^DOC011^|^ORD-1011^|^20230011^|^7100^|^REJECTED^|^Rejected Due to Errors
