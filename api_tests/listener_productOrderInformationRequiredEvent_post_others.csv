@@ -1,0 +1,11 @@
+notification^|^order^|^issue^|^statusCode^|^scenario
+2023-09-21T14:30:00-03:00^|^VTT001-10^|^Abertura pendência^|^0^|^Cancelamento por duplicidade
+2023-10-05T09:15:23-03:00^|^VTT002-15^|^^|^1^|^Início do processo de obra
+2023-08-17T17:50:01-03:00^|^VTT003-20^|^Fechamento pendência^|^2^|^Ordem cancelada
+2023-11-02T11:30:00-03:00^|^VTT004-25^|^Redirecionamento pendência^|^3^|^Término do processo de obra
+2023-07-08T08:00:00-03:00^|^VTT005-30^|^^|^4^|^Enviando atualização de ordem
+2023-06-19T16:45:00-03:00^|^VTT006-35^|^Abertura pendência^|^banana^|^Área de risco momentânea
+2023-05-22T10:20:00-03:00^|^VTT007-40^|^Fechamento pendência^|^0^|^
+2023-04-30T12:55:00-03:00^|^VTT008-45^|^Redirecionamento pendência^|^1^|^Impedimento de atividade por chuva
+2023-03-15T19:00:00-03:00^|^VTT009-50^|^Abertura pendência^|^2^|^Cancelamento e reemissão
+2023-02-28T20:10:00-03:00^|^VTT010-55^|^Fechamento pendência^|^3^|^Cliente não solicitou instalação
