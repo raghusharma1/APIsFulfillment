@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^action^|^codeIssue^|^descriptionIssue^|^lostEquipment^|^statusCode^|^scenario
+user12345^|^2023-08-15T12:45:30Z^|^VTT001^|^1^|^ORD12345^|^Enviando Atualização de Ordem^|^20230815001^|^abrir^|^7001^|^Pendência Cancelamento por Duplicidade^|^False^|^200^|^Process Update
+user12346^|^2023-08-16T13:00:00Z^|^VTT002^|^0^|^ORD12346^|^Ordem encerrada com sucesso^|^20230816002^|^fechar^|^7010^|^Pendência Equipamento Cliente^|^False^|^200^|^Order Closure
+user12347^|^2023-08-17T14:15:45Z^|^VTT003^|^2^|^ORD12347^|^Ordem cancelada^|^20230817003^|^redirecionar^|^7029^|^Pendência Agendamento^|^True^|^404^|^Cancellation
+user12348^|^2023-08-18T15:30:30Z^|^VTT004^|^3^|^ORD12348^|^Início do Processo de Obra^|^20230818004^|^abrir^|^7035^|^Pendência área de Risco Momentânea^|^False^|^500^|^Construction Start
+user12349^|^2023-08-19T16:45:15Z^|^VTT005^|^4^|^ORD12349^|^Término do Processo de Obra^|^20230819005^|^fechar^|^7047^|^Pendência Acesso Impossibilitado^|^True^|^200^|^Construction End
+user12350^|^2023-08-20T17:00:00Z^|^VTT006^|^-1^|^ORD12350^|^O Equipamento já está em uso por outro cliente^|^20230820006^|^redirecionar^|^7059^|^Pendência de Aprovisionamento 5 dias^|^False^|^404^|^Equipment Issue
+user12351^|^2023-08-21T18:15:45Z^|^VTT007^|^3^|^ORD12351^|^Início do Processo de Obra^|^20230821007^|^abrir^|^7075^|^Pendência Cancelamento por Inviabilidade Técnica^|^False^|^500^|^Construction Start
+user12352^|^2023-08-22T19:30:30Z^|^VTT008^|^1^|^ORD12352^|^Enviando Atualização de Ordem^|^20230822008^|^fechar^|^7095^|^Pendência agendamento não cumprido^|^True^|^200^|^Process Update
+user12353^|^2023-08-23T20:45:15Z^|^VTT009^|^0^|^ORD12353^|^Ordem encerrada com sucesso^|^20230823009^|^redirecionar^|^7108^|^Pendência Impedimento de Atividade por Chuva^|^False^|^200^|^Order Closure
+user12354^|^2023-08-24T21:00:00Z^|^VTT010^|^2^|^ORD12354^|^Ordem cancelada^|^20230824010^|^abrir^|^7004^|^Pendência Agendamento Futuro Obra 7 dias^|^True^|^404^|^Cancellation
