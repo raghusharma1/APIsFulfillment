@@ -1,0 +1,3 @@
+order_Id,request_body,expected_response
+"1001","{""product"":""Book"",""quantity"":""4"",""status"":""confirmed""}","{""status"":""success""}"
+"1002","{""product"":""Laptop"",""quantity"":""1"",""status"":""confirmed""}","{""status"":""success""}"
