@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2021-06-09T18:20:53-03:00^|^10^|^InterHome Internet^|^ONT^|^FTTH^|^Instalacao^|^complete^|^normal
+DOC202^|^2020-10-22T14:00:00-03:00^|^2310^|^V.tal^|^ONT^|^FTTP^|^AssociarCPE^|^pending^|^high priority
+VTT003^|^2021-05-05T08:00:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Instalacao^|^failed^|^critical
+DOC204^|^2021-06-09T18:20:53-03:00^|^10^|^InterCorp Internet^|^ONT^|^FTTP^|^Instalacao^|^complete^|^normal
+VTT005^|^2021-06-14T08:00:00^|^923467432^|^InterHome Internet^|^ONT^|^FTTH^|^RemanejamentoPonto^|^pending^|^low priority
+DOC206^|^2020-11-13T16:20:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Retirada^|^failed^|^urgent
+VTT007^|^2021-06-09T18:20:53-03:00^|^10^|^InterCorp Internet^|^ONT^|^FTTP^|^Retirada^|^complete^|^normal
+DOC208^|^2021-06-09T18:20:53-03:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Bloqueio^|^pending^|^high priority
+VTT009^|^2021-06-09T18:20:53-03:00^|^9^|^InterHome Internet^|^ONT^|^FTTH^|^Desbloqueio^|^failed^|^critical
+DOC210^|^2021-06-09T18:20:53-03:00^|^10^|^InterCorp Internet^|^ONT^|^FTTP^|^Modificacao de Velocidade^|^complete^|^normal
