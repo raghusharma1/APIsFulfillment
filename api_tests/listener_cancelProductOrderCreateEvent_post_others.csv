@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^action^|^codeIssue^|^descriptionIssue^|^lostEquipment^|^statusCode^|^scenario
+12345^|^2023-03-15T12:00:00Z^|^VTT001^|^1^|^CO123456789^|^Enviando Atualização de Ordem^|^20230315000001^|^abrir^|^7001^|^Pendência Cancelamento por Duplicidade^|^True^|^01^|^Process Update
+54321^|^2023-03-16T13:00:00Z^|^VTT002^|^3^|^CO987654321^|^Início do Processo de Obra^|^20230316000002^|^fechar^|^7010^|^Pendência Equipamento Cliente^|^False^|^02^|^Start Construction
+67890^|^2023-03-17T14:30:00Z^|^VTT003^|^2^|^CO112233445^|^Ordem cancelada^|^20230317000003^|^redirecionar^|^7029^|^Pendência Agendamento^|^True^|^03^|^Cancel Order
+23456^|^2023-03-18T15:45:00Z^|^VTT004^|^4^|^CO556677889^|^Término do Processo de Obra^|^20230318000004^|^abrir^|^7031^|^Pendência Agendamento^|^False^|^04^|^Finish Construction
+34567^|^2023-03-19T16:00:00Z^|^VTT005^|^-1^|^CO998877665^|^O Equipamento já está em uso por outro cliente^|^20230319000005^|^fechar^|^7065^|^Pendência Local Fechado^|^True^|^05^|^Equipment Issue
+45678^|^2023-03-20T17:15:00Z^|^VTT006^|^0^|^CO334455667^|^Ordem encerrada com sucesso^|^20230320000006^|^redirecionar^|^7049^|^Pendência Endereço Não Localizado^|^False^|^06^|^Success Closure
+98765^|^2023-03-21T18:25:00Z^|^VTT007^|^1^|^CO123443211^|^Enviando Atualização de Ordem^|^20230321000007^|^abrir^|^7037^|^Pendência Impedimento de Atividade por Chuva^|^True^|^07^|^Update Order
+87654^|^2023-03-22T19:35:00Z^|^VTT008^|^3^|^CO665544332^|^Início do Processo de Obra^|^20230322000008^|^fechar^|^7078^|^Pendência Cancelamento por Desistência do Serviço^|^False^|^08^|^Start Construction
+76543^|^2023-03-23T20:45:00Z^|^VTT009^|^2^|^CO778899001^|^Ordem cancelada^|^20230323000009^|^redirecionar^|^7083^|^Pendência Cliente Não Solicitou Instalação^|^True^|^09^|^Cancel Order
+65432^|^2023-03-24T21:55:00Z^|^VTT010^|^4^|^CO112233998^|^Término do Processo de Obra^|^20230324000010^|^abrir^|^7099^|^Pendência Endereço correto Inviável^|^False^|^10^|^Finish Construction
