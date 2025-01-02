@@ -1,0 +1,3 @@
+order_Id,request_body,expected_response
+"12345","{""productStatus"":""shipped"",""quantity"":10}","{""status"":""OK""}"
+"67890","{""productStatus"":""processing"",""quantity"":20}","{""status"":""OK""}"
