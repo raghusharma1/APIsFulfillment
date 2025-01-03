@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^statusCode^|^scenario
+USR001^|^DOC001^|^CORR001^|^ID001^|^abrir^|^2^|^Início do Processo de Obra^|^200^|^ScenarioA
+USR002^|^DOC002^|^CORR002^|^ID002^|^fechar^|^3^|^Término do Processo de Obra^|^201^|^ScenarioB
+USR003^|^DOC003^|^CORR003^|^ID003^|^redirecionar^|^1^|^Enviando Atualização de Ordem^|^202^|^ScenarioC
+USR004^|^DOC004^|^CORR004^|^ID004^|^abrir^|^0^|^Ordem encerrada com sucesso^|^203^|^ScenarioD
+USR005^|^DOC005^|^CORR005^|^ID005^|^fechar^|^4^|^Término do Processo de Obra^|^204^|^ScenarioE
+USR006^|^DOC006^|^CORR006^|^ID006^|^redirecionar^|^1^|^Enviando Atualização de Ordem^|^205^|^ScenarioF
+USR007^|^DOC007^|^CORR007^|^ID007^|^abrir^|^2^|^Início do Processo de Obra^|^206^|^ScenarioG
+USR008^|^DOC008^|^CORR008^|^ID008^|^fechar^|^0^|^Ordem encerrada com sucesso^|^207^|^ScenarioH
+USR009^|^DOC009^|^CORR009^|^ID009^|^redirecionar^|^4^|^Término do Processo de Obra^|^208^|^ScenarioI
+USR010^|^DOC010^|^CORR010^|^ID010^|^abrir^|^1^|^Enviando Atualização de Ordem^|^209^|^ScenarioJ
