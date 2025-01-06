@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2021-06-09T18:20:53-03:00^|^10^|^InterHome Internet^|^ONT^|^FTTH^|^Instalacao^|^200^|^Successful
+DOC200^|^2020-10-22T14:00:00-03:00^|^2310^|^V.tal^|^ONT^|^FTTP^|^AssociarCPE^|^400^|^Failed
+VTT003^|^2021-05-05T08:00:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Instalacao^|^500^|^Pending
+VTT004^|^2021-06-09T18:20:53-03:00^|^10^|^InterCorp Internet^|^ONT^|^FTTP^|^Instalacao^|^200^|^Successful
+DOC205^|^2021-06-09T18:20:53-03:00^|^9^|^Sandbox V.tal^|^ONT^|^FTTH^|^Bloqueio^|^403^|^Error
+VTT006^|^2020-11-13T16:20:00^|^9^|^InterHome Internet^|^ONT^|^FTTH^|^Retirada^|^404^|^NotFound
+DOC207^|^2021-06-09T18:20:53-03:00^|^10^|^V.tal^|^ONT^|^FTTP^|^Bloqueio^|^200^|^Successful
+VTT008^|^2021-06-09T18:20:53-03:00^|^923467432^|^Sandbox V.tal^|^ONT^|^FTTH^|^RemanejamentoPonto^|^500^|^Pending
+DOC209^|^2021-06-09T18:20:53-03:00^|^10^|^InterCorp Internet^|^ONT^|^FTTP^|^Retirada^|^^|^
+VTT010^|^2021-06-14T08:00:00^|^9^|^InterHome Internet^|^ONT^|^FTTH^|^Desbloqueio^|^200^|^Successful
