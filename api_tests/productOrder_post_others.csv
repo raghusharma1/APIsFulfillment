@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2021-06-09T18:20:53-03:00^|^10^|^InterHome Internet^|^ALCLF718RF05^|^FTTH^|^Instalacao^|^Active^|^Standard
+VTT002^|^2021-07-15T10:15:30-03:00^|^20^|^InterCorp Internet^|^ALCLF718RF06^|^FTTP^|^Retirada^|^Pending^|^Urgent
+VTT003^|^2020-10-22T14:00:00-03:00^|^30^|^Sandbox V.tal^|^ALCLF718RF07^|^FTTH^|^Bloqueio^|^Cancelled^|^High Priority
+VTT004^|^2021-12-01T09:00:00-03:00^|^40^|^InterHome Internet^|^ALCLF718RF08^|^FTTP^|^Desbloqueio^|^Completed^|^Low Priority
+VTT005^|^2022-01-20T16:30:00-03:00^|^50^|^InterCorp Internet^|^ALCLF718RF09^|^FTTH^|^AssociarCPE^|^Failed^|^Standard
+VTT006^|^2023-03-15T13:45:00-03:00^|^60^|^Sandbox V.tal^|^ALCLF718RF10^|^FTTP^|^Modificacao de Velocidade^|^Active^|^High Priority
+VTT007^|^2023-02-28T11:00:00-03:00^|^70^|^InterHome Internet^|^ALCLF718RF11^|^FTTH^|^RemanejamentoPonto^|^Pending^|^Urgent
+VTT008^|^2022-08-05T18:55:00-03:00^|^80^|^InterCorp Internet^|^ALCLF718RF12^|^FTTP^|^Instalacao^|^Cancelled^|^Low Priority
+VTT009^|^2021-11-11T07:30:00-03:00^|^90^|^Sandbox V.tal^|^ALCLF718RF13^|^FTTH^|^Bloqueio^|^Completed^|^Standard
+VTT010^|^2020-12-25T14:45:00-03:00^|^100^|^InterHome Internet^|^ALCLF718RF14^|^FTTP^|^Desbloqueio^|^Failed^|^High Priority
