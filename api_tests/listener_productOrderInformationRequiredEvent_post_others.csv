@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+VTT002^|^11^|^20230315000002^|^abrir^|^7031^|^Pendência Agendamento^|^true^|^Obs1^|^PROJETO^|^Task1^|^CLIENTE^|^2021-02-18T17:20:50-03:00^|^1^|^ScenarioA
+VTT003^|^12^|^20230315000003^|^fechar^|^7035^|^Pendência área de Risco Momentânea^|^false^|^Obs2^|^MANUTENÇÃO^|^Task2^|^TECNICA^|^2022-02-26T11:51:50.566-03:00^|^2^|^ScenarioB
+VTT004^|^13^|^20230315000004^|^redirecionar^|^7001^|^Pendência Cancelamento por Duplicidade^|^true^|^Obs3^|^INCORRETO^|^Task3^|^CLIENTE^|^2021-03-19T18:21:51-03:00^|^3^|^ScenarioC
+VTT005^|^14^|^20230315000005^|^abrir^|^7029^|^Pendência Agendamento^|^false^|^Obs4^|^PROJETO^|^Task4^|^TECNICA^|^2021-04-20T19:22:52-03:00^|^4^|^ScenarioD
+VTT006^|^15^|^20230315000006^|^fechar^|^7030^|^Pendência de Rede 3 dias^|^true^|^Obs5^|^MANUTENÇÃO^|^Task5^|^CLIENTE^|^2022-03-27T12:53:53.567-03:00^|^0^|^ScenarioE
+VTT007^|^16^|^20230315000007^|^redirecionar^|^7004^|^Pendência Agendamento Futuro Obra 7 dias^|^false^|^Obs6^|^INCORRETO^|^Task6^|^TECNICA^|^2021-05-21T20:23:54-03:00^|^1^|^ScenarioF
+VTT008^|^17^|^20230315000008^|^abrir^|^7006^|^Pendência de Aprovisionamento 5 dias^|^true^|^Obs7^|^PROJETO^|^Task7^|^CLIENTE^|^2021-06-22T21:24:55-03:00^|^-1^|^ScenarioG
+VTT009^|^18^|^20230315000009^|^fechar^|^7010^|^Pendência Equipamento Cliente^|^false^|^Obs8^|^MANUTENÇÃO^|^Task8^|^TECNICA^|^2022-04-28T13:54:56.568-03:00^|^3^|^ScenarioH
+VTT010^|^19^|^20230315000010^|^redirecionar^|^7015^|^Pendência Cancelamento por Desistência do Serviço^|^true^|^Obs9^|^INCORRETO^|^Task9^|^CLIENTE^|^2021-07-23T22:25:57-03:00^|^4^|^ScenarioI
+VTT011^|^20^|^20230315000011^|^abrir^|^7021^|^Pendência Cliente Interrompe e Solicita nova data de Agendamento^|^false^|^Obs10^|^PROJETO^|^Task10^|^TECNICA^|^2021-08-24T23:26:58-03:00^|^2^|^ScenarioJ

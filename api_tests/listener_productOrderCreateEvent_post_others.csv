@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^correlationOrder^|^id^|^code^|^description^|^statusCode^|^scenario
+12345^|^DOC001^|^1001^|^202303150001^|^1^|^Enviando Atualização de Ordem^|^200^|^Initial
+A2345^|^DOC002^|^1002^|^202303150002^|^2^|^Ordem cancelada^|^404^|^Error
+B2345^|^DOC003^|^1003^|^202303150003^|^3^|^Início do Processo de Obra^|^500^|^InProgress
+C2345^|^DOC004^|^1004^|^202303150004^|^4^|^Término do Processo de Obra^|^202^|^Complete
+D2345^|^DOC005^|^1005^|^202303150005^|^-1^|^O Equipamento já está em uso por outro cliente^|^409^|^Conflict
+E2345^|^DOC006^|^1006^|^202303150006^|^0^|^Ordem encerrada com sucesso^|^200^|^Success
+F2345^|^DOC007^|^1007^|^202303150007^|^1^|^Enviando Atualização de Ordem^|^201^|^Update
+G2345^|^DOC008^|^1008^|^202303150008^|^2^|^Ordem cancelada^|^404^|^Failure
+H2345^|^DOC009^|^1009^|^202303150009^|^3^|^Início do Processo de Obra^|^503^|^Processing
+I2345^|^DOC010^|^1010^|^202303150010^|^4^|^Término do Processo de Obra^|^204^|^Completed

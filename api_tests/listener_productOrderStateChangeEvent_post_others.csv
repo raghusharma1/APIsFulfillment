@@ -1,0 +1,11 @@
+subscriberId^|^date^|^associatedDocument^|^code^|^correlationOrder^|^description^|^id^|^type^|^statusCode^|^scenario
+123456789^|^2023-03-15T12:00:00Z^|^DOC001^|^2^|^15^|^Ordem cancelada^|^202303150001^|^Cancelamento^^|^
+987654321^|^2023-03-15T13:00:00Z^|^DOC002^|^0^|^16^|^Ordem encerrada com sucesso.^|^202303150002^|^Encerramento^^|^
+135792468^|^2023-03-15T14:00:00Z^|^DOC003^|^1^|^17^|^Enviando Atualização de Ordem^|^202303150003^|^Atualização^^|^
+246801357^|^2023-03-15T15:00:00Z^|^DOC004^|^3^|^18^|^Início do Processo de Obra^|^202303150004^|^Início^^|^
+864213579^|^2023-03-15T16:00:00Z^|^DOC005^|^4^|^19^|^Término do Processo de Obra^|^202303150005^|^Término^^|^
+975318642^|^2023-03-15T17:00:00Z^|^DOC006^|^banana^|^20^|^Descrição inválida^|^202303150006^|^Tipo inválido^^|^
+159753486^|^2023-03-15T18:00:00Z^|^DOC007^|^-1^|^21^|^O Equipamento já está em uso por outro cliente^|^202303150007^|^Erro^^|^
+357159486^|^2023-03-15T19:00:00Z^|^DOC008^|^2^|^22^|^Ordem cancelada^|^202303150008^|^Cancelamento^^|^
+951753864^|^2023-03-15T20:00:00Z^|^DOC009^|^0^|^23^|^Ordem encerrada com sucesso.^|^202303150009^|^Encerramento^^|^
+753159486^|^2023-03-15T21:00:00Z^|^DOC010^|^1^|^24^|^Enviando Atualização de Ordem^|^202303150010^|^Atualização^^|^

@@ -1,0 +1,11 @@
+notification.order.associatedDocument^|^notification.order.id^|^statusCode^|^scenario
+DOC-001^|^ORD-0001^|^active^|^Normal
+DOC-002^|^ORD-0002^|^complete^|^Urgent
+DOC-003^|^ORD-0003^|^pending^|^Standard
+DOC-004^|^ORD-0004^|^cancelled^|^High Priority
+DOC-005^|^ORD-0005^|^error^|^Normal
+VTT006^|^ORD-0006^|^active^|^Delayed
+VTT007^|^ORD-0007^|^complete^|^On Hold
+VTT008^|^ORD-0008^|^cancelled^|^Rush
+VTT009^|^ORD-0009^|^error^|^Standard
+VTT010^|^ORD-0010^|^active^|^Urgent

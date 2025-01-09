@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^CO001^|^ID001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^No issues^|^PROJETO^|^Task1^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^0^|^Scenario1
+DOC002^|^CO002^|^ID002^|^fechar^|^7030^|^Pendencia de rede^|^false^|^Check later^|^MANUTENCAO^|^Task2^|^TECNICA^|^2022-02-25T11:50:50-03:00^|^1^|^Scenario2
+DOC003^|^CO003^|^ID003^|^redirecionar^|^7001^|^Pendencia Cancelamento por Duplicidade^|^true^|^Resolved^|^DESENVOLVIMENTO^|^Task3^|^CLIENTE^|^2023-01-12T09:30:00-03:00^|^2^|^Scenario3
+DOC004^|^CO004^|^ID004^|^abrir^|^7031^|^Pendencia Agendamento^|^false^|^Pending review^|^OPERACAO^|^Task4^|^TECNICA^|^2023-01-15T15:45:20-03:00^|^3^|^Scenario4
+DOC005^|^CO005^|^ID005^|^fechar^|^7014^|^Pendencia Rede Interna Cliente^|^true^|^No action needed^|^SERVICO^|^Task5^|^CLIENTE^|^2021-03-21T10:15:30-03:00^|^4^|^Scenario5
+DOC006^|^CO006^|^ID006^|^redirecionar^|^7024^|^Pendencia de Rede 3 dias^|^false^|^Awaiting confirmation^|^LOGISTICA^|^Task6^|^TECNICA^|^2022-05-18T14:25:45-03:00^|^0^|^Scenario6
+DOC007^|^CO007^|^ID007^|^abrir^|^7021^|^Pendencia Cliente Interrompe e Solicita nova data de Agendamento^|^true^|^To be discussed^|^CLIENTE^|^Task7^|^CLIENTE^|^2023-02-28T12:00:00-03:00^|^1^|^Scenario7
+DOC008^|^CO008^|^ID008^|^fechar^|^7047^|^Pendencia Acesso Impossibilitado^|^false^|^Further investigation required^|^SEGURANCA^|^Task8^|^TECNICA^|^2021-04-22T16:35:50-03:00^|^2^|^Scenario8
+DOC009^|^CO009^|^ID009^|^redirecionar^|^7067^|^Pendencia Cancelamento por Area de Risco^|^true^|^Issue escalated^|^RISCO^|^Task9^|^CLIENTE^|^2022-06-30T18:55:00-03:00^|^3^|^Scenario9
+DOC010^|^CO010^|^ID010^|^abrir^|^7054^|^Pendencia de Aprovisionamento 5 dias^|^false^|^Review scheduled^|^SUPRIMENTOS^|^Task10^|^TECNICA^|^2023-03-01T08:20:35-03:00^|^4^|^Scenario10
