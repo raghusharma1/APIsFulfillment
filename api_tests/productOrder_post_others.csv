@@ -1,0 +1,11 @@
+order^|^associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+1^|^VTT001^|^2023-01-15T12:00:00-03:00^|^2310^|^V.tal^|^ONT^|^FTTP^|^Instalacao^|^Complete^|^Normal
+2^|^VTT002^|^2023-01-16T13:00:00-03:00^|^2311^|^Sandbox V.tal^|^ONT^|^FTTH^|^Retirada^|^Failed^|^HighPriority
+3^|^VTT003^|^2023-01-17T14:00:00-03:00^|^2312^|^InterHome Internet^|^ONT^|^FTTP^|^Bloqueio^|^Pending^|^LowPriority
+4^|^VTT004^|^2023-01-18T15:00:00-03:00^|^2313^|^InterCorp Internet^|^ONT^|^FTTH^|^Desbloqueio^|^Complete^|^Normal
+5^|^VTT005^|^2023-01-19T16:00:00-03:00^|^2314^|^V.tal^|^ONT^|^FTTP^|^AssociarCPE^|^Pending^|^HighRisk
+6^|^VTT006^|^2023-01-20T17:00:00-03:00^|^2315^|^Sandbox V.tal^|^ONT^|^FTTH^|^Modificacao de Velocidade^|^Failed^|^LowRisk
+7^|^VTT007^|^2023-01-21T18:00:00-03:00^|^2316^|^InterHome Internet^|^ONT^|^FTTP^|^RemanejamentoPonto^|^Complete^|^Normal
+8^|^VTT008^|^2023-01-22T19:00:00-03:00^|^2317^|^InterCorp Internet^|^ONT^|^FTTH^|^Instalacao^|^Pending^|^HighPriority
+9^|^VTT009^|^2023-01-23T20:00:00-03:00^|^2318^|^V.tal^|^ONT^|^FTTP^|^Retirada^|^Failed^|^LowPriority
+10^|^VTT010^|^2023-01-24T21:00:00-03:00^|^2319^|^Sandbox V.tal^|^ONT^|^FTTH^|^Bloqueio^|^Complete^|^Normal
