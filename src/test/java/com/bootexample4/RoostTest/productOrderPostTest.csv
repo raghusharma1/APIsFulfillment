@@ -1,0 +1,11 @@
+RequestBody^|^statusCode
+{"name":"John Doe","age":30,"email":"john.doe@example.com"}^|^201
+{"name":"Jane Smith","age":25,"email":"jane.smith@example.com"}^|^400
+{"name":"Alice Johnson","age":28,"email":"alice.johnson@example.com"}^|^401
+{"name":"Bob Brown","age":35,"email":"bob.brown@example.com"}^|^403
+{"name":"Charlie Davis","age":32,"email":"charlie.davis@example.com"}^|^404
+{"name":"Daisy Clark","age":29,"email":"daisy.clark@example.com"}^|^406
+{"name":"Ethan Harris","age":31,"email":"ethan.harris@example.com"}^|^429
+{"name":"Fiona King","age":27,"email":"fiona.king@example.com"}^|^500
+{"name":"George Lee","age":34,"email":"george.lee@example.com"}^|^503
+{"name":"Hannah Martin","age":26,"email":"hannah.martin@example.com"}^|^504
