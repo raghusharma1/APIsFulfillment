@@ -1,0 +1,2 @@
+body
+"{""id"":""123"",""type"":""orderCreated"",""timestamp"":""2021-04-03T10:15:30"",""details"":{""orderId"":""123"",""productCode"":""XYZ"",""quantity"":2}}"
