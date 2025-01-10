@@ -1,0 +1,2 @@
+requestBody
+"{""subscriberId"":""12345"",""order"":{""id"":""98765"",""description"":""New Product"",""code"":""NP123"",""associatedDocument"":""Doc123"",""correlationOrder"":""Order123"",""type"":""Type1""}}"
