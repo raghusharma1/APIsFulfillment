@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customerName^|^phoneNumber^|^email^|^infraType^|^type^|^statusCode^|^scenario
+VTT102^|^2021-04-21T10:30:00-03:00^|^1201^|^Alice Johnson^|^21965432109^|^alice.johnson@example.com^|^FTTP^|^Installation^|^200^|^New Install
+VTT103^|^2021-05-15T15:45:00-03:00^|^1202^|^Bob Smith^|^21965432110^|^bob.smith@example.com^|^FTTH^|^Maintenance^|^201^|^Scheduled Maintenance
+VTT104^|^2021-06-10T09:20:00-03:00^|^1203^|^Charlie Davis^|^21965432111^|^charlie.davis@example.com^|^FTTP^|^Upgrade^|^202^|^Upgrade Service
+VTT105^|^2021-07-22T14:00:00-03:00^|^1204^|^Diana Ross^|^21965432112^|^diana.ross@example.com^|^FTTH^|^Disconnection^|^203^|^Customer Request
+VTT106^|^2021-08-30T16:30:00-03:00^|^1205^|^Evan Right^|^21965432113^|^evan.right@example.com^|^FTTP^|^Installation^|^204^|^New Install
+VTT107^|^2021-09-25T11:00:00-03:00^|^1206^|^Fiona Glenanne^|^21965432114^|^fiona.g@example.com^|^FTTH^|^Maintenance^|^205^|^Emergency Repair
+VTT108^|^2021-10-20T08:15:00-03:00^|^1207^|^George King^|^21965432115^|^george.king@example.com^|^FTTP^|^Upgrade^|^206^|^Service Expansion
+VTT109^|^2021-11-10T13:50:00-03:00^|^1208^|^Hannah Abbott^|^21965432116^|^hannah.abbott@example.com^|^FTTH^|^Disconnection^|^207^|^Customer Request
+VTT110^|^2021-12-05T10:10:00-03:00^|^1209^|^Ian Vault^|^21965432117^|^ian.vault@example.com^|^FTTP^|^Installation^|^208^|^New Install
+VTT111^|^2022-01-18T09:00:00-03:00^|^1210^|^Jane Doe^|^21965432118^|^jane.doe@example.com^|^FTTH^|^Maintenance^|^209^|^Scheduled Maintenance
