@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customerName^|^phoneNumber^|^email^|^infraType^|^type^|^statusCode^|^scenario
+VTT102^|^2021-04-21T12:30:00-03:00^|^1201^|^Alice Johnson^|^21965432100^|^alice.johnson@example.com^|^FTTP^|^Instalacao^|^200^|^Standard Installation
+VTT103^|^2021-05-15T15:45:00-03:00^|^1202^|^Bob Smith^|^21965432101^|^bob.smith@example.com^|^FTTH^|^Retirada^|^404^|^Service Removal
+VTT104^|^2021-06-10T08:00:00-03:00^|^1203^|^Carol White^|^21965432102^|^carol.white@example.com^|^FTTP^|^Bloqueio^|^503^|^Temporary Block
+VTT105^|^2021-07-22T14:20:00-03:00^|^1204^|^David Brown^|^21965432103^|^david.brown@example.com^|^FTTH^|^Desbloqueio^|^200^|^Unblock Service
+VTT106^|^2021-08-30T09:50:00-03:00^|^1205^|^Eva Green^|^21965432104^|^eva.green@example.com^|^FTTP^|^AssociarCPE^|^301^|^CPE Association
+VTT107^|^2021-09-12T11:40:00-03:00^|^1206^|^Frank Moore^|^21965432105^|^frank.moore@example.com^|^FTTH^|^Modificacao de Velocidade^|^200^|^Speed Upgrade
+VTT108^|^2021-10-28T16:15:00-03:00^|^1207^|^Grace Hall^|^21965432106^|^grace.hall@example.com^|^FTTP^|^RemanejamentoPonto^|^404^|^Relocation
+VTT109^|^2021-11-19T10:10:00-03:00^|^1208^|^Henry Lee^|^21965432107^|^henry.lee@example.com^|^FTTH^|^Bloqueio^|^503^|^Total Block
+VTT110^|^2021-12-05T13:30:00-03:00^|^1209^|^Ivy Wilson^|^21965432108^|^ivy.wilson@example.com^|^FTTP^|^Desbloqueio^|^200^|^Service Reactivation
+VTT111^|^2022-01-16T17:00:00-03:00^|^1210^|^Jack Taylor^|^21965432109^|^jack.taylor@example.com^|^FTTH^|^Bloqueio^|^503^|^Partial Block
