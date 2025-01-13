@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2021-06-09T18:20:53-03:00^|^10^|^InterHome Internet^|^ONT^|^FTTH^|^Instalacao^|^complete^|^normal
+DOC2003^|^2022-12-05T12:00:00-03:00^|^20^|^V.tal Corporate^|^ROUTER^|^FTTP^|^AssociarCPE^|^pending^|^special-case
+VTT002^|^2023-01-01T00:00:00-03:00^|^30^|^Sandbox V.tal^|^SWITCH^|^FTTH^|^Retirada^|^failed^|^holiday
+DOC2010^|^2021-11-11T11:11:11-03:00^|^40^|^InterNet Nano^|^ONT^|^FTTP^|^Bloqueio^|^error^|^weekend
+VTT003^|^2020-02-20T20:20:20-03:00^|^50^|^NetSolutions^|^ONT^|^FTTH^|^Desbloqueio^|^success^|^outage
+DOC2021^|^2022-02-22T22:22:22-03:00^|^60^|^Quantum Web^|^ROUTER^|^FTTP^|^Modificacao de Velocidade^|^processing^|^night
+VTT004^|^2023-03-03T03:03:03-03:00^|^70^|^UltraInternet^|^SWITCH^|^FTTH^|^RemanejamentoPonto^|^cancelled^|^maintenance
+DOC2022^|^2021-04-04T04:04:04-03:00^|^80^|^SkyNet Providers^|^ONT^|^FTTP^|^Instalacao^|^delayed^|^error-handling
+VTT005^|^2022-05-05T05:05:05-03:00^|^90^|^NextGen Internet^|^ROUTER^|^FTTH^|^Retirada^|^on-hold^|^peak-hours
+DOC2030^|^2020-06-06T06:06:06-03:00^|^100^|^FutureNet Services^|^SWITCH^|^FTTP^|^Bloqueio^|^completed^|^system-update
