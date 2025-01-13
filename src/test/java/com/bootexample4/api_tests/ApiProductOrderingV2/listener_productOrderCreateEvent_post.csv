@@ -1,0 +1,2 @@
+body
+"{""id"":""123"",""type"":""orderCreated"",""data"":{""product"":""Widget"",""quantity"":10}}"
