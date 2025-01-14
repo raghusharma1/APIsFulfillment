@@ -1,0 +1,2 @@
+body
+"{""orderId"":""12345"",""productDetails"":{""productId"":""9876"",""quantity"":""2""},""customerDetails"":{""customerId"":""54321"",""address"":""1234 Main St, Anytown, USA""},""orderStatus"":""created"",""timestamp"":""2023-05-01T12:00:00Z""}"
