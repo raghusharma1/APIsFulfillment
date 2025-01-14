@@ -1,0 +1,2 @@
+requestBody
+"{""order"":{""id"":""12345"",""description"":""Sample order"",""code"":""ORD123"",""associatedDocument"":""DOC321"",""correlationOrder"":""COR456"",""type"":""Type1""},""customer"":{""subscriberId"":""CUST789""},""date"":""2023-01-01T00:00:00Z""}"
