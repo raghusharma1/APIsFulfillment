@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC001^|^2023-01-15T12:00:00^|^12345^|^John Doe^|^Router,ONT^|^FTTH^|^Instalacao^|^Open^|^Initial Setup
+DOC002^|^2023-01-16T13:00:00^|^12346^|^Jane Smith^|^Switch^|^FTTP^|^Retirada^|^Closed^|^Equipment Removal
+DOC003^|^2023-01-17T14:00:00^|^12347^|^Alice Johnson^|^Antenna^|^FTTH^|^Bloqueio^|^Pending^|^Service Suspension
+DOC004^|^2023-01-18T15:00:00^|^12348^|^Bob Brown^|^Cable^|^FTTP^|^Desbloqueio^|^Resolved^|^Service Restoration
+DOC005^|^2023-01-19T16:00:00^|^12349^|^Charlie Davis^|^ONT^|^FTTH^|^AssociarCPE^|^Error^|^CPE Association
+DOC006^|^2023-01-20T17:00:00^|^12350^|^Dana Evans^|^Modem^|^FTTP^|^Modificacao de Velocidade^|^Open^|^Speed Change
+DOC007^|^2023-01-21T18:00:00^|^12351^|^Evan Foster^|^^|^FTTH^|^RemanejamentoPonto^|^Closed^|^Point Relocation
+DOC008^|^2023-01-22T19:00:00^|^12352^|^Faith Grey^|^Router,Switch^|^FTTP^|^Instalacao^|^Pending^|^New Installation
+DOC009^|^2023-01-23T20:00:00^|^12353^|^George Hall^|^ONT^|^FTTH^|^Bloqueio^|^Error^|^Account Suspension
+DOC010^|^2023-01-24T21:00:00^|^12354^|^Ivy Johnson^|^Cable^|^FTTP^|^Desbloqueio^|^Resolved^|^Account Reactivation
