@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customerName^|^phoneNumber^|^email^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2021-06-09T18:20:53-03:00^|^10^|^InterHome Internet^|^21999999999^|^sindicovtal@vtal.com^|^FTTH^|^Instalacao^|^200^|^Scenario A
+VTT002^|^2021-05-10T15:30:00-03:00^|^20^|^InterCorp Internet^|^21965400000^|^info@intercorp.net^|^FTTP^|^AssociarCPE^|^404^|^Scenario B
+VTT003^|^2020-07-22T11:00:53-03:00^|^30^|^NetHome Solutions^|^30020030040^|^contact@nethome.com^|^FTTH^|^Bloqueio^|^500^|^Scenario C
+VTT004^|^2022-01-15T09:45:00-03:00^|^40^|^SkyNet Broadband^|^40050060070^|^support@skynet.com^|^FTTP^|^Desbloqueio^|^200^|^Scenario D
+VTT005^|^2021-12-25T20:15:30-03:00^|^50^|^Quantum Internet^|^50070090010^|^help@quantum.net^|^FTTH^|^Modificacao de Velocidade^|^301^|^Scenario E
+VTT006^|^2021-09-30T18:20:53-03:00^|^60^|^UltraNet Connections^|^60080090000^|^service@ultranet.com^|^FTTP^|^Retirada^|^404^|^Scenario F
+VTT007^|^2022-03-05T13:00:00-03:00^|^70^|^Orbit Telecomm^|^70090010020^|^queries@orbittele.com^|^FTTH^|^Instalacao^|^200^|^Scenario G
+VTT008^|^2020-10-01T10:30:00-03:00^|^80^|^Galaxy Services^|^80010020030^|^support@galaxyservices.com^|^FTTP^|^AssociarCPE^|^503^|^Scenario H
+VTT009^|^2023-01-01T14:00:00-03:00^|^90^|^Cosmo Fiber^|^90030050070^|^info@cosmofiber.com^|^FTTH^|^Bloqueio^|^404^|^Scenario I
+VTT010^|^2022-05-20T16:45:00-03:00^|^100^|^Nebula Internet^|^10020030040^|^contact@nebulainternet.com^|^FTTP^|^Desbloqueio^|^200^|^Scenario J
