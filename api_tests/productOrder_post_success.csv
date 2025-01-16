@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customerName^|^phoneNumber^|^email^|^infraType^|^type^|^statusCode^|^scenario
+DOC001^|^2023-01-01T12:00:00-03:00^|^1001^|^John Doe^|^1234567890^|^john.doe@example.com^|^FTTP^|^Installation^|^200^|^Successful
+DOC002^|^2023-01-02T12:00:00-03:00^|^1002^|^Jane Smith^|^2345678901^|^jane.smith@example.com^|^FTTH^|^Maintenance^|^404^|^Failed
+DOC003^|^2023-01-03T12:00:00-03:00^|^1003^|^Alice Johnson^|^3456789012^|^alice.johnson@example.com^|^FTTP^|^Upgrade^|^500^|^Error
+DOC004^|^2023-01-04T12:00:00-03:00^|^1004^|^Mike Brown^|^4567890123^|^mike.brown@example.com^|^FTTH^|^Installation^|^200^|^Successful
+DOC005^|^2023-01-05T12:00:00-03:00^|^1005^|^Chris Davis^|^5678901234^|^chris.davis@example.com^|^FTTP^|^Repair^|^200^|^Successful
+DOC006^|^2023-01-06T12:00:00-03:00^|^1006^|^Patricia Wilson^|^6789012345^|^patricia.wilson@example.com^|^FTTH^|^Downgrade^|^403^|^Unauthorized
+DOC007^|^2023-01-07T12:00:00-03:00^|^1007^|^Robert Moore^|^7890123456^|^robert.moore@example.com^|^FTTP^|^Upgrade^|^200^|^Successful
+DOC008^|^2023-01-08T12:00:00-03:00^|^1008^|^Laura Taylor^|^8901234567^|^laura.taylor@example.com^|^FTTH^|^Repair^|^503^|^Service Unavailable
+DOC009^|^2023-01-09T12:00:00-03:00^|^1009^|^Sarah Martin^|^9012345678^|^sarah.martin@example.com^|^FTTP^|^Installation^|^200^|^Successful
+DOC010^|^2023-01-10T12:00:00-03:00^|^1010^|^Kevin Lee^|^0123456789^|^kevin.lee@example.com^|^FTTH^|^Maintenance^|^200^|^Successful
