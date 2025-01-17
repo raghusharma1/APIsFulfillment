@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T14:00:00-03:00^|^101^|^InterNet Solutions^|^ONT,ALCLF718RF05^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T10:45:00-03:00^|^102^|^SpeedyNet Service^|^ONT,SN12345XZ^|^FTTH^|^Retirada^|^Cancelled^|^Customer Request
+DOC321^|^2023-10-10T09:00:00-03:00^|^103^|^FastWeb Corp^|^ONT,FSTW987654^|^FTTP^|^Bloqueio^|^Suspended^|^Non-payment
+VTT003^|^2023-10-15T16:30:00-03:00^|^104^|^MegaNet Providers^|^ONT,MEGA001122^|^FTTH^|^Desbloqueio^|^Active^|^Payment Resolved
+DOC432^|^2023-09-20T08:15:00-03:00^|^105^|^UltraInternet Co.^|^ONT,ULTRA09876^|^FTTP^|^Modificacao de Velocidade^|^Processing^|^Upgrade Plan
+VTT004^|^2023-12-05T07:50:00-03:00^|^106^|^WebFast Solutions^|^ONT,WF1234AB^|^FTTH^|^AssociarCPE^|^Failed^|^Equipment Error
+DOC540^|^banana^|^107^|^SkyNet Services^|^ONT,SKYNET2023^|^FTTP^|^Instalacao^|^Active^|^New Installation
+VTT005^|^2023-09-01T14:00:00-03:00^|^108^|^NetSpeed LLC^|^ONT,NSPD4567^|^FTTH^|^Retirada^|^Completed^|^Site Clearance
+DOC654^|^^|^109^|^Quantum Internet^|^ONT,QNTM1234^|^FTTP^|^Bloqueio^|^Suspended^|^Policy Violation
+VTT006^|^2023-12-02T11:00:00-03:00^|^110^|^FutureNet Solutions^|^ONT,FTRN5678^|^FTTH^|^Desbloqueio^|^Active^|^Compliance Restored
