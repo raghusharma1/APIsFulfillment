@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^1001^|^John Doe^|^ONT,123456,SN123456^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^1002^|^Alice Wonderland^|^ONT,654321,SN654321^|^FTTH^|^Retirada^|^Cancelled^|^Urgent Removal
+DOC124^|^2023-10-15T09:00:00-03:00^|^1003^|^Bob Builder^|^ONT,222222,SN222222^|^FTTP^|^Bloqueio^|^Pending^|^Block Service
+VTT003^|^2023-09-30T08:30:00-03:00^|^1004^|^Charlie Brown^|^ONT,333333,SN333333^|^FTTH^|^Desbloqueio^|^Active^|^Unblock User
+DOC125^|^2023-08-20T07:00:00-03:00^|^1005^|^Daisy Duck^|^ONT,444444,SN444444^|^FTTP^|^AssociarCPE^|^Active^|^CPE Association
+VTT004^|^2023-07-05T18:15:00-03:00^|^1006^|^Elsa Ice^|^ONT,555555,SN555555^|^FTTH^|^Modificacao de Velocidade^|^Pending^|^Speed Change
+DOC126^|^2023-06-10T16:00:00-03:00^|^1007^|^Fred Flintstone^|^ONT,666666,SN666666^|^FTTP^|^RemanejamentoPonto^|^Active^|^Point Relocation
+VTT005^|^2023-05-20T14:30:00-03:00^|^1008^|^George Jungle^|^ONT,777777,SN777777^|^FTTH^|^Instalacao^|^Cancelled^|^Installation
+DOC127^|^2023-04-12T13:00:00-03:00^|^1009^|^Hilda Spellman^|^ONT,888888,SN888888^|^FTTP^|^Retirada^|^Pending^|^Removal
+VTT006^|^2023-03-23T11:45:00-03:00^|^1010^|^Indiana Jones^|^ONT,999999,SN999999^|^FTTH^|^Bloqueio^|^Active^|^Service Block
