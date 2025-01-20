@@ -1,0 +1,2 @@
+requestBody
+"{"subscriberId": "12345", "order": {"id": "1", "description": "Product", "code": "XYZ", "associatedDocument": "Doc1", "correlationOrder": "Order1", "type": "Type1"}}"
