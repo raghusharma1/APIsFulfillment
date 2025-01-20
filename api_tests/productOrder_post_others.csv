@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Solutions^|^ONT,ALCLF718RF05^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^102^|^HomeConnect^|^ONT,ALCLF718RF06^|^FTTH^|^Retirada^|^Cancelled^|^Customer Request
+DOC124^|^2023-12-02T10:30:00-03:00^|^103^|^FastNet Co.^|^ONT,ALCLF718RF07^|^FTTH^|^Bloqueio^|^Pending^|^Payment Issues
+VTT003^|^2023-11-30T14:00:00-03:00^|^104^|^SkyNet Providers^|^ONT,ALCLF718RF08^|^FTTP^|^Desbloqueio^|^Active^|^Reactivation
+DOC125^|^2023-12-03T16:00:00-03:00^|^105^|^City Broadband^|^ONT,ALCLF718RF09^|^FTTH^|^AssociarCPE^|^Pending^|^Equipment Upgrade
+VTT004^|^2023-11-28T11:00:00-03:00^|^106^|^NetFast Services^|^ONT,ALCLF718RF10^|^FTTP^|^Modificacao de Velocidade^|^Active^|^Speed Increase
+DOC126^|^2023-12-05T09:30:00-03:00^|^107^|^LinkWeb Corp.^|^ONT,ALCLF718RF11^|^FTTH^|^RemanejamentoPonto^|^Pending^|^Address Change
+VTT005^|^2023-11-29T17:45:00-03:00^|^108^|^Quantum Internet^|^ONT,ALCLF718RF12^|^FTTP^|^Instalacao^|^Cancelled^|^Customer No Show
+DOC127^|^2023-12-04T08:15:00-03:00^|^109^|^UltraNet^|^ONT,ALCLF718RF13^|^FTTH^|^Bloqueio^|^Active^|^Policy Violation
+VTT006^|^2023-11-27T13:20:00-03:00^|^110^|^NextGen Broadband^|^ONT,ALCLF718RF14^|^FTTP^|^Desbloqueio^|^Pending^|^Customer Compliance
