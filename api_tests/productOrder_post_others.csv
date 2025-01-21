@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Solutions^|^ONT,123456,SN123456^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^102^|^SpeedyNet Service^|^ONT,654321,SN654321^|^FTTH^|^Bloqueio^|^Suspended^|^Partial Block
+DOC124^|^2023-10-15T09:00:00-03:00^|^103^|^MegaNet Corp^|^ONT,112233,SN112233^|^FTTP^|^Desbloqueio^|^Active^|^Total Unblock
+VTT003^|^2023-09-10T14:30:00-03:00^|^104^|^UltraNet Providers^|^ONT,998877,SN998877^|^FTTH^|^Modificacao de Velocidade^|^Pending^|^Speed Upgrade
+DOC125^|^2023-12-03T18:20:00-03:00^|^105^|^Quantum Internet^|^ONT,556677,SN556677^|^FTTP^|^Retirada^|^Cancelled^|^Service Removal
+VTT004^|^2023-08-21T16:00:00-03:00^|^106^|^FutureNet Services^|^ONT,665544,SN665544^|^FTTH^|^AssociarCPE^|^Active^|^New Equipment Installation
+DOC126^|^2023-12-05T10:50:00-03:00^|^107^|^NextGen Telco^|^ONT,443322,SN443322^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT005^|^2023-11-30T11:25:00-03:00^|^108^|^SkyNet WiFi^|^ONT,221100,SN221100^|^FTTH^|^Bloqueio^|^Suspended^|^Full Block
+DOC127^|^2023-11-01T13:00:00-03:00^|^109^|^Orbit Internet^|^ONT,332211,SN332211^|^FTTP^|^Desbloqueio^|^Active^|^Total Unblock
+VTT006^|^2023-12-02T19:35:00-03:00^|^110^|^Horizon Connections^|^ONT,778899,SN778899^|^FTTH^|^Modificacao de Velocidade^|^Pending^|^Speed Reduction
