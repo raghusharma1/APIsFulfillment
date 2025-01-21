@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Solutions^|^ONT,ALCLF718RF05^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^102^|^HomeConnect^|^ONT,ALCLF718RF06^|^FTTH^|^AssociarCPE^|^Pending^|^CPE Association
+DOC124^|^2023-12-02T10:20:00-03:00^|^103^|^FastWeb Services^|^ONT,ALCLF718RF07^|^FTTP^|^Bloqueio^|^Cancelled^|^Block Service
+VTT003^|^2023-12-03T09:30:00-03:00^|^104^|^CityNet^|^ONT,ALCLF718RF08^|^FTTH^|^Desbloqueio^|^Active^|^Unblock Service
+DOC125^|^2023-12-04T14:00:00-03:00^|^105^|^WebSphere^|^ONT,ALCLF718RF09^|^FTTP^|^Retirada^|^Pending^|^Service Removal
+VTT004^|^2023-12-05T16:45:00-03:00^|^106^|^NetVelocity^|^ONT,ALCLF718RF10^|^FTTH^|^Modificacao de Velocidade^|^Active^|^Speed Change
+DOC126^|^2023-12-06T13:00:00-03:00^|^107^|^SkyLink^|^ONT,ALCLF718RF11^|^FTTP^|^RemanejamentoPonto^|^Cancelled^|^Point Relocation
+VTT005^|^2023-12-07T11:15:00-03:00^|^108^|^OrbitNet^|^ONT,ALCLF718RF12^|^FTTH^|^Instalacao^|^Pending^|^New Installation
+DOC127^|^2023-12-08T08:30:00-03:00^|^109^|^QuantumNet^|^ONT,ALCLF718RF13^|^FTTP^|^Bloqueio^|^Active^|^Service Block
+VTT006^|^2023-12-09T18:00:00-03:00^|^110^|^PulseNet^|^ONT,ALCLF718RF14^|^FTTH^|^Desbloqueio^|^Cancelled^|^Service Unblock
