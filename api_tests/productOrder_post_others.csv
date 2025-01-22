@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Solutions^|^ONT,SN12345^|^FTTP^|^Instalacao^|^200^|^normal
+DOC124^|^2023-11-20T15:30:00-03:00^|^102^|^SpeedyNet Co.^|^ONT,SN12346^|^FTTH^|^Retirada^|^404^|^error
+DOC125^|^2023-10-15T10:00:00-03:00^|^103^|^FastWeb Inc.^|^ONT,SN12347^|^FTTP^|^Bloqueio^|^500^|^server error
+VTT126^|^2023-09-05T08:45:00-03:00^|^104^|^NetStream Services^|^ONT,SN12348^|^FTTH^|^Desbloqueio^|^503^|^maintenance
+DOC127^|^2023-08-23T18:00:00-03:00^|^105^|^OnlineNow LLC^|^ONT,SN12349^|^FTTP^|^AssociarCPE^|^301^|^redirect
+VTT128^|^2023-07-30T16:20:00-03:00^|^106^|^Connectivity Pro^|^ONT,SN12350^|^FTTH^|^Modificacao de Velocidade^|^202^|^accepted
+DOC129^|^2023-06-25T14:00:00-03:00^|^107^|^WebSurge Corp.^|^ONT,SN12351^|^FTTP^|^RemanejamentoPonto^|^400^|^client error
+DOC130^|^2023-05-10T09:30:00-03:00^|^108^|^StreamFast Networks^|^ONT,SN12352^|^FTTH^|^Instalacao^|^204^|^no content
+VTT131^|^2023-04-22T20:00:00-03:00^|^109^|^UltraNet Providers^|^ONT,SN12353^|^FTTP^|^Retirada^|^403^|^forbidden
+VTT132^|^2023-03-15T07:15:00-03:00^|^110^|^RapidConnect Ltd.^|^ONT,SN12354^|^FTTH^|^Bloqueio^|^401^|^unauthorized
