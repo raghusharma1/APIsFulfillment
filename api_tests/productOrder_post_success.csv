@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customerName^|^phoneNumber^|^email^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2023-12-01T10:30:00-03:00^|^1001^|^John Doe^|^21965400001^|^john.doe@example.com^|^FTTP^|^Installation^|^001^|^Scenario A
+VTT002^|^2023-12-02T11:00:00-03:00^|^1002^|^Jane Smith^|^21965400002^|^jane.smith@example.com^|^FTTH^|^Maintenance^|^002^|^Scenario B
+VTT003^|^2023-12-03T12:00:00-03:00^|^1003^|^Alice Johnson^|^21965400003^|^alice.johnson@example.com^|^FTTP^|^Upgrade^|^003^|^Scenario C
+VTT004^|^2023-12-04T13:00:00-03:00^|^1004^|^Bob Brown^|^21965400004^|^bob.brown@example.com^|^FTTH^|^Installation^|^004^|^Scenario D
+VTT005^|^2023-12-05T14:00:00-03:00^|^1005^|^Charlie Davis^|^21965400005^|^charlie.davis@example.com^|^FTTP^|^Repair^|^005^|^Scenario E
+VTT006^|^2023-12-06T15:00:00-03:00^|^1006^|^Diana Evans^|^21965400006^|^diana.evans@example.com^|^FTTH^|^Maintenance^|^006^|^Scenario F
+VTT007^|^2023-12-07T16:00:00-03:00^|^1007^|^Evan Grant^|^21965400007^|^evan.grant@example.com^|^FTTP^|^Upgrade^|^007^|^Scenario G
+VTT008^|^2023-12-08T17:00:00-03:00^|^1008^|^Fiona Harris^|^21965400008^|^fiona.harris@example.com^|^FTTH^|^Installation^|^008^|^Scenario H
+VTT009^|^2023-12-09T18:00:00-03:00^|^1009^|^George Iris^|^21965400009^|^george.iris@example.com^|^FTTP^|^Repair^|^009^|^Scenario I
+VTT010^|^2023-12-10T19:00:00-03:00^|^1010^|^Hannah Joy^|^21965400010^|^hannah.joy@example.com^|^FTTH^|^Maintenance^|^010^|^Scenario J
