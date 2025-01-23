@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Services^|^ONT,123456,SN123456^|^FTTH^|^Instalacao^|^Completed^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^102^|^Alpha Corp^|^ONT,654321,SN654321^|^FTTP^|^Retirada^|^Pending^|^Urgent Removal
+DOC124^|^2023-10-10T10:20:00-03:00^|^103^|^Beta LLC^|^ONT,789123,SN789123^|^FTTH^|^Bloqueio^|^In Progress^|^Block Service
+VTT003^|^2023-09-15T14:00:00-03:00^|^104^|^Gamma Inc^|^ONT,321654,SN321654^|^FTTP^|^Desbloqueio^|^Failed^|^Unblock after payment
+DOC125^|^2023-08-05T09:00:00-03:00^|^105^|^Delta Services^|^ONT,456789,SN456789^|^FTTH^|^AssociarCPE^|^Completed^|^CPE Association
+VTT004^|^2023-07-22T16:30:00-03:00^|^106^|^Epsilon Limited^|^ONT,987654,SN987654^|^FTTP^|^Modificacao de Velocidade^|^Scheduled^|^Speed Upgrade
+DOC126^|^2023-06-30T08:45:00-03:00^|^107^|^Zeta Corp^|^ONT,654987,SN654987^|^FTTH^|^RemanejamentoPonto^|^Cancelled^|^Relocation
+VTT005^|^2023-05-19T11:00:00-03:00^|^108^|^Eta LLC^|^ONT,321987,SN321987^|^FTTP^|^Instalacao^|^Delayed^|^Installation Delay
+DOC127^|^2023-04-23T07:30:00-03:00^|^109^|^Theta Inc^|^ONT,987321,SN987321^|^FTTH^|^Retirada^|^Completed^|^Successful Removal
+VTT006^|^2023-03-15T18:15:00-03:00^|^110^|^Iota Services^|^ONT,123789,SN123789^|^FTTP^|^Bloqueio^|^Failed^|^Block Due to Non-Payment
