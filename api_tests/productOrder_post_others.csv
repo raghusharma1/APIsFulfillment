@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Solutions^|^ONT,123456,SN123456^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^102^|^HomeConnect^|^ONT,654321,SN654321^|^FTTH^|^Retirada^|^Cancelled^|^Customer Request
+DOC124^|^2023-12-05T10:30:00-03:00^|^103^|^FastWeb Co.^|^ONT,789123,SN789123^|^FTTH^|^Bloqueio^|^Pending^|^Overdue Payment
+VTT003^|^banana^|^104^|^CorporateNet^|^ONT,432156,SN432156^|^FTTP^|^Desbloqueio^|^Resolved^|^Payment Cleared
+DOC125^|^2023-12-10T09:00:00-03:00^|^105^|^CityNet^|^ONT,321654,SN321654^|^FTTH^|^AssociarCPE^|^Active^|^New Equipment
+VTT004^|^2023-12-15T14:00:00-03:00^|^106^|^SkyLink^|^ONT,987654,SN987654^|^FTTP^|^Modificacao de Velocidade^|^Pending^|^Upgrade Plan
+DOC126^|^2023-12-20T16:00:00-03:00^|^107^|^Quantum Broadband^|^ONT,159753,SN159753^|^FTTH^|^RemanejamentoPonto^|^Resolved^|^Address Change
+VTT005^|^2023-12-22T11:00:00-03:00^|^108^|^Neighborhood ISP^|^ONT,456789,SN456789^|^FTTP^|^Instalacao^|^^|^Missing Status
+DOC127^|^2023-12-25T18:00:00-03:00^|^109^|^GlobalNet^|^ONT,852963,SN852963^|^FTTH^|^Retirada^|^Active^|^Customer Relocation
+VTT006^|^2023-12-30T20:00:00-03:00^|^110^|^FutureNet^|^ONT,753159,SN753159^|^FTTP^|^Bloqueio^|^Cancelled^|^Non-compliance
