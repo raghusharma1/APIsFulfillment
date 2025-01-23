@@ -1,0 +1,3 @@
+body
+"{""id"":""01"",""type"":""order"",""client"":""acme""}"
+"{""id"":""02"",""type"":""order"",""client"":""globex""}"
