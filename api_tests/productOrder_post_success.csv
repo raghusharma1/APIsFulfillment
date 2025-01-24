@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customerName^|^phoneNumber^|^email^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2023-12-01T10:30:00-03:00^|^1001^|^John Doe^|^21965400001^|^johndoe@example.com^|^FTTP^|^Installation^|^200^|^Normal Operation
+VTT002^|^2023-12-02T11:00:00-03:00^|^1002^|^Jane Smith^|^21965400002^|^janesmith@example.com^|^FTTH^|^Maintenance^|^404^|^Outage
+VTT003^|^2023-12-03T12:15:00-03:00^|^1003^|^Alice Johnson^|^21965400003^|^alicej@example.com^|^FTTP^|^Upgrade^|^500^|^System Error
+VTT004^|^2023-12-04T13:45:00-03:00^|^1004^|^Bob Brown^|^21965400004^|^bobb@example.com^|^FTTH^|^Installation^|^202^|^Accepted
+VTT005^|^2023-12-05T14:30:00-03:00^|^1005^|^Charlie Davis^|^21965400005^|^charlied@example.com^|^FTTP^|^Repair^|^403^|^Forbidden
+VTT006^|^2023-12-06T15:00:00-03:00^|^1006^|^Diana Evans^|^21965400006^|^dianae@example.com^|^FTTH^|^Removal^|^301^|^Moved Permanently
+VTT007^|^2023-12-07T16:20:00-03:00^|^1007^|^Franklin Green^|^21965400007^|^frankling@example.com^|^FTTP^|^Upgrade^|^503^|^Service Unavailable
+VTT008^|^2023-12-08T17:10:00-03:00^|^1008^|^Grace Harris^|^21965400008^|^graceh@example.com^|^FTTH^|^Checkup^|^401^|^Unauthorized
+VTT009^|^2023-12-09T18:25:00-03:00^|^1009^|^Henry Irving^|^21965400009^|^henryi@example.com^|^FTTP^|^Installation^|^200^|^Normal Operation
+VTT010^|^2023-12-10T19:50:00-03:00^|^1010^|^Isabel Jackson^|^21965400010^|^isabelj@example.com^|^FTTH^|^Dismantling^|^404^|^Not Found
