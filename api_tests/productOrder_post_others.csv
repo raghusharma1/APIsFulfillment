@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Solutions^|^ONT,ALCLF718RF05^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^102^|^HomeConnect^|^ONT,SN1234567890^|^FTTH^|^AssociarCPE^|^Pending^|^New Customer Setup
+DOC321^|^2023-10-10T09:00:00-03:00^|^103^|^SpeedyNet Services^|^ONT,UFN1234567^|^FTTP^|^Retirada^|^Cancelled^|^Customer Request
+VTT004^|^2023-09-05T14:00:00-03:00^|^104^|^QuickNet Corp^|^ONT,1234ABC5678D^|^FTTH^|^Bloqueio^|^Suspended^|^Non-payment
+DOC404^|^not a date^|^105^|^CityNet^|^ONT,0987XYZ6543^|^FTTP^|^Desbloqueio^|^Active^|^Reinstatement
+VTT005^|^2023-08-20T08:30:00-03:00^|^106^|^RuralWeb^|^ONT,ABCDEF123456^|^FTTH^|^Modificacao de Velocidade^|^Processing^|^Upgrade Plan
+DOC606^|^2023-07-15T13:00:00-03:00^|^107^|^SkyHigh Internet^|^ONT,QWERTY09876^|^FTTP^|^Retirada^|^Completed^|^Relocation
+VTT007^|^2023-06-30T11:15:00-03:00^|^108^|^GroundLink Providers^|^ONT,ASDFG12345^|^FTTH^|^Bloqueio^|^Suspended^|^Policy Violation
+DOC808^|^2023-05-22T17:00:00-03:00^|^109^|^MetroNet^|^ONT,ZXCVB67890^|^FTTP^|^Desbloqueio^|^Active^|^Customer Compliance
+VTT009^|^2023-04-18T16:40:00-03:00^|^110^|^Horizon Connections^|^ONT,PLMOKN12345^|^FTTH^|^AssociarCPE^|^Pending^|^Equipment Install
