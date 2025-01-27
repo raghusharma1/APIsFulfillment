@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Solutions^|^ONT:123456789^|^FTTP^|^Instalacao^|^200^|^normal
+DOC124^|^2023-12-02T13:00:00-03:00^|^102^|^SpeedyNet Co.^|^ONT:987654321^|^FTTH^|^Retirada^|^404^|^address change
+DOC125^|^not a date^|^103^|^FastWeb Inc.^|^ONT:192837465^|^FTTP^|^Bloqueio^|^500^|^technical issue
+DOC126^|^2023-12-04T15:00:00-03:00^|^104^|^WebSurfer Ltd.^|^ONT:112233445^|^FTTH^|^Desbloqueio^|^200^|^resolved
+DOC127^|^2023-12-05T16:00:00-03:00^|^105^|^Streamline Services^|^ONT:556677889^|^FTTP^|^AssociarCPE^|^300^|^pending
+DOC128^|^2023-12-06T17:00:00-03:00^|^106^|^OrbitNet LLC^|^ONT:443322110^|^FTTH^|^Modificacao de Velocidade^|^200^|^completed
+DOC129^|^2023-12-07T18:00:00-03:00^|^107^|^Quantum Web^|^ONT:667788990^|^FTTP^|^RemanejamentoPonto^|^400^|^delayed
+DOC130^|^2023-12-08T19:00:00-03:00^|^108^|^AlphaNet^|^ONT:998877665^|^FTTH^|^Instalacao^|^404^|^error
+DOC131^|^2023-12-09T20:00:00-03:00^|^109^|^Beta Connections^|^ONT:556644332^|^FTTP^|^Retirada^|^500^|^canceled
+DOC132^|^2023-12-10T21:00:00-03:00^|^110^|^Gamma Streaming^|^ONT:221100332^|^FTTP^|^Bloqueio^|^200^|^normal
