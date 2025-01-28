@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Solutions^|^ONT,ALCLF718RF05^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^102^|^HomeConnect^|^ONT,ALCLF718RF06^|^FTTH^|^Retirada^|^Cancelled^|^Customer Request
+DOC124^|^2023-12-02T10:30:00-03:00^|^103^|^FastNet Co.^|^ONT,ALCLF718RF07^|^FTTH^|^Bloqueio^|^Pending^|^Overdue Payment
+VTT003^|^banana^|^104^|^CorporateLink^|^ONT,ALCLF718RF08^|^FTTP^|^Desbloqueio^|^Resolved^|^Payment Cleared
+DOC125^|^2023-12-03T09:00:00-03:00^|^105^|^SkyNet Fiber^|^ONT,ALCLF718RF09^|^FTTP^|^AssociarCPE^|^Active^|^New Equipment Install
+VTT004^|^2023-12-04T08:00:00-03:00^|^106^|^Quantum Services^|^ONT,ALCLF718RF10^|^FTTH^|^Modificacao de Velocidade^|^Pending^|^Upgrade Request
+DOC126^|^2023-12-05T14:00:00-03:00^|^107^|^Nebula Internet^|^ONT,ALCLF718RF11^|^FTTH^|^RemanejamentoPonto^|^Active^|^Site Relocation
+VTT005^|^2023-11-30T11:00:00-03:00^|^108^|^OrbitNet^|^ONT,ALCLF718RF12^|^FTTP^|^Instalacao^|^Cancelled^|^Customer No Show
+DOC127^|^2023-12-06T16:00:00-03:00^|^109^|^Horizon Connect^|^ONT,ALCLF718RF13^|^FTTP^|^Retirada^|^Resolved^|^Service Termination
+VTT006^|^2023-12-07T13:00:00-03:00^|^110^|^TerraCom^|^ONT,ALCLF718RF14^|^FTTH^|^Bloqueio^|^Active^|^Non-compliance
