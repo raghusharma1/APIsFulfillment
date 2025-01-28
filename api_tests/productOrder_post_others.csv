@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Solutions^|^ONT,ALCLF718RF05^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^102^|^SpeedyNet^|^ONT,ALCLF718RF06^|^FTTH^|^Bloqueio^|^Inactive^|^Total Block
+DOC124^|^2023-10-10T09:30:00-03:00^|^103^|^FastWeb Corp^|^ONT,ALCLF718RF07^|^FTTP^|^Desbloqueio^|^Reactivated^|^Service Reactivation
+VTT003^|^2023-09-15T14:00:00-03:00^|^104^|^QuickConnect^|^ONT,ALCLF718RF08^|^FTTH^|^Modificacao de Velocidade^|^Modified^|^Speed Upgrade
+DOC125^|^2023-08-12T11:00:00-03:00^|^105^|^NetExpress^|^ONT,ALCLF718RF09^|^FTTP^|^Retirada^|^Removed^|^Service Termination
+VTT004^|^2023-07-23T16:30:00-03:00^|^106^|^SkyNet Providers^|^ONT,ALCLF718RF10^|^FTTH^|^AssociarCPE^|^Linked^|^CPE Association
+DOC126^|^2023-06-30T10:15:00-03:00^|^107^|^Broadband Services^|^ONT,ALCLF718RF11^|^FTTP^|^RemanejamentoPonto^|^Relocated^|^Point Relocation
+VTT005^|^2023-05-19T08:45:00-03:00^|^108^|^UltraNet^|^ONT,ALCLF718RF12^|^FTTH^|^Instalacao^|^Installed^|^New Installation
+DOC127^|^2023-04-22T13:20:00-03:00^|^109^|^ConnectFast^|^ONT,ALCLF718RF13^|^FTTP^|^Bloqueio^|^Suspended^|^Partial Block
+VTT006^|^2023-03-15T17:00:00-03:00^|^110^|^MegaSpeed Internet^|^ONT,ALCLF718RF14^|^FTTH^|^Desbloqueio^|^Unblocked^|^Service Unblocking
