@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Solutions^|^ONT,123456,SN123ABC^|^FTTP^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^102^|^Alpha Corp^|^ONT,654321,SN321XYZ^|^FTTH^|^AssociarCPE^|^Pending^|^CPE Association
+DOC789^|^2023-10-10T08:20:00-03:00^|^103^|^Beta Limited^|^ONT,987654,SN789XYZ^|^FTTP^|^Retirada^|^Cancelled^|^Service Removal
+VTT004^|^banana^|^104^|^Gamma Inc^|^ONT,192837,SN456DEF^|^FTTP^|^Bloqueio^|^Error^|^Block Service
+DOC321^|^2023-09-05T11:00:00-03:00^|^105^|^Delta Services^|^ONT,000111,SN654ZYX^|^FTTH^|^Desbloqueio^|^Active^|^Unblock Service
+VTT005^|^2023-12-15T09:30:00-03:00^|^106^|^Epsilon LLC^|^ONT,111222,SN321CBA^|^FTTH^|^Modificacao de Velocidade^|^Scheduled^|^Speed Change
+DOC654^|^2023-08-20T14:00:00-03:00^|^107^|^Zeta Inc^|^ONT,333444,SN789GHI^|^FTTP^|^Retirada^|^Completed^|^Service Removal
+VTT006^|^2023-07-22T16:50:00-03:00^|^108^|^Eta Corp^|^ONT,555666,SN456JKL^|^FTTH^|^Instalacao^|^Delayed^|^Standard Installation
+DOC987^|^2023-05-30T10:10:00-03:00^|^109^|^Theta LLC^|^ONT,777888,SN123MNO^|^FTTP^|^Bloqueio^|^Processing^|^Block Service
+VTT007^|^2023-04-18T17:25:00-03:00^|^110^|^Iota Inc^|^ONT,999000,SN321PQR^|^FTTH^|^AssociarCPE^|^Failed^|^CPE Association
