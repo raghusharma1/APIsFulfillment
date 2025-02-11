@@ -1,0 +1,11 @@
+id^|^associatedDocument^|^extraField^|^statusCode^|^scenario
+20230315000001^|^VTT001^|^Note 47% special^|^0^|^Normal Process
+20230315000002^|^VTT002^|^Extra info with /"quotes/"^|^1^|^Test Case
+20230315000003^|^VTT003^|^Data3423^|^2^|^Edge Case
+20230315000004^|^VTT004^|^Field with space^|^3^|^Scenario 4
+20230315000005^|^VTT005^|^Null^|^4^|^Scenario 5
+20230315000006^|^VTT006^|^12345^|^-1^|^Scenario 6
+20230315000007^|^VTT007^|^Missing data^|^Text instead of code^|^Scenario 7
+20230315000008^|^VTT008^|^Special chars @#%^|^0^|^Scenario 8
+20230315000009^|^VTT009^|^Longer text that exceeds expected^|^1^|^Scenario 9
+20230315000010^|^VTT010^|^Short^|^2^|^Scenario 10
