@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+DOC123^|^2023-12-01T12:00:00-03:00^|^101^|^InterNet Services^|^ONT,123456,SN123456^|^FTTH^|^Instalacao^|^Active^|^Standard Installation
+VTT002^|^2023-11-25T15:45:00-03:00^|^102^|^SpeedyNet^|^ONT,654321,SN654321^|^FTTP^|^Bloqueio^|^Inactive^|^Total Block
+DOC124^|^2023-10-10T10:00:00-03:00^|^103^|^FastWeb Corp^|^ONT,789123,SN789123^|^FTTH^|^Desbloqueio^|^Active^|^Network Recovery
+VTT003^|^2023-09-15T14:30:00-03:00^|^104^|^CityNet^|^ONT,321654,SN321654^|^FTTP^|^Retirada^|^Pending^|^Service Removal
+DOC125^|^2023-08-20T09:00:00-03:00^|^105^|^UrbanInternet^|^ONT,456789,SN456789^|^FTTH^|^Modificacao de Velocidade^|^Active^|^Speed Upgrade
+VTT004^|^2023-07-22T16:00:00-03:00^|^106^|^LinkUp^|^ONT,987654,SN987654^|^FTTP^|^AssociarCPE^|^Active^|^New Equipment Setup
+DOC126^|^2023-06-30T13:00:00-03:00^|^107^|^NetFly^|^ONT,852963,SN852963^|^FTTH^|^Instalacao^|^Cancelled^|^Installation Cancelled
+VTT005^|^2023-05-25T11:30:00-03:00^|^108^|^SkyNet Services^|^ONT,741852,SN741852^|^FTTP^|^Bloqueio^|^Inactive^|^Partial Block
+DOC127^|^2023-04-18T08:45:00-03:00^|^109^|^GroundLink^|^ONT,963852,SN963852^|^FTTH^|^Retirada^|^Pending^|^Equipment Retrieval
+VTT006^|^2023-03-10T10:15:00-03:00^|^110^|^HorizonNet^|^ONT,159753,SN159753^|^FTTP^|^Desbloqueio^|^Active^|^Unblocking Service

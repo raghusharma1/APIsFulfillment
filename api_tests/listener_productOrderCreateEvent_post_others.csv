@@ -1,0 +1,11 @@
+subscriberId^|^correlationOrder^|^id^|^associatedDocument^|^code^|^description^|^statusCode^|^scenario
+user12345^|^CO1001^|^20230315000001^|^VTT001^|^1^|^Enviando Atualização de Ordem^|^OK^|^Initial
+user12346^|^CO1002^|^20230315000002^|^VTT002^|^2^|^Ordem cancelada^|^Failed^|^Cancellation
+user12347^|^CO1003^|^20230315000003^|^VTT003^|^3^|^Início do Processo de Obra^|^InProgress^|^Construction
+user12348^|^CO1004^|^20230315000004^|^VTT004^|^4^|^Término do Processo de Obra^|^Completed^|^Completion
+user12349^|^CO1005^|^20230315000005^|^VTT005^|^0^|^Ordem encerrada com sucesso^|^OK^|^Final
+user12350^|^CO1006^|^20230315000006^|^VTT006^|^-1^|^O Equipamento já está em uso por outro cliente^|^Error^|^Conflict
+user12351^|^CO1007^|^20230315000007^|^VTT007^|^1^|^Enviando Atualização de Ordem^|^OK^|^Update
+user12352^|^CO1008^|^20230315000008^|^VTT008^|^2^|^Ordem cancelada^|^Failed^|^Cancellation
+user12353^|^CO1009^|^20230315000009^|^VTT009^|^3^|^Início do Processo de Obra^|^InProgress^|^Construction
+user12354^|^CO1010^|^20230315000010^|^VTT010^|^4^|^Término do Processo de Obra^|^Completed^|^Completion
