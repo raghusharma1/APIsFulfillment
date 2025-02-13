@@ -1,0 +1,11 @@
+order.Id^|^AdditionalCSVvaluInfo^|^RequestBody^|^statusCode
+ORD1023^|^20230315000001^|^{order:{associatedDocument:'DOC123',customer:{subscriberId:'SUB456'}}}^|^200
+ORD1024^|^20230315000001^|^{order:{associatedDocument:'DOC124',customer:{subscriberId:'SUB457'}}}^|^404
+ORD1025^|^20230315000001^|^{order:{associatedDocument:'DOC125',customer:{subscriberId:'SUB458'}}}^|^503
+ORD1026^|^20230315000001^|^{order:{associatedDocument:'DOC126',customer:{subscriberId:'SUB459'}}}^|^429
+ORD1027^|^20230315000001^|^{order:{associatedDocument:'DOC127',customer:{subscriberId:'SUB460'}}}^|^200
+ORD1028^|^20230315000001^|^{order:{associatedDocument:'DOC128',customer:{subscriberId:'SUB461'}}}^|^401
+ORD1029^|^20230315000001^|^{order:{associatedDocument:'DOC129',customer:{subscriberId:'SUB462'}}}^|^403
+ORD1030^|^20230315000001^|^{order:{associatedDocument:'DOC130',customer:{subscriberId:'SUB463'}}}^|^406
+ORD1031^|^20230315000001^|^{order:{associatedDocument:'DOC131',customer:{subscriberId:'SUB464'}}}^|^423
+ORD1032^|^20230315000001^|^{order:{associatedDocument:'DOC132',customer:{subscriberId:'SUB465'}}}^|^500
