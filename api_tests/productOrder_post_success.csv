@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customerName^|^phoneNumber^|^email^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2023-01-12T09:00:00-03:00^|^2310^|^InterCorp Internet^|^21965400000^|^sindicovtal@vtal.com^|^FTTP^|^AssociarCPE^|^200^|^Scenario A
+VTT002^|^2023-02-15T10:30:00-03:00^|^2311^|^Sandbox V.tal^|^21999999999^|^contact@sandbox.com^|^FTTH^|^Instalacao^|^201^|^Scenario B
+VTT003^|^2023-03-20T11:00:00-03:00^|^2312^|^InterHome Internet^|^000000000^|^info@interhome.com^|^FTTH^|^Bloqueio^|^202^|^Scenario C
+VTT004^|^2023-04-25T12:15:00-03:00^|^2313^|^Sandbox V.tal^|^21999900000^|^admin@vtal.com^|^FTTP^|^Retirada^|^203^|^Scenario D
+VTT005^|^2023-05-30T13:45:00-03:00^|^2314^|^InterCorp Internet^|^21965400000^|^sindicovtal@vtal.com^|^FTTP^|^Desbloqueio^|^204^|^Scenario E
+VTT006^|^2023-06-05T14:30:00-03:00^|^2315^|^Sandbox V.tal^|^000000000^|^support@vtal.com^|^FTTH^|^Modificacao de Velocidade^|^205^|^Scenario F
+VTT007^|^2023-07-10T15:00:00-03:00^|^2316^|^InterHome Internet^|^21999999999^|^home@interhome.com^|^FTTH^|^RemanejamentoPonto^|^206^|^Scenario G
+VTT008^|^2023-08-15T16:45:00-03:00^|^2317^|^Sandbox V.tal^|^21999900000^|^contact@vtal.com^|^FTTP^|^AssociarCPE^|^207^|^Scenario H
+VTT009^|^2023-09-20T17:30:00-03:00^|^2318^|^InterCorp Internet^|^000000000^|^corp@intercorp.com^|^FTTP^|^Instalacao^|^208^|^Scenario I
+VTT010^|^2023-10-25T18:15:00-03:00^|^2319^|^Sandbox V.tal^|^21965400000^|^info@vtal.com^|^FTTH^|^Bloqueio^|^209^|^Scenario J
