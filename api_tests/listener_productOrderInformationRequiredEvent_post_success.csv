@@ -1,0 +1,11 @@
+associatedDocument^|^correlationOrder^|^id^|^action^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+DOC001^|^1001^|^202312010001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^Observation details here^|^PROJETO^|^Field Task^|^CLIENTE^|^2023-12-01T10:00:00-03:00^|^1^|^Scenario A
+DOC002^|^1002^|^202312010002^|^fechar^|^7030^|^Pendencia tecnica^|^false^|^Details on the technical issue^|^MANUTENCAO^|^Technical Review^|^TECNICA^|^2023-12-02T11:00:00-03:00^|^2^|^Scenario B
+DOC003^|^1003^|^202312010003^|^redirecionar^|^7029^|^Client request^|^true^|^Client requested change^|^SOLICITACAO^|^Client Handling^|^CLIENTE^|^2023-12-03T12:00:00-03:00^|^3^|^Scenario C
+DOC004^|^1004^|^202312010004^|^abrir^|^7030^|^Technical delay^|^false^|^Delay due to technical reasons^|^AVERIA^|^Task Delayed^|^TECNICA^|^2023-12-04T13:00:00-03:00^|^4^|^Scenario D
+DOC005^|^1005^|^202312010005^|^fechar^|^7029^|^Closure of service^|^true^|^Service has been closed^|^CONCLUIDO^|^Service Closure^|^CLIENTE^|^2023-12-05T14:00:00-03:00^|^0^|^Scenario E
+DOC006^|^1006^|^202312010006^|^redirecionar^|^7030^|^Redirection required^|^false^|^Need to redirect the task^|^REDIRECIONAR^|^Task Redirection^|^TECNICA^|^2023-12-06T15:00:00-03:00^|^1^|^Scenario F
+DOC007^|^1007^|^202312010007^|^abrir^|^7029^|^Opening case^|^true^|^Case opened for review^|^REVISAO^|^Case Review^|^CLIENTE^|^2023-12-07T16:00:00-03:00^|^2^|^Scenario G
+DOC008^|^1008^|^202312010008^|^fechar^|^7030^|^Case closure^|^false^|^Case has been closed after review^|^FECHADO^|^Final Closure^|^TECNICA^|^2023-12-08T17:00:00-03:00^|^3^|^Scenario H
+DOC009^|^1009^|^202312010009^|^redirecionar^|^7029^|^Redirection for client^|^true^|^Redirected as per client request^|^CLIENTE^|^Client Redirection^|^CLIENTE^|^2023-12-09T18:00:00-03:00^|^4^|^Scenario I
+DOC010^|^1010^|^202312010010^|^abrir^|^7030^|^Open for technical review^|^false^|^Technical review initiated^|^TECNICA^|^Technical Assessment^|^TECNICA^|^2023-12-10T19:00:00-03:00^|^0^|^Scenario J
