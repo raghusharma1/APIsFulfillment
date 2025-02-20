@@ -1,0 +1,11 @@
+id^|^associatedDocument^|^extraField^|^statusCode^|^scenario
+20231224000001^|^VTT001^|^ExtraInfo123^|^3^|^Simulation
+20231224000002^|^VTT002^|^AdditionalData^|^1^|^Test Case
+20231224000003^|^VTT003^|^N/A^|^2^|^Prototype
+20231224000004^|^VTT004^|^HelloWorld^|^-1^|^Development
+20231224000005^|^VTT005^|^12345^|^0^|^Production
+20231224000006^|^VTT006^|^{}^|^4^|^Sandbox
+20231224000007^|^VTT007^|^FieldInfo^|^1^|^Trial
+20231224000008^|^VTT008^|^None^|^2^|^Demo
+20231224000009^|^VTT009^|^TestField^|^3^|^Validation
+20231224000010^|^VTT010^|^Lorem/ipsum^|^0^|^Operational
