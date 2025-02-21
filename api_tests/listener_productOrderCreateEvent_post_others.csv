@@ -1,0 +1,11 @@
+subscriberId^|^correlationOrder^|^id^|^associatedDocument^|^code^|^description^|^statusCode^|^scenario
+123456^|^CO1001^|^202311200001^|^DOC-2023-XX^|^1^|^Enviando Atualização de Ordem^|^200^|^Processo Inicial
+987654^|^CO1002^|^202311200002^|^DOC-2023-YY^|^2^|^Ordem cancelada^|^404^|^Processo Final
+555444^|^CO1003^|^202311200003^|^DOC-2023-ZZ^|^3^|^Início do Processo de Obra^|^500^|^Início de Obra
+222333^|^CO1004^|^202311200004^|^DOC-2023-AA^|^4^|^Término do Processo de Obra^|^201^|^Término de Obra
+111222^|^CO1005^|^202311200005^|^DOC-2023-BB^|^-1^|^O Equipamento já está em uso por outro cliente^|^403^|^Erro de Equipamento
+666777^|^CO1006^|^202311200006^|^DOC-2023-CC^|^0^|^Ordem encerrada com sucesso^|^202^|^Sucesso
+888999^|^CO1007^|^202311200007^|^DOC-2023-DD^|^1^|^Enviando Atualização de Ordem^|^200^|^Atualização
+333444^|^CO1008^|^202311200008^|^DOC-2023-EE^|^2^|^Ordem cancelada^|^404^|^Cancelamento
+777888^|^CO1009^|^202311200009^|^DOC-2023-FF^|^3^|^Início do Processo de Obra^|^500^|^Início de Obra
+999000^|^CO1010^|^202311200010^|^DOC-2023-GG^|^4^|^Término do Processo de Obra^|^201^|^Término de Obra
