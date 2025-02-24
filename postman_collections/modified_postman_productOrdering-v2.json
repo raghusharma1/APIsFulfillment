@@ -1,0 +1,2865 @@
+{
+  "item": [
+    {
+      "id": "99734f18-d7e4-430b-a5a3-8d268885f7f6",
+      "name": "Cancel Product Order By Id",
+      "request": {
+        "name": "Cancel Product Order By Id",
+        "description": {},
+        "url": {
+          "path": [
+            "cancelProductOrder",
+            ":order.Id"
+          ],
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "query": [],
+          "variable": [
+            {
+              "disabled": false,
+              "type": "any",
+              "value": "{{order.Id}}",
+              "key": "order.Id",
+              "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+            }
+          ]
+        },
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Accept",
+            "value": "application/json"
+          }
+        ],
+        "method": "POST",
+        "auth": null,
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        }
+      },
+      "response": [
+        {
+          "id": "f07a28e8-e2f1-47a3-bd67-ccc5c2e49781",
+          "name": "Success",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"200\",\n    \"message\": \"OK\",\n    \"type\": \"S\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        },
+        {
+          "id": "0de5c62e-0693-4f8f-945b-29ccd3654dd1",
+          "name": "Bad Request",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "Bad Request",
+          "code": 400,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"400\",\n    \"message\": \"Bad Request\",\n    \"type\": \"E\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        },
+        {
+          "id": "eb34aec7-5b6f-4c6c-9c24-f3408a13134e",
+          "name": "Unauthorized",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "Unauthorized",
+          "code": 401,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"401\",\n    \"message\": \"Unauthorized\",\n    \"type\": \"E\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        },
+        {
+          "id": "d25f231c-20f8-49c9-95ce-5a5af9d24cef",
+          "name": "Forbidden - Scope Not Permitted",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "Forbidden",
+          "code": 403,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"403\",\n    \"message\": \"Forbidden - Scope Not Permitted\",\n    \"type\": \"E\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        },
+        {
+          "id": "2949e152-14ad-4c27-a7c5-a6153aff2743",
+          "name": "Not Found",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "Not Found",
+          "code": 404,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"404\",\n    \"message\": \"Not Found\",\n    \"type\": \"E\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        },
+        {
+          "id": "501ae115-7023-47f5-98fa-bcdadbb1bcf5",
+          "name": "Not Found",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "Not Acceptable",
+          "code": 406,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"406\",\n    \"message\": \"Not Acceptable (AssociatedDocument jÃ¡ existente/utilizado)\",\n    \"type\": \"E\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        },
+        {
+          "id": "2f342076-a725-4c76-bb27-15f8da9ecc58",
+          "name": "Locked",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "Locked (WebDAV) (RFC 4918)",
+          "code": 423,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"423\",\n    \"message\": \"Agendamento nÃ£o pode ser alterado\",\n    \"type\": \"E\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        },
+        {
+          "id": "d49f4788-c0f6-4905-bc77-126d13c90389",
+          "name": "Too Many Requests - Exceeded Quota",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "Too Many Requests",
+          "code": 429,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"429\",\n    \"message\": \"Too Many Requests - Exceeded Quota\",\n    \"type\": \"E\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        },
+        {
+          "id": "d1e0c8cd-5724-49ce-b9dc-c6cc116160b4",
+          "name": "Internal Server Error",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "Internal Server Error",
+          "code": 500,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"500\",\n    \"message\": \"Internal Server Error\",\n    \"type\": \"T\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        },
+        {
+          "id": "6d7612a8-900e-4894-bebc-b2ea2c07351d",
+          "name": "Service Unavailable",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "Service Unavailable",
+          "code": 503,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"503\",\n    \"message\": \"Service Unavailable\",\n    \"type\": \"T\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        },
+        {
+          "id": "5bc1c0e2-5848-4488-baa4-e2d6c2f0bc34",
+          "name": "Gateway Timeout",
+          "originalRequest": {
+            "url": {
+              "path": [
+                "cancelProductOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser cancelada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "status": "Gateway Timeout",
+          "code": 504,
+          "header": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "body": "{\n  \"control\": {\n    \"code\": \"504\",\n    \"message\": \"Gateway Timeout\",\n    \"type\": \"T\"\n  }\n}",
+          "cookie": [],
+          "_postman_previewlanguage": "json"
+        }
+      ],
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "------------existing_test_case------------\n\ndescribe('API Load Test', () => {\n  it('should handle 1000 users over 1 minute', async () => {\n    const response = await artillery.fire({\n      config: {\n        target: 'http://api.example.com',\n        phases: [{ duration: 60, arrivalRate: 1000 }]\n      },\n      scenarios: [{\n        flow: [\n          { get: { url: '/users' } }\n        ]\n      }]\n    });\n    expect(response.stats.codes['200']).toBeGreaterThan(500);\n  });\n});\n\n------------existing_test_case------------\n\n\n------------import_details------------\n\nconst artillery = require('artillery-core');\nconst expect = require('expect');\n\n------------import_details------------\n\n\n------------source_code------------\n\n// Updated API Endpoint to handle user details with query parameters\nasync function fetchUserDetails(userId, includePosts = false) {\n  const queryParam = includePosts ? '?include=posts' : '';\n  const response = await fetch(`http://api.example.com/users/${userId}${queryParam}`);\n  return response.json();\n}\n\n------------source_code------------\n\n"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ],
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      }
+    },
+    {
+      "id": "61f60181-8d2f-424f-906a-8c9da6aa41d9",
+      "name": "listener",
+      "item": [
+        {
+          "id": "e8ef0748-d334-47db-b611-54cef1248bd2",
+          "name": "Cancel Product Order Create Event By Client",
+          "request": {
+            "name": "Cancel Product Order Create Event By Client",
+            "description": {},
+            "url": {
+              "path": [
+                "listener",
+                "cancelProductOrderCreateEvent"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": []
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "auth": null,
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"notification\": {\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        },\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"code\": \"{{code}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"description\": \"{{description}}\",\n            \"id\": \"{{id}}\",\n            \"issue\": {\n                \"issue\": {\n                    \"action\": \"{{action}}\",\n                    \"code\": {\n                        \"code\": \"{{issue.issue.code.code}}\"\n                    },\n                    \"description\": {\n                        \"description\": \"{{issue.issue.description.description}}\"\n                    },\n                    \"fieldActivity\": \"{{fieldActivity}}\",\n                    \"observation\": \"{{observation}}\",\n                    \"reason\": \"{{reason}}\",\n                    \"task\": \"{{task}}\",\n                    \"type\": \"{{type}}\",\n                    \"updateDate\": \"{{updateDate}}\"\n                }\n            },\n            \"lostEquipment\": \"{{lostEquipment}}\",\n            \"resource\": {\n                \"resource\": {\n                    \"devices\": {\n                        \"device\": [\n                            \"{{device}}\"\n                        ]\n                    },\n                    \"fiberPath\": {\n                        \"items\": {\n                            \"item\": [\n                                \"{{item}}\"\n                            ]\n                        }\n                    },\n                    \"gponAccess\": \"{{gponAccess}}\"\n                }\n            },\n            \"type\": \"{{order.type}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "response": [
+            {
+              "id": "2c0bd356-c72e-4e90-9467-0cc3f0206c18",
+              "name": "OperaÃ§Ã£o realizada com sucesso",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "cancelProductOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "No Content",
+              "code": 204,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "492217a3-f816-44d6-a8dd-add2b23217f3",
+              "name": "BadRequest",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "cancelProductOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Bad Request",
+              "code": 400,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "02dc8972-1662-445e-9ae2-89c715e84e7b",
+              "name": "Unauthorized",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "cancelProductOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Unauthorized",
+              "code": 401,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "cfbe4be6-3264-4822-be39-c73a8bd9e23c",
+              "name": "ServerError",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "cancelProductOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Internal Server Error",
+              "code": 500,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "6bf43e75-ecc3-4eb3-8a05-15a9ab898d2e",
+              "name": "Unavailable",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "cancelProductOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Service Unavailable",
+              "code": 503,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "4956789e-4dc5-4743-8612-473c270ce6d3",
+              "name": "Timeout",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "cancelProductOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Gateway Timeout",
+              "code": 504,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            }
+          ],
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "------------existing_test_case------------\n\ndescribe('API Load Test', () => {\n  it('should handle 1000 users over 1 minute', async () => {\n    const response = await artillery.fire({\n      config: {\n        target: 'http://api.example.com',\n        phases: [{ duration: 60, arrivalRate: 1000 }]\n      },\n      scenarios: [{\n        flow: [\n          { get: { url: '/users' } }\n        ]\n      }]\n    });\n    expect(response.stats.codes['200']).toBeGreaterThan(500);\n  });\n});\n\n------------existing_test_case------------\n\n\n------------import_details------------\n\nconst artillery = require('artillery-core');\nconst expect = require('expect');\n\n------------import_details------------\n\n\n------------source_code------------\n\n// Updated API Endpoint to handle user details with query parameters\nasync function fetchUserDetails(userId, includePosts = false) {\n  const queryParam = includePosts ? '?include=posts' : '';\n  const response = await fetch(`http://api.example.com/users/${userId}${queryParam}`);\n  return response.json();\n}\n\n------------source_code------------\n\n"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          }
+        },
+        {
+          "id": "07c6b6c6-4d0b-4eef-b238-61389017fc12",
+          "name": "Product Order Create Event By Client",
+          "request": {
+            "name": "Product Order Create Event By Client",
+            "description": {},
+            "url": {
+              "path": [
+                "listener",
+                "productOrderCreateEvent"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": []
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "auth": null,
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"notification\": {\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        },\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"code\": \"{{code}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"description\": \"{{description}}\",\n            \"id\": \"{{id}}\",\n            \"issue\": {\n                \"issue\": {\n                    \"action\": \"{{action}}\",\n                    \"code\": {\n                        \"code\": \"{{issue.issue.code.code}}\"\n                    },\n                    \"description\": {\n                        \"description\": \"{{issue.issue.description.description}}\"\n                    },\n                    \"fieldActivity\": \"{{fieldActivity}}\",\n                    \"observation\": \"{{observation}}\",\n                    \"reason\": \"{{reason}}\",\n                    \"task\": \"{{task}}\",\n                    \"type\": \"{{type}}\",\n                    \"updateDate\": \"{{updateDate}}\"\n                }\n            },\n            \"lostEquipment\": \"{{lostEquipment}}\",\n            \"resource\": {\n                \"resource\": {\n                    \"devices\": {\n                        \"device\": [\n                            \"{{device}}\"\n                        ]\n                    },\n                    \"fiberPath\": {\n                        \"items\": {\n                            \"item\": [\n                                \"{{item}}\"\n                            ]\n                        }\n                    },\n                    \"gponAccess\": \"{{gponAccess}}\"\n                }\n            },\n            \"type\": \"{{order.type}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "response": [
+            {
+              "id": "2ffa6212-3966-41c4-8c54-edd1cb3b30e9",
+              "name": "OperaÃ§Ã£o realizada com sucesso",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "No Content",
+              "code": 204,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "3f77437c-ea32-415a-b66c-5210a5018c84",
+              "name": "BadRequest",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Bad Request",
+              "code": 400,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "3fd02b2e-371c-4ed6-9598-f314c9c507fd",
+              "name": "Unauthorized",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Unauthorized",
+              "code": 401,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "9e685bd7-7d59-41bc-a0b1-a8a52f23fc0b",
+              "name": "ServerError",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Internal Server Error",
+              "code": 500,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "59d1ad28-9f72-4242-a0eb-a5eb12c815e7",
+              "name": "Unavailable",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Service Unavailable",
+              "code": 503,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "cda4bbf2-ad1f-4d9f-85fe-776330a1193d",
+              "name": "Timeout",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderCreateEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Gateway Timeout",
+              "code": 504,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            }
+          ],
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "------------existing_test_case------------\n\ndescribe('API Load Test', () => {\n  it('should handle 1000 users over 1 minute', async () => {\n    const response = await artillery.fire({\n      config: {\n        target: 'http://api.example.com',\n        phases: [{ duration: 60, arrivalRate: 1000 }]\n      },\n      scenarios: [{\n        flow: [\n          { get: { url: '/users' } }\n        ]\n      }]\n    });\n    expect(response.stats.codes['200']).toBeGreaterThan(500);\n  });\n});\n\n------------existing_test_case------------\n\n\n------------import_details------------\n\nconst artillery = require('artillery-core');\nconst expect = require('expect');\n\n------------import_details------------\n\n\n------------source_code------------\n\n// Updated API Endpoint to handle user details with query parameters\nasync function fetchUserDetails(userId, includePosts = false) {\n  const queryParam = includePosts ? '?include=posts' : '';\n  const response = await fetch(`http://api.example.com/users/${userId}${queryParam}`);\n  return response.json();\n}\n\n------------source_code------------\n\n"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          }
+        },
+        {
+          "id": "72b1c8d5-6306-41d8-bb1d-62554f0ec3b0",
+          "name": "Product Order Information Required Event",
+          "request": {
+            "name": "Product Order Information Required Event",
+            "description": {},
+            "url": {
+              "path": [
+                "listener",
+                "productOrderInformationRequiredEvent"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": []
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "auth": null,
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"notification\": {\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        },\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"code\": \"{{code}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"description\": \"{{description}}\",\n            \"id\": \"{{id}}\",\n            \"issue\": {\n                \"issue\": {\n                    \"action\": \"{{action}}\",\n                    \"code\": {\n                        \"code\": \"{{issue.issue.code.code}}\"\n                    },\n                    \"description\": {\n                        \"description\": \"{{issue.issue.description.description}}\"\n                    },\n                    \"fieldActivity\": \"{{fieldActivity}}\",\n                    \"observation\": \"{{observation}}\",\n                    \"reason\": \"{{reason}}\",\n                    \"task\": \"{{task}}\",\n                    \"type\": \"{{type}}\",\n                    \"updateDate\": \"{{updateDate}}\"\n                }\n            },\n            \"lostEquipment\": \"{{lostEquipment}}\",\n            \"resource\": {\n                \"resource\": {\n                    \"devices\": {\n                        \"device\": [\n                            \"{{device}}\"\n                        ]\n                    },\n                    \"fiberPath\": {\n                        \"items\": {\n                            \"item\": [\n                                \"{{item}}\"\n                            ]\n                        }\n                    },\n                    \"gponAccess\": \"{{gponAccess}}\"\n                }\n            },\n            \"type\": \"{{order.type}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "response": [
+            {
+              "id": "78f558b1-48b4-4d77-96c0-e224f596dd08",
+              "name": "Success",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderInformationRequiredEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\",\n            \"issue\": {\n                \"action\": \"{{action}}\",\n                \"code\": \"{{code}}\",\n                \"description\": \"{{description}}\",\n                \"fieldActivity\": \"{{fieldActivity}}\",\n                \"observation\": \"{{observation}}\",\n                \"reason\": \"{{reason}}\",\n                \"task\": \"{{task}}\",\n                \"type\": \"{{type}}\",\n                \"updateDate\": \"{{updateDate}}\"\n            }\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "No Content",
+              "code": 204,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "f9c35ec2-b701-417c-976a-817621bbfa1c",
+              "name": "BadRequest",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderInformationRequiredEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\",\n            \"issue\": {\n                \"action\": \"{{action}}\",\n                \"code\": \"{{code}}\",\n                \"description\": \"{{description}}\",\n                \"fieldActivity\": \"{{fieldActivity}}\",\n                \"observation\": \"{{observation}}\",\n                \"reason\": \"{{reason}}\",\n                \"task\": \"{{task}}\",\n                \"type\": \"{{type}}\",\n                \"updateDate\": \"{{updateDate}}\"\n            }\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Bad Request",
+              "code": 400,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "2aa7e131-c79e-42fa-9b94-4aac22328983",
+              "name": "Unauthorized",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderInformationRequiredEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\",\n            \"issue\": {\n                \"action\": \"{{action}}\",\n                \"code\": \"{{code}}\",\n                \"description\": \"{{description}}\",\n                \"fieldActivity\": \"{{fieldActivity}}\",\n                \"observation\": \"{{observation}}\",\n                \"reason\": \"{{reason}}\",\n                \"task\": \"{{task}}\",\n                \"type\": \"{{type}}\",\n                \"updateDate\": \"{{updateDate}}\"\n            }\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Unauthorized",
+              "code": 401,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "9a2470fa-fcc5-446a-85cd-fee33991171d",
+              "name": "ServerError",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderInformationRequiredEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\",\n            \"issue\": {\n                \"action\": \"{{action}}\",\n                \"code\": \"{{code}}\",\n                \"description\": \"{{description}}\",\n                \"fieldActivity\": \"{{fieldActivity}}\",\n                \"observation\": \"{{observation}}\",\n                \"reason\": \"{{reason}}\",\n                \"task\": \"{{task}}\",\n                \"type\": \"{{type}}\",\n                \"updateDate\": \"{{updateDate}}\"\n            }\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Internal Server Error",
+              "code": 500,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "bbee75d6-96d2-439c-9e43-e09d10526e2e",
+              "name": "Unavailable",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderInformationRequiredEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\",\n            \"issue\": {\n                \"action\": \"{{action}}\",\n                \"code\": \"{{code}}\",\n                \"description\": \"{{description}}\",\n                \"fieldActivity\": \"{{fieldActivity}}\",\n                \"observation\": \"{{observation}}\",\n                \"reason\": \"{{reason}}\",\n                \"task\": \"{{task}}\",\n                \"type\": \"{{type}}\",\n                \"updateDate\": \"{{updateDate}}\"\n            }\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Service Unavailable",
+              "code": 503,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "82d2428c-6ff4-4401-999a-4413df25bc23",
+              "name": "Timeout",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderInformationRequiredEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"id\": \"{{id}}\",\n            \"issue\": {\n                \"action\": \"{{action}}\",\n                \"code\": \"{{code}}\",\n                \"description\": \"{{description}}\",\n                \"fieldActivity\": \"{{fieldActivity}}\",\n                \"observation\": \"{{observation}}\",\n                \"reason\": \"{{reason}}\",\n                \"task\": \"{{task}}\",\n                \"type\": \"{{type}}\",\n                \"updateDate\": \"{{updateDate}}\"\n            }\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Gateway Timeout",
+              "code": 504,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            }
+          ],
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "------------existing_test_case------------\n\ndescribe('API Load Test', () => {\n  it('should handle 1000 users over 1 minute', async () => {\n    const response = await artillery.fire({\n      config: {\n        target: 'http://api.example.com',\n        phases: [{ duration: 60, arrivalRate: 1000 }]\n      },\n      scenarios: [{\n        flow: [\n          { get: { url: '/users' } }\n        ]\n      }]\n    });\n    expect(response.stats.codes['200']).toBeGreaterThan(500);\n  });\n});\n\n------------existing_test_case------------\n\n\n------------import_details------------\n\nconst artillery = require('artillery-core');\nconst expect = require('expect');\n\n------------import_details------------\n\n\n------------source_code------------\n\n// Updated API Endpoint to handle user details with query parameters\nasync function fetchUserDetails(userId, includePosts = false) {\n  const queryParam = includePosts ? '?include=posts' : '';\n  const response = await fetch(`http://api.example.com/users/${userId}${queryParam}`);\n  return response.json();\n}\n\n------------source_code------------\n\n"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          }
+        },
+        {
+          "id": "734475ab-041d-4d4b-a509-165ee83f3717",
+          "name": "State Change Event By Client",
+          "request": {
+            "name": "State Change Event By Client",
+            "description": {},
+            "url": {
+              "path": [
+                "listener",
+                "productOrderStateChangeEvent"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": []
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "auth": null,
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"notification\": {\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        },\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"code\": \"{{code}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"description\": \"{{description}}\",\n            \"id\": \"{{id}}\",\n            \"issue\": {\n                \"issue\": {\n                    \"action\": \"{{action}}\",\n                    \"code\": {\n                        \"code\": \"{{issue.issue.code.code}}\"\n                    },\n                    \"description\": {\n                        \"description\": \"{{issue.issue.description.description}}\"\n                    },\n                    \"fieldActivity\": \"{{fieldActivity}}\",\n                    \"observation\": \"{{observation}}\",\n                    \"reason\": \"{{reason}}\",\n                    \"task\": \"{{task}}\",\n                    \"type\": \"{{type}}\",\n                    \"updateDate\": \"{{updateDate}}\"\n                }\n            },\n            \"lostEquipment\": \"{{lostEquipment}}\",\n            \"resource\": {\n                \"resource\": {\n                    \"devices\": {\n                        \"device\": [\n                            \"{{device}}\"\n                        ]\n                    },\n                    \"fiberPath\": {\n                        \"items\": {\n                            \"item\": [\n                                \"{{item}}\"\n                            ]\n                        }\n                    },\n                    \"gponAccess\": \"{{gponAccess}}\"\n                }\n            },\n            \"type\": \"{{order.type}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "response": [
+            {
+              "id": "90595aa6-5ab2-468c-9185-c1d953cf1719",
+              "name": "OperaÃ§Ã£o realizada com sucesso",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderStateChangeEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        },\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"code\": \"{{code}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"description\": \"{{description}}\",\n            \"id\": \"{{id}}\",\n            \"type\": \"{{type}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "No Content",
+              "code": 204,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "bd59813f-d890-4ea1-8591-b316b6dffd2a",
+              "name": "BadRequest",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderStateChangeEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        },\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"code\": \"{{code}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"description\": \"{{description}}\",\n            \"id\": \"{{id}}\",\n            \"type\": \"{{type}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Bad Request",
+              "code": 400,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "79a3a972-749c-4431-985a-32862085d613",
+              "name": "Unauthorized",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderStateChangeEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        },\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"code\": \"{{code}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"description\": \"{{description}}\",\n            \"id\": \"{{id}}\",\n            \"type\": \"{{type}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Unauthorized",
+              "code": 401,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "8a23790d-932f-4351-952c-a25359b384df",
+              "name": "ServerError",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderStateChangeEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        },\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"code\": \"{{code}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"description\": \"{{description}}\",\n            \"id\": \"{{id}}\",\n            \"type\": \"{{type}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Internal Server Error",
+              "code": 500,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "a73248e4-98b1-4906-a8ec-6a1af058d596",
+              "name": "Unavailable",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderStateChangeEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        },\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"code\": \"{{code}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"description\": \"{{description}}\",\n            \"id\": \"{{id}}\",\n            \"type\": \"{{type}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Service Unavailable",
+              "code": 503,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            },
+            {
+              "id": "d4c41a39-bfe2-49c6-bf06-5f2e383c6e24",
+              "name": "Timeout",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "listener",
+                    "productOrderStateChangeEvent"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"notification\": {\n        \"customer\": {\n            \"subscriberId\": \"{{subscriberId}}\"\n        },\n        \"date\": \"{{date}}\",\n        \"order\": {\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"code\": \"{{code}}\",\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"description\": \"{{description}}\",\n            \"id\": \"{{id}}\",\n            \"type\": \"{{type}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Gateway Timeout",
+              "code": 504,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "text/plain"
+                }
+              ],
+              "body": "",
+              "cookie": [],
+              "_postman_previewlanguage": "text"
+            }
+          ],
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "------------existing_test_case------------\n\ndescribe('API Load Test', () => {\n  it('should handle 1000 users over 1 minute', async () => {\n    const response = await artillery.fire({\n      config: {\n        target: 'http://api.example.com',\n        phases: [{ duration: 60, arrivalRate: 1000 }]\n      },\n      scenarios: [{\n        flow: [\n          { get: { url: '/users' } }\n        ]\n      }]\n    });\n    expect(response.stats.codes['200']).toBeGreaterThan(500);\n  });\n});\n\n------------existing_test_case------------\n\n\n------------import_details------------\n\nconst artillery = require('artillery-core');\nconst expect = require('expect');\n\n------------import_details------------\n\n\n------------source_code------------\n\n// Updated API Endpoint to handle user details with query parameters\nasync function fetchUserDetails(userId, includePosts = false) {\n  const queryParam = includePosts ? '?include=posts' : '';\n  const response = await fetch(`http://api.example.com/users/${userId}${queryParam}`);\n  return response.json();\n}\n\n------------source_code------------\n\n"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          }
+        }
+      ],
+      "event": []
+    },
+    {
+      "id": "b663f788-1928-4d28-a762-9cbefac03f50",
+      "name": "productOrder",
+      "item": [
+        {
+          "id": "6fc7e68b-2124-4139-8b9e-fe266d932643",
+          "name": "Request Opening Order",
+          "request": {
+            "name": "Request Opening Order",
+            "description": {},
+            "url": {
+              "path": [
+                "productOrder"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": []
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              },
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "POST",
+            "auth": null,
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"order\": {\n            \"correlationOrder\": \"{{correlationOrder}}\",\n            \"associatedDocument\": \"{{associatedDocument}}\",\n            \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n            \"type\": \"{{type}}\",\n            \"infraType\": \"{{infraType}}\",\n            \"customer\": {\n                \"customer\": {\n                    \"name\": \"{{name}}\",\n                    \"subscriberId\": \"{{subscriberId}}\",\n                    \"phoneNumber\": {\n                        \"phoneNumbers\": [\n                            \"{{phoneNumbers}}\"\n                        ]\n                    },\n                    \"businessUnity\": \"{{businessUnity}}\",\n                    \"fantasyName\": \"{{fantasyName}}\",\n                    \"subscriberIdOld\": \"{{subscriberIdOld}}\",\n                    \"workContact\": {\n                        \"email\": \"{{email}}\",\n                        \"name\": \"{{workContact.name}}\",\n                        \"phone\": \"{{phone}}\"\n                    }\n                }\n            },\n            \"appointment\": {\n                \"appointment\": {\n                    \"hasSlot\": \"{{hasSlot}}\",\n                    \"mandatoryType\": \"{{mandatoryType}}\",\n                    \"date\": \"{{date}}\",\n                    \"workOrderId\": \"{{workOrderId}}\"\n                }\n            },\n            \"addresses\": {\n                \"addresses\": {\n                    \"address\": {\n                        \"id\": \"{{id}}\",\n                        \"inventoryId\": \"{{inventoryId}}\",\n                        \"complement\": {\n                            \"complement\": {\n                                \"value\": \"{{value}}\"\n                            }\n                        },\n                        \"reference\": \"{{reference}}\"\n                    }\n                }\n            },\n            \"addressChange\": {\n                \"flag\": \"{{flag}}\"\n            },\n            \"equipments\": {\n                \"equipments\": {\n                    \"equipment\": [\n                        \"{{equipment}}\"\n                    ]\n                }\n            },\n            \"issue\": {\n                \"issue\": {\n                    \"action\": \"{{action}}\",\n                    \"code\": {\n                        \"code\": \"{{code.code}}\"\n                    },\n                    \"description\": {\n                        \"description\": \"{{description.description}}\"\n                    },\n                    \"fieldActivity\": \"{{fieldActivity}}\",\n                    \"observation\": \"{{observation}}\",\n                    \"reason\": \"{{reason}}\",\n                    \"task\": \"{{task}}\",\n                    \"type\": \"{{issue.issue.type}}\",\n                    \"updateDate\": \"{{updateDate}}\"\n                }\n            },\n            \"orderItem\": [\n                \"{{orderItem}}\"\n            ],\n            \"products\": {\n                \"products\": {\n                    \"product\": [\n                        \"{{product}}\"\n                    ]\n                }\n            },\n            \"task\": {\n                \"action\": \"{{order.order.task.action}}\",\n                \"code\": {\n                    \"code\": \"{{order.order.task.code.code}}\"\n                },\n                \"description\": \"{{order.order.task.description}}\",\n                \"updateDate\": \"{{order.order.task.updateDate}}\"\n            }\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "response": [
+            {
+              "id": "f0fb2314-343b-40a3-81f9-a5555ca4f949",
+              "name": "Created",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"customer\": {\n            \"businessUnity\": \"{{businessUnity}}\",\n            \"fantasyName\": \"{{fantasyName}}\",\n            \"name\": \"{{name}}\",\n            \"phoneNumber\": {\n                \"phoneNumbers\": [\n                    \"{{phoneNumbers}}\"\n                ]\n            },\n            \"subscriberId\": \"{{subscriberId}}\",\n            \"workContact\": {\n                \"email\": \"{{email}}\",\n                \"name\": \"{{workContact.name}}\",\n                \"phone\": \"{{phone}}\"\n            }\n        },\n        \"equipments\": {\n            \"equipment\": [\n                \"{{equipment}}\"\n            ]\n        },\n        \"infraType\": \"{{infraType}}\",\n        \"type\": \"{{type}}\"\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Created",
+              "code": 201,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"201\",\n    \"message\": \"Created\",\n    \"type\": \"S\"\n  },\n  \"order\": {\n    \"id\": \"20230315000001\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "43049a96-c121-4496-9b29-2624397690a0",
+              "name": "BadRequest",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"customer\": {\n            \"businessUnity\": \"{{businessUnity}}\",\n            \"fantasyName\": \"{{fantasyName}}\",\n            \"name\": \"{{name}}\",\n            \"phoneNumber\": {\n                \"phoneNumbers\": [\n                    \"{{phoneNumbers}}\"\n                ]\n            },\n            \"subscriberId\": \"{{subscriberId}}\",\n            \"workContact\": {\n                \"email\": \"{{email}}\",\n                \"name\": \"{{workContact.name}}\",\n                \"phone\": \"{{phone}}\"\n            }\n        },\n        \"equipments\": {\n            \"equipment\": [\n                \"{{equipment}}\"\n            ]\n        },\n        \"infraType\": \"{{infraType}}\",\n        \"type\": \"{{type}}\"\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Bad Request",
+              "code": 400,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"400\",\n    \"message\": \"Campo Catalog ID fora do padrÃ£o esperado\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "e5562141-a1e0-4b82-9ffc-c309d74fc0fa",
+              "name": "Unauthorized",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"customer\": {\n            \"businessUnity\": \"{{businessUnity}}\",\n            \"fantasyName\": \"{{fantasyName}}\",\n            \"name\": \"{{name}}\",\n            \"phoneNumber\": {\n                \"phoneNumbers\": [\n                    \"{{phoneNumbers}}\"\n                ]\n            },\n            \"subscriberId\": \"{{subscriberId}}\",\n            \"workContact\": {\n                \"email\": \"{{email}}\",\n                \"name\": \"{{workContact.name}}\",\n                \"phone\": \"{{phone}}\"\n            }\n        },\n        \"equipments\": {\n            \"equipment\": [\n                \"{{equipment}}\"\n            ]\n        },\n        \"infraType\": \"{{infraType}}\",\n        \"type\": \"{{type}}\"\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Unauthorized",
+              "code": 401,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"401\",\n    \"message\": \"Unauthorized\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "34238e80-5b2c-423d-9742-d084d01d2b27",
+              "name": "Forbidden - Scope Not Permitted",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"customer\": {\n            \"businessUnity\": \"{{businessUnity}}\",\n            \"fantasyName\": \"{{fantasyName}}\",\n            \"name\": \"{{name}}\",\n            \"phoneNumber\": {\n                \"phoneNumbers\": [\n                    \"{{phoneNumbers}}\"\n                ]\n            },\n            \"subscriberId\": \"{{subscriberId}}\",\n            \"workContact\": {\n                \"email\": \"{{email}}\",\n                \"name\": \"{{workContact.name}}\",\n                \"phone\": \"{{phone}}\"\n            }\n        },\n        \"equipments\": {\n            \"equipment\": [\n                \"{{equipment}}\"\n            ]\n        },\n        \"infraType\": \"{{infraType}}\",\n        \"type\": \"{{type}}\"\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Forbidden",
+              "code": 403,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"403\",\n    \"message\": \"Forbidden - Scope Not Permitted\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "26184fbd-b777-4dd2-90e1-63ae2e468703",
+              "name": "Not Found",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"customer\": {\n            \"businessUnity\": \"{{businessUnity}}\",\n            \"fantasyName\": \"{{fantasyName}}\",\n            \"name\": \"{{name}}\",\n            \"phoneNumber\": {\n                \"phoneNumbers\": [\n                    \"{{phoneNumbers}}\"\n                ]\n            },\n            \"subscriberId\": \"{{subscriberId}}\",\n            \"workContact\": {\n                \"email\": \"{{email}}\",\n                \"name\": \"{{workContact.name}}\",\n                \"phone\": \"{{phone}}\"\n            }\n        },\n        \"equipments\": {\n            \"equipment\": [\n                \"{{equipment}}\"\n            ]\n        },\n        \"infraType\": \"{{infraType}}\",\n        \"type\": \"{{type}}\"\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Not Found",
+              "code": 404,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"404\",\n    \"message\": \"Not Found\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "f579ec49-7f78-47d4-abbd-ae35a959c9a5",
+              "name": "Not Found",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"customer\": {\n            \"businessUnity\": \"{{businessUnity}}\",\n            \"fantasyName\": \"{{fantasyName}}\",\n            \"name\": \"{{name}}\",\n            \"phoneNumber\": {\n                \"phoneNumbers\": [\n                    \"{{phoneNumbers}}\"\n                ]\n            },\n            \"subscriberId\": \"{{subscriberId}}\",\n            \"workContact\": {\n                \"email\": \"{{email}}\",\n                \"name\": \"{{workContact.name}}\",\n                \"phone\": \"{{phone}}\"\n            }\n        },\n        \"equipments\": {\n            \"equipment\": [\n                \"{{equipment}}\"\n            ]\n        },\n        \"infraType\": \"{{infraType}}\",\n        \"type\": \"{{type}}\"\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Not Acceptable",
+              "code": 406,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"406\",\n    \"message\": \"Not Acceptable (AssociatedDocument jÃ¡ existente/utilizado)\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "7a68de85-ea22-41b0-b1d2-9f5e0c26a0df",
+              "name": "Too Many Requests - Exceeded Quota",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"customer\": {\n            \"businessUnity\": \"{{businessUnity}}\",\n            \"fantasyName\": \"{{fantasyName}}\",\n            \"name\": \"{{name}}\",\n            \"phoneNumber\": {\n                \"phoneNumbers\": [\n                    \"{{phoneNumbers}}\"\n                ]\n            },\n            \"subscriberId\": \"{{subscriberId}}\",\n            \"workContact\": {\n                \"email\": \"{{email}}\",\n                \"name\": \"{{workContact.name}}\",\n                \"phone\": \"{{phone}}\"\n            }\n        },\n        \"equipments\": {\n            \"equipment\": [\n                \"{{equipment}}\"\n            ]\n        },\n        \"infraType\": \"{{infraType}}\",\n        \"type\": \"{{type}}\"\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Too Many Requests",
+              "code": 429,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"429\",\n    \"message\": \"Too Many Requests - Exceeded Quota\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "66863a45-acab-4a12-a78e-918f34901abd",
+              "name": "Internal Server Error",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"customer\": {\n            \"businessUnity\": \"{{businessUnity}}\",\n            \"fantasyName\": \"{{fantasyName}}\",\n            \"name\": \"{{name}}\",\n            \"phoneNumber\": {\n                \"phoneNumbers\": [\n                    \"{{phoneNumbers}}\"\n                ]\n            },\n            \"subscriberId\": \"{{subscriberId}}\",\n            \"workContact\": {\n                \"email\": \"{{email}}\",\n                \"name\": \"{{workContact.name}}\",\n                \"phone\": \"{{phone}}\"\n            }\n        },\n        \"equipments\": {\n            \"equipment\": [\n                \"{{equipment}}\"\n            ]\n        },\n        \"infraType\": \"{{infraType}}\",\n        \"type\": \"{{type}}\"\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Internal Server Error",
+              "code": 500,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"500\",\n    \"message\": \"Internal Server Error\",\n    \"type\": \"T\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "d5c9628b-8fe6-4f4a-993e-4f94a1ceab26",
+              "name": "Service Unavailable",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"customer\": {\n            \"businessUnity\": \"{{businessUnity}}\",\n            \"fantasyName\": \"{{fantasyName}}\",\n            \"name\": \"{{name}}\",\n            \"phoneNumber\": {\n                \"phoneNumbers\": [\n                    \"{{phoneNumbers}}\"\n                ]\n            },\n            \"subscriberId\": \"{{subscriberId}}\",\n            \"workContact\": {\n                \"email\": \"{{email}}\",\n                \"name\": \"{{workContact.name}}\",\n                \"phone\": \"{{phone}}\"\n            }\n        },\n        \"equipments\": {\n            \"equipment\": [\n                \"{{equipment}}\"\n            ]\n        },\n        \"infraType\": \"{{infraType}}\",\n        \"type\": \"{{type}}\"\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Service Unavailable",
+              "code": 503,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"503\",\n    \"message\": \"Service Unavailable\",\n    \"type\": \"T\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "38d16fcc-0d3d-40d7-9602-059515707967",
+              "name": "Gateway Timeout",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": []
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "POST",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"customer\": {\n            \"businessUnity\": \"{{businessUnity}}\",\n            \"fantasyName\": \"{{fantasyName}}\",\n            \"name\": \"{{name}}\",\n            \"phoneNumber\": {\n                \"phoneNumbers\": [\n                    \"{{phoneNumbers}}\"\n                ]\n            },\n            \"subscriberId\": \"{{subscriberId}}\",\n            \"workContact\": {\n                \"email\": \"{{email}}\",\n                \"name\": \"{{workContact.name}}\",\n                \"phone\": \"{{phone}}\"\n            }\n        },\n        \"equipments\": {\n            \"equipment\": [\n                \"{{equipment}}\"\n            ]\n        },\n        \"infraType\": \"{{infraType}}\",\n        \"type\": \"{{type}}\"\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Gateway Timeout",
+              "code": 504,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"504\",\n    \"message\": \"Gateway Timeout\",\n    \"type\": \"T\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            }
+          ],
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "------------existing_test_case------------\n\ndescribe('API Load Test', () => {\n  it('should handle 1000 users over 1 minute', async () => {\n    const response = await artillery.fire({\n      config: {\n        target: 'http://api.example.com',\n        phases: [{ duration: 60, arrivalRate: 1000 }]\n      },\n      scenarios: [{\n        flow: [\n          { get: { url: '/users' } }\n        ]\n      }]\n    });\n    expect(response.stats.codes['200']).toBeGreaterThan(500);\n  });\n});\n\n------------existing_test_case------------\n\n\n------------import_details------------\n\nconst artillery = require('artillery-core');\nconst expect = require('expect');\n\n------------import_details------------\n\n\n------------source_code------------\n\n// Updated API Endpoint to handle user details with query parameters\nasync function fetchUserDetails(userId, includePosts = false) {\n  const queryParam = includePosts ? '?include=posts' : '';\n  const response = await fetch(`http://api.example.com/users/${userId}${queryParam}`);\n  return response.json();\n}\n\n------------source_code------------\n\n"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          }
+        },
+        {
+          "id": "1ea5c1d9-7ae3-408d-b44e-54f6430dc55e",
+          "name": "Patch Product Order By Id",
+          "request": {
+            "name": "Patch Product Order By Id",
+            "description": {},
+            "url": {
+              "path": [
+                "productOrder",
+                ":order.Id"
+              ],
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "query": [],
+              "variable": [
+                {
+                  "disabled": false,
+                  "type": "any",
+                  "value": "{{order.Id}}",
+                  "key": "order.Id",
+                  "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                }
+              ]
+            },
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              },
+              {
+                "key": "Accept",
+                "value": "application/json"
+              }
+            ],
+            "method": "PATCH",
+            "auth": null,
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"order\": {\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"associatedDocumentDate\": \"{{associatedDocumentDate}}\",\n        \"type\": \"{{type}}\",\n        \"infraType\": \"{{infraType}}\",\n        \"addresses\": {\n            \"addresses\": {\n                \"address\": {\n                    \"id\": \"{{id}}\",\n                    \"inventoryId\": \"{{inventoryId}}\",\n                    \"complement\": {\n                        \"complement\": {\n                            \"complements\": [\n                                \"{{complements}}\"\n                            ]\n                        }\n                    },\n                    \"reference\": \"{{reference}}\"\n                }\n            }\n        },\n        \"appointment\": {\n            \"appointment\": {\n                \"hasSlot\": \"{{hasSlot}}\",\n                \"mandatoryType\": \"{{mandatoryType}}\",\n                \"date\": \"{{date}}\",\n                \"workOrderId\": \"{{workOrderId}}\"\n            }\n        },\n        \"customer\": {\n            \"customer\": {\n                \"name\": \"{{name}}\",\n                \"subscriberId\": \"{{subscriberId}}\",\n                \"phoneNumber\": {\n                    \"phoneNumbers\": [\n                        \"{{phoneNumbers}}\"\n                    ]\n                },\n                \"businessUnity\": \"{{businessUnity}}\",\n                \"fantasyName\": \"{{fantasyName}}\",\n                \"subscriberIdOld\": \"{{subscriberIdOld}}\",\n                \"workContact\": {\n                    \"email\": \"{{email}}\",\n                    \"name\": \"{{workContact.name}}\",\n                    \"phone\": \"{{phone}}\"\n                }\n            }\n        },\n        \"equipments\": {\n            \"equipments\": {\n                \"equipment\": [\n                    \"{{equipment}}\"\n                ]\n            }\n        },\n        \"issue\": {\n            \"issue\": {\n                \"action\": \"{{action}}\",\n                \"code\": {\n                    \"code\": \"{{code.code}}\"\n                },\n                \"description\": {\n                    \"description\": \"{{description.description}}\"\n                },\n                \"fieldActivity\": \"{{fieldActivity}}\",\n                \"observation\": \"{{observation}}\",\n                \"reason\": \"{{reason}}\",\n                \"task\": \"{{task}}\",\n                \"type\": \"{{issue.issue.type}}\",\n                \"updateDate\": \"{{updateDate}}\"\n            }\n        },\n        \"orderItem\": [\n            \"{{orderItem}}\"\n        ],\n        \"products\": {\n            \"products\": {\n                \"product\": [\n                    \"{{product}}\"\n                ]\n            }\n        },\n        \"task\": {\n            \"action\": \"{{order.task.action}}\",\n            \"code\": {\n                \"code\": \"{{order.task.code.code}}\"\n            },\n            \"description\": \"{{order.task.description}}\",\n            \"updateDate\": \"{{order.task.updateDate}}\"\n        }\n    }\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "response": [
+            {
+              "id": "ef1e248b-2339-4c42-a478-06a7a935eba7",
+              "name": "Success",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder",
+                    ":order.Id"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": [
+                    {
+                      "disabled": false,
+                      "type": "any",
+                      "value": "{{order.Id}}",
+                      "key": "order.Id",
+                      "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                    }
+                  ]
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "PATCH",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"appointment\": {\n            \"date\": \"{{date}}\",\n            \"hasSlot\": \"{{hasSlot}}\",\n            \"mandatoryType\": \"{{mandatoryType}}\",\n            \"workOrderId\": \"{{workOrderId}}\"\n        },\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"issue\": {\n            \"action\": \"{{action}}\",\n            \"code\": \"{{code}}\",\n            \"observation\": \"{{observation}}\",\n            \"updateDate\": \"{{updateDate}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "OK",
+              "code": 200,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"200\",\n    \"message\": \"OK\",\n    \"type\": \"S\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "1f3f6127-2381-4760-a81c-b552ed35d9ad",
+              "name": "Bad Request",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder",
+                    ":order.Id"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": [
+                    {
+                      "disabled": false,
+                      "type": "any",
+                      "value": "{{order.Id}}",
+                      "key": "order.Id",
+                      "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                    }
+                  ]
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "PATCH",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"appointment\": {\n            \"date\": \"{{date}}\",\n            \"hasSlot\": \"{{hasSlot}}\",\n            \"mandatoryType\": \"{{mandatoryType}}\",\n            \"workOrderId\": \"{{workOrderId}}\"\n        },\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"issue\": {\n            \"action\": \"{{action}}\",\n            \"code\": \"{{code}}\",\n            \"observation\": \"{{observation}}\",\n            \"updateDate\": \"{{updateDate}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Bad Request",
+              "code": 400,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"400\",\n    \"message\": \"Bad Request\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "21ba3ebc-1d73-40e4-89a6-fb1d59aa9b36",
+              "name": "Unauthorized",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder",
+                    ":order.Id"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": [
+                    {
+                      "disabled": false,
+                      "type": "any",
+                      "value": "{{order.Id}}",
+                      "key": "order.Id",
+                      "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                    }
+                  ]
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "PATCH",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"appointment\": {\n            \"date\": \"{{date}}\",\n            \"hasSlot\": \"{{hasSlot}}\",\n            \"mandatoryType\": \"{{mandatoryType}}\",\n            \"workOrderId\": \"{{workOrderId}}\"\n        },\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"issue\": {\n            \"action\": \"{{action}}\",\n            \"code\": \"{{code}}\",\n            \"observation\": \"{{observation}}\",\n            \"updateDate\": \"{{updateDate}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Unauthorized",
+              "code": 401,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"401\",\n    \"message\": \"Unauthorized\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "7f937c94-379a-4959-9b08-b11794e37d13",
+              "name": "Forbidden - Scope Not Permitted",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder",
+                    ":order.Id"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": [
+                    {
+                      "disabled": false,
+                      "type": "any",
+                      "value": "{{order.Id}}",
+                      "key": "order.Id",
+                      "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                    }
+                  ]
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "PATCH",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"appointment\": {\n            \"date\": \"{{date}}\",\n            \"hasSlot\": \"{{hasSlot}}\",\n            \"mandatoryType\": \"{{mandatoryType}}\",\n            \"workOrderId\": \"{{workOrderId}}\"\n        },\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"issue\": {\n            \"action\": \"{{action}}\",\n            \"code\": \"{{code}}\",\n            \"observation\": \"{{observation}}\",\n            \"updateDate\": \"{{updateDate}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Forbidden",
+              "code": 403,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"403\",\n    \"message\": \"Forbidden - Scope Not Permitted\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "a98c7371-b3b9-4332-a954-721a3de46040",
+              "name": "Not Found",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder",
+                    ":order.Id"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": [
+                    {
+                      "disabled": false,
+                      "type": "any",
+                      "value": "{{order.Id}}",
+                      "key": "order.Id",
+                      "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                    }
+                  ]
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "PATCH",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"appointment\": {\n            \"date\": \"{{date}}\",\n            \"hasSlot\": \"{{hasSlot}}\",\n            \"mandatoryType\": \"{{mandatoryType}}\",\n            \"workOrderId\": \"{{workOrderId}}\"\n        },\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"issue\": {\n            \"action\": \"{{action}}\",\n            \"code\": \"{{code}}\",\n            \"observation\": \"{{observation}}\",\n            \"updateDate\": \"{{updateDate}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Not Found",
+              "code": 404,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"404\",\n    \"message\": \"Not Found\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "7b1e64a3-9a0b-458c-bbdc-23292aba9c0b",
+              "name": "Not Found",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder",
+                    ":order.Id"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": [
+                    {
+                      "disabled": false,
+                      "type": "any",
+                      "value": "{{order.Id}}",
+                      "key": "order.Id",
+                      "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                    }
+                  ]
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "PATCH",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"appointment\": {\n            \"date\": \"{{date}}\",\n            \"hasSlot\": \"{{hasSlot}}\",\n            \"mandatoryType\": \"{{mandatoryType}}\",\n            \"workOrderId\": \"{{workOrderId}}\"\n        },\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"issue\": {\n            \"action\": \"{{action}}\",\n            \"code\": \"{{code}}\",\n            \"observation\": \"{{observation}}\",\n            \"updateDate\": \"{{updateDate}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Not Acceptable",
+              "code": 406,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"406\",\n    \"message\": \"Not Acceptable (AssociatedDocument jÃ¡ existente/utilizado)\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "7953af7c-eede-424b-90b6-d0382a7b0be8",
+              "name": "Too Many Requests - Exceeded Quota",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder",
+                    ":order.Id"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": [
+                    {
+                      "disabled": false,
+                      "type": "any",
+                      "value": "{{order.Id}}",
+                      "key": "order.Id",
+                      "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                    }
+                  ]
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "PATCH",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"appointment\": {\n            \"date\": \"{{date}}\",\n            \"hasSlot\": \"{{hasSlot}}\",\n            \"mandatoryType\": \"{{mandatoryType}}\",\n            \"workOrderId\": \"{{workOrderId}}\"\n        },\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"issue\": {\n            \"action\": \"{{action}}\",\n            \"code\": \"{{code}}\",\n            \"observation\": \"{{observation}}\",\n            \"updateDate\": \"{{updateDate}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Too Many Requests",
+              "code": 429,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"429\",\n    \"message\": \"Too Many Requests - Exceeded Quota\",\n    \"type\": \"E\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "cfb9d00d-23bc-4c66-8b2a-4a6b872e276e",
+              "name": "Internal Server Error",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder",
+                    ":order.Id"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": [
+                    {
+                      "disabled": false,
+                      "type": "any",
+                      "value": "{{order.Id}}",
+                      "key": "order.Id",
+                      "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                    }
+                  ]
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "PATCH",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"appointment\": {\n            \"date\": \"{{date}}\",\n            \"hasSlot\": \"{{hasSlot}}\",\n            \"mandatoryType\": \"{{mandatoryType}}\",\n            \"workOrderId\": \"{{workOrderId}}\"\n        },\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"issue\": {\n            \"action\": \"{{action}}\",\n            \"code\": \"{{code}}\",\n            \"observation\": \"{{observation}}\",\n            \"updateDate\": \"{{updateDate}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Internal Server Error",
+              "code": 500,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"500\",\n    \"message\": \"Internal Server Error\",\n    \"type\": \"T\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "29ea498b-3e28-4101-b671-9cf1feba2e57",
+              "name": "Service Unavailable",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder",
+                    ":order.Id"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": [
+                    {
+                      "disabled": false,
+                      "type": "any",
+                      "value": "{{order.Id}}",
+                      "key": "order.Id",
+                      "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                    }
+                  ]
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "PATCH",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"appointment\": {\n            \"date\": \"{{date}}\",\n            \"hasSlot\": \"{{hasSlot}}\",\n            \"mandatoryType\": \"{{mandatoryType}}\",\n            \"workOrderId\": \"{{workOrderId}}\"\n        },\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"issue\": {\n            \"action\": \"{{action}}\",\n            \"code\": \"{{code}}\",\n            \"observation\": \"{{observation}}\",\n            \"updateDate\": \"{{updateDate}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Service Unavailable",
+              "code": 503,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"503\",\n    \"message\": \"Service Unavailable\",\n    \"type\": \"T\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            },
+            {
+              "id": "4fca8834-5d15-4c14-901c-cf511c8ccbf5",
+              "name": "Gateway Timeout",
+              "originalRequest": {
+                "url": {
+                  "path": [
+                    "productOrder",
+                    ":order.Id"
+                  ],
+                  "host": [
+                    "{{baseUrl}}"
+                  ],
+                  "query": [],
+                  "variable": [
+                    {
+                      "disabled": false,
+                      "type": "any",
+                      "value": "{{order.Id}}",
+                      "key": "order.Id",
+                      "description": "(Required) identificador unico da ordem do serviÃ§o a ser atualizada"
+                    }
+                  ]
+                },
+                "header": [
+                  {
+                    "key": "Accept",
+                    "value": "application/json"
+                  }
+                ],
+                "method": "PATCH",
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\n    \"order\": {\n        \"appointment\": {\n            \"date\": \"{{date}}\",\n            \"hasSlot\": \"{{hasSlot}}\",\n            \"mandatoryType\": \"{{mandatoryType}}\",\n            \"workOrderId\": \"{{workOrderId}}\"\n        },\n        \"associatedDocument\": \"{{associatedDocument}}\",\n        \"correlationOrder\": \"{{correlationOrder}}\",\n        \"issue\": {\n            \"action\": \"{{action}}\",\n            \"code\": \"{{code}}\",\n            \"observation\": \"{{observation}}\",\n            \"updateDate\": \"{{updateDate}}\"\n        }\n    }\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                }
+              },
+              "status": "Gateway Timeout",
+              "code": 504,
+              "header": [
+                {
+                  "key": "Content-Type",
+                  "value": "application/json"
+                }
+              ],
+              "body": "{\n  \"control\": {\n    \"code\": \"504\",\n    \"message\": \"Gateway Timeout\",\n    \"type\": \"T\"\n  }\n}",
+              "cookie": [],
+              "_postman_previewlanguage": "json"
+            }
+          ],
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "------------existing_test_case------------\n\ndescribe('API Load Test', () => {\n  it('should handle 1000 users over 1 minute', async () => {\n    const response = await artillery.fire({\n      config: {\n        target: 'http://api.example.com',\n        phases: [{ duration: 60, arrivalRate: 1000 }]\n      },\n      scenarios: [{\n        flow: [\n          { get: { url: '/users' } }\n        ]\n      }]\n    });\n    expect(response.stats.codes['200']).toBeGreaterThan(500);\n  });\n});\n\n------------existing_test_case------------\n\n\n------------import_details------------\n\nconst artillery = require('artillery-core');\nconst expect = require('expect');\n\n------------import_details------------\n\n\n------------source_code------------\n\n// Updated API Endpoint to handle user details with query parameters\nasync function fetchUserDetails(userId, includePosts = false) {\n  const queryParam = includePosts ? '?include=posts' : '';\n  const response = await fetch(`http://api.example.com/users/${userId}${queryParam}`);\n  return response.json();\n}\n\n------------source_code------------\n\n"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          }
+        }
+      ],
+      "event": []
+    }
+  ],
+  "event": [],
+  "variable": [
+    {
+      "type": "string",
+      "value": "/",
+      "key": "baseUrl"
+    },
+    {
+      "type": "integer",
+      "value": 200,
+      "key": "statusCode"
+    }
+  ],
+  "info": {
+    "_postman_id": "58cdfe58-6736-42f2-8a98-dba522dd3023",
+    "name": "ProductOrdering",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "description": {
+      "content": "",
+      "type": "text/plain"
+    }
+  }
+}
