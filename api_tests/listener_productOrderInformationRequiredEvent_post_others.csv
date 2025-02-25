@@ -1,0 +1,11 @@
+id^|^code^|^description^|^fieldActivity^|^observation^|^reason^|^task^|^type^|^updateDate^|^statusCode^|^scenario
+1^|^7029^|^Pendencia de agendamento^|^true^|^No observation^|^PROJETO^|^Task1^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^0^|^Scenario1
+2^|^7030^|^Pendencia de agendamento^|^false^|^No observation^|^MANUTENÇÃO^|^Task2^|^TECNICA^|^2022-02-25T11:50:50.566-03:00^|^1^|^Scenario2
+3^|^7001^|^Pendência Cancelamento por Duplicidade^|^True^|^No observation^|^CANCEL^|^Task3^|^CLIENTE^|^2023-01-01T00:00:00-03:00^|^2^|^Scenario3
+4^|^7008^|^Pendência Cancelamento por Inviabilidade Técnica^|^False^|^No observation^|^TECHNICAL^|^Task4^|^TECNICA^|^2023-02-01T12:00:00-03:00^|^3^|^Scenario4
+5^|^7014^|^Pendência Rede Interna Cliente^|^True^|^No observation^|^INTERNAL^|^Task5^|^CLIENTE^|^2023-03-10T15:30:00-03:00^|^4^|^Scenario5
+6^|^7017^|^Pendência Cliente Solicita nova data de Agendamento^|^False^|^No observation^|^RESCHEDULE^|^Task6^|^TECNICA^|^2023-04-20T18:45:00-03:00^|^-1^|^Scenario6
+7^|^7035^|^Pendência área de Risco Momentânea^|^True^|^No observation^|^RISK^|^Task7^|^CLIENTE^|^2023-05-15T08:25:00-03:00^|^apple^|^Scenario7
+8^|^7042^|^Pendência Local Fechado^|^False^|^No observation^|^LOCKED^|^Task8^|^TECNICA^|^2023-06-30T22:00:00-03:00^|^banana^|^Scenario8
+9^|^7049^|^Pendência Endereço Não Localizado^|^True^|^No observation^|^ADDRESS^|^Task9^|^CLIENTE^|^2023-07-22T09:00:00-03:00^|^orange^|^Scenario9
+10^|^7054^|^Pendência de Aprovisionamento 5 dias^|^False^|^No observation^|^SUPPLY^|^Task10^|^TECNICA^|^2023-08-18T10:00:00-03:00^|^grape^|^Scenario10
