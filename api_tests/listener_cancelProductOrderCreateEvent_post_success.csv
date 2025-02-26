@@ -1,0 +1,11 @@
+associatedDocument^|^id^|^subscriberId^|^date^|^code^|^correlationOrder^|^description^|^statusCode^|^scenario
+DOC001^|^20230001^|^SUB123456789^|^2023-12-01T12:00:00^|^1^|^CORR001^|^Enviando Atualização de Ordem^|^200^|^Update
+DOC002^|^20230002^|^SUB123456790^|^2023-12-02T12:15:00^|^2^|^CORR002^|^Ordem cancelada^|^404^|^Cancel
+DOC003^|^20230003^|^SUB123456791^|^2023-12-03T12:30:00^|^3^|^CORR003^|^Início do Processo de Obra^|^202^|^Start
+DOC004^|^20230004^|^SUB123456792^|^2023-12-04T12:45:00^|^4^|^CORR004^|^Término do Processo de Obra^|^200^|^Complete
+DOC005^|^20230005^|^SUB123456793^|^2023-12-05T13:00:00^|^0^|^CORR005^|^Ordem encerrada com sucesso^|^200^|^Success
+DOC006^|^20230006^|^SUB123456794^|^2023-12-06T13:15:00^|^1^|^CORR006^|^Enviando Atualização de Ordem^|^200^|^Update
+DOC007^|^20230007^|^SUB123456795^|^2023-12-07T13:30:00^|^2^|^CORR007^|^Ordem cancelada^|^404^|^Cancel
+DOC008^|^20230008^|^SUB123456796^|^2023-12-08T13:45:00^|^3^|^CORR008^|^Início do Processo de Obra^|^202^|^Start
+DOC009^|^20230009^|^SUB123456797^|^2023-12-09T14:00:00^|^4^|^CORR009^|^Término do Processo de Obra^|^200^|^Complete
+DOC010^|^20230010^|^SUB123456798^|^2023-12-10T14:15:00^|^0^|^CORR010^|^Ordem encerrada com sucesso^|^200^|^Success
