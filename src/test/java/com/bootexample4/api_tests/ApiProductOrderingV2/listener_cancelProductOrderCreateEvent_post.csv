@@ -1,0 +1,2 @@
+body
+"{""notification"":{""order"":{""code"":""1"",""description"":""Enviando Atualização de Ordem"",""correlationOrder"":""CORR001""},""date"":""2023-03-15T08:30:00Z"",""customer"":{""subscriberId"":""1234567890""},""issue"":{""action"":""abrir"",""code"":""7001"",""description"":""Pendência Cancelamento por Duplicidade""}}}"
