@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customer^|^equipments^|^infraType^|^type^|^statusCode^|^scenario
+VTT001^|^2020-10-22T14:00:00-03:00^|^2310^|^V.tal^|^ONT^|^FTTP^|^AssociarCPE^|^200^|^Installation
+VTT002^|^2020-12-15T10:30:00-03:00^|^2311^|^InterCorp Internet^|^ONT^|^FTTH^|^Instalacao^|^400^|^Installation
+VTT003^|^2021-01-12T09:45:00-03:00^|^2312^|^Sandbox V.tal^|^ONT^|^FTTP^|^Bloqueio^|^404^|^Blocking
+INVALID_DOC^|^INVALID_DATE^|^2313^|^Invalid Customer^|^ONT^|^FTTH^|^Desbloqueio^|^500^|^Unblocking
+VTT005^|^2021-03-22T08:00:00-03:00^|^2314^|^V.tal^|^ONT^|^FTTP^|^Modificacao de Velocidade^|^200^|^SpeedChange
+VTT006^|^2021-04-30T11:00:00-03:00^|^2315^|^InterHome Internet^|^ONT^|^FTTH^|^AssociarCPE^|^200^|^Installation
+VTT007^|^2021-05-25T14:20:00-03:00^|^2316^|^Sandbox V.tal^|^ONT^|^FTTP^|^Retirada^|^200^|^Removal
+DOC008^|^2021-06-15T16:30:00-03:00^|^2317^|^InterCorp Internet^|^ONT^|^FTTH^|^RemanejamentoPonto^|^200^|^Relocation
+VTT009^|^2021-07-20T13:00:00-03:00^|^2318^|^V.tal^|^ONT^|^FTTP^|^Bloqueio^|^200^|^Blocking
+VTT010^|^2021-08-10T17:00:00-03:00^|^2319^|^InterHome Internet^|^ONT^|^FTTH^|^Desbloqueio^|^200^|^Unblocking
