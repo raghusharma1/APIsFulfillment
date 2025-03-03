@@ -1,0 +1,11 @@
+associatedDocument^|^associatedDocumentDate^|^correlationOrder^|^customerName^|^phoneNumber^|^infraType^|^type^|^statusCode^|^scenario
+DOC001^|^2023-12-01T10:00:00-05:00^|^1001^|^Alice Johnson^|^1234567890^|^FTTP^|^Instalacao^|^200^|^Normal
+DOC002^|^2023-11-25T15:30:00-05:00^|^1002^|^Bob Smith^|^0987654321^|^FTTH^|^Retirada^|^404^|^Urgent
+DOC003^|^2023-10-15T09:00:00-05:00^|^1003^|^Charlie Brown^|^1234509876^|^FTTH^|^Bloqueio^|^500^|^Maintenance
+DOC004^|^2023-09-20T14:20:00-05:00^|^1004^|^Dana Scully^|^abcdefg^|^FTTP^|^Desbloqueio^|^300^|^Error
+DOC005^|^2023-08-30T08:00:00-05:00^|^1005^|^Evan Wright^|^3141592653^|^FTTH^|^AssociarCPE^|^202^|^Update
+DOC006^|^2023-07-22T17:45:00-05:00^|^1006^|^Fiona Glenanne^|^555-2368^|^FTTP^|^Modificacao de Velocidade^|^203^|^Scheduled
+DOC007^|^2023-06-10T12:30:00-05:00^|^1007^|^George Bluth^|^banana^|^FTTH^|^RemanejamentoPonto^|^404^|^Cancelled
+DOC008^|^2023-05-05T11:00:00-05:00^|^1008^|^Hannah Abbott^|^1231231234^|^FTTP^|^Instalacao^|^200^|^Normal
+DOC009^|^2023-04-03T16:00:00-05:00^|^1009^|^Ivan Rakitic^|^3213214321^|^FTTH^|^Retirada^|^500^|^Error
+DOC010^|^2023-03-01T13:20:00-05:00^|^1010^|^Julia Montes^|^6546549874^|^FTTP^|^Bloqueio^|^204^|^Pending
