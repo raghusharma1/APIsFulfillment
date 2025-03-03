@@ -1,0 +1,4 @@
+Description,RequestBody,ExpectedResponse
+"Associate CPE Order Type FTTP","{""order"":{""associatedDocument"":""VTT001"",""associatedDocumentDate"":""2020-10-22T14:00:00-03:00"",""type"":""CPE"",""details"":""Detailed information""}}","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""12345""}}"
+"Installation Order Type FTTH","{ "order": { "addresses": { "address": { "complement": { "complements": [{ "type": "ES", "value": "Extra Service" }] } } } }","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""67890""}}"
+"Installation Order Type FTTH with partial viability","{ "order": { "addresses": { "address": { "complement": { "complements": [{ "type": "ES", "value": "Partial Service" }] } } } }","{""control"":{""code"":""201"",""message"":""Created"",""type"":""S""},""order"":{""id"":""54321""}}"
