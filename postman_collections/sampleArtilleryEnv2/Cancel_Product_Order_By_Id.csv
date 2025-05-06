@@ -1,0 +1,12 @@
+order.Id,associatedDocument,subscriberId,statusCode,scenario
+12345,Document1,SUB001,200,Success
+23456,Document2,SUB002,400,Bad Request
+34567,Document3,SUB003,401,Unauthorized
+45678,Document4,SUB004,403,Forbidden - Scope Not Permitted
+56789,Document5,SUB005,404,Not Found
+67890,Document6,SUB006,406,Not Acceptable (AssociatedDocument jÁ existente/utilizado)
+78901,Document7,SUB007,423,Agendamento nÃ£o pode ser alterado
+89012,Document8,SUB008,429,Too Many Requests - Exceeded Quota
+90123,Document9,SUB009,500,Internal Server Error
+01234,Document10,SUB010,503,Service Unavailable
+12340,Document11,SUB011,504,Gateway Timeout
