@@ -1,0 +1,7 @@
+subscriberId,date,associatedDocument,code,correlationOrder,description,id,action,issue.issue.code.code,issue.issue.description.description,fieldActivity,observation,reason,task,type,updateDate,lostEquipment,device,item,gponAccess,order.type,statusCode,scenario
+A123,2022-03-05,Doc1,C1,22,'TEST',ID-1,'CREATE','ERR001','Error Detected','Field Work','Observation Notes','Testing Reasons','Task 1','sample',2022-03-05,'No','Device 1','Item 1','Yes','Order 1',204,'Success'
+B456,2022-03-06,Doc2,D3,74,'DEBUG',ID-2,'UPDATE','ERR002','Invalid Request','Field Work','Observation Notes','Testing Reasons','Task 2','example',2022-03-06,'Yes','Device 2','Item 2','No','Order 2',400,'BadRequest'
+C789,2022-03-07,Doc3,E5,39,'FAIL',ID-3,'DELETE','ERR003','Unauthorized Access','Field Work','Observation Notes','Testing Reasons','Task 3','model',2022-03-07,'No','Device 3','Item 3','Yes','Order 3',401,'Unauthorized'
+D101,2022-03-08,Doc4,F2,21,'PASS',ID-4,'INSERT','ERR004','Server Error','Field Work','Observation Notes','Testing Reasons','Task 4','mock',2022-03-08,'Yes','Device 4','Item 4','No','Order 4',500,'ServerError'
+E102,2022-03-09,Doc5,G6,10,'PENDING',ID-5,'RETRIEVE','ERR005','Service Unavailable','Field Work','Observation Notes','Testing Reasons','Task 5','dummy',2022-03-09,'No','Device 5','Item 5','Yes','Order 5',503,'Unavailable'
+F103,2022-03-10,Doc6,H7,15,'SUCCESS',ID-6,'MODIFY','ERR006','Timeout Error','Field Work','Observation Notes','Testing Reasons','Task 6','test',2022-03-10,'Yes','Device 6','Item 6','No','Order 6',504,'Timeout'
