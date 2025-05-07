@@ -1,0 +1,53 @@
+order.appointment.date^|^order.appointment.hasSlot^|^order.appointment.mandatoryType^|^order.appointment.workOrderId^|^order.associatedDocument^|^order.correlationOrder^|^order.issue.action^|^order.issue.code^|^order.issue.observation^|^order.issue.updateDate
+2021-06-01T09:13:00^|^True^|^Permitido^|^WK0001^|^DOC001^|^10^|^close^|^7016^|^Reagendamento for lack^|^2021-12-01T16:12:00
+2021-06-02T10:30:00^|^False^|^Obrigatorio^|^WK0002^|^DOC002^|^11^|^open^|^7029^|^ResoluÃ§Ã£o de pendÃªncia de agendamento^|^2021-12-02T15:24:00
+2021-06-03T11:45:00^|^True^|^Permitigated catastrophe for fantasy science fiction",
+            "date": "2021-10-18T10:05:00Z",
+            "genre": "fiction",
+up my life for you",
+            "date": "2021-07-21T18:18:00Z",
+            "genre": "romance",
+            "format": "Ebook",
+        },
+        {
+            "title": "End of world",
+            "date": "2022-01-06T11:12:00Z",
+            "genre": "science-fiction",
+            "format": "Audiobook",
+        },
+        {
+            "title": "The successful entrepreneur",
+            "date": "2021-11-12T16:07:00Z",
+            "genre": "Non-fiction",
+            "format": "Paperback",
+        },
+        {
+            "title": "Mystery of the blue moon",
+            "date": "2020-12-12T14:11:00Z",
+            "genre": "Mystery",
+            "format": "Hardcover",
+        },
+        {
+            "title": "Adventures in the wild",
+            "date": "2019-06-01T10:13:00Z",
+            "genre": "Adventure",
+            "format": "Paperback",
+        },
+        {
+            "title": "The last warrior",
+            "date": "2018-09-20T17:27:00Z",
+            "genre": "Fantasy",
+            "format": "Ebook",
+        },
+        {
+            "title": "Romance of the three kingdoms",
+            "date": "2019-08-31T15:42:00Z",
+            "genre": "Historical",
+            "format": "Hardcover",
+        },
+        {
+            "title": "The modern chef",
+            "date": "2020-01-14T10:16:00Z",
+            "genre": "Non-fiction",
+            "format": "Paperback",
+        }
