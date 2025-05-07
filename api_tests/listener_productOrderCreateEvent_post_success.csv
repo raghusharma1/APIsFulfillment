@@ -1,0 +1,11 @@
+customer^|^order^|^statusCode^|^scenario
+SUB1234^|^VTT001_564^|^2^|^Scenario1
+SUB5678^|^VTT002_784^|^4^|^Scenario2
+SUB9123^|^VTT003_026^|^1^|^Scenario3
+SUB4567^|^VTT004_938^|^0^|^Scenario4
+SUB8910^|^VTT005_107^|^3^|^Scenario5
+SUB1112^|^VTT006_529^|^2^|^Scenario6
+SUB1314^|^VTT007_930^|^1^|^Scenario7
+SUB1516^|^VTT008_531^|^4^|^Scenario8
+SUB1718^|^VTT009_092^|^3^|^Scenario9
+SUB1920^|^VTT010_253^|^0^|^Scenario10
