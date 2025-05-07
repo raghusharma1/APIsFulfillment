@@ -1,0 +1,11 @@
+subscriberId^|^associatedDocument^|^date^|^orderCode^|^orderId^|^issueCode^|^issueDescription^|^statusCode^|^scenario
+12345X^|^VTT999^|^2021-05-10T15:30:00Z^|^1^|^ORD-001^|^7001^|^Pendência Cancelamento por Duplicidade^|^OPEN^|^Scenario1
+67890Y^|^VTT888^|^NULL^|^2^|^ORD-002^|^7009^|^Pendência Cancelamento e Reemissão^|^CLOSED^|^'Scenario2'
+11122Z^|^VTT777^|^2021-06-11T16:40:00Z^|^3^|^ORD-003^|^7015^|^Pendência Cancelamento por Desistência do Serviço^|^PENDING^|^Scenario3
+33344A^|^NULL^|^2021-01-01T00:00:00Z^|^4^|^NULL^|^7021^|^Pendência Cliente Interrompe e Solicita nova data de Agendamento^|^CLOSED^|^Scenario4
+55566B^|^VTT666^|^2021-07-12T17:50:00Z^|^0^|^ORD-005^|^7035^|^Pendência área de Risco Momentânea^|^OPEN^|^'Scenario5'
+77788C^|^VTT555^|^2022-02-02T02:22:00Z^|^-1^|^ORD-006^|^NULL^|^NULL^|^PENDING^|^Scenario6
+99900D^|^NULL^|^NULL^|^1^|^ORD-007^|^7083^|^Pendência Cliente NÃO Solicitou Instalação^|^OPEN^|^'Scenario7'
+22233E^|^VTT444^|^2023-03-03T03:33:00Z^|^2^|^ORD-008^|^7071^|^Pend'éncia Área de Risco Indeterminada 15 dias^|^CLOSED^|^Scenario8
+44455F^|^VTT333^|^2024-04-04T04:44:00Z^|^4^|^NULL^|^7099^|^Pendência Endereço correto Inviável^|^PENDING^|^'Scenario9'
+66677G^|^NULL^|^2025-05-05T05:55:00Z^|^3^|^ORD-010^|^7106^|^Pendência de Rede 3 dias^|^OPEN^|^Scenario10
