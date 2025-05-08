@@ -1,0 +1,3 @@
+order.Id,appointment.date,appointment.hasSlot,appointment.mandatoryType,appointment.workOrderId,associatedDocument,correlationOrder,issue.action,issue.code,issue.observation,issue.updateDate
+"----------","------------------","---------------------","---------------------------","-------------------------","--------------------","------------------","--------------","------------","------------------","-----------------"
+"12345","2021-12-01","true","Permitido","1234","TestDoc","1111","fechar","7010","Test issue obs","2021-12-02"
