@@ -1,0 +1,12 @@
+order.Id,associatedDocument,subscriberId,statusCode,scenario
+SVT312,VTT001,SVTAL001,200,Success
+SVT423,DOC02,SUB402,400,Bad Request
+SVT816,AD45,SUB816,401,Unauthorized
+SVT281,DOC87,SUB91,403,Forbidden - Scope Not Permitted
+SVT402,DOC100,SUB48,404,Not Found
+SVT487,DOC46,SUB127,406,Not Acceptable (AssociatedDocument já existente/utilizado)
+SVT984,VTT901,SUB984,423,Agendamento não pode ser alterado
+SVT45,DOC72,SUB45,429,Too Many Requests - Exceeded Quota
+SVT635,DOC36,SUB568,500,Internal Server Error
+SVT721,VTT302,SUB721,503,Service Unavailable
+SVT999,DOC01,SUB999,504,Gateway Timeout
