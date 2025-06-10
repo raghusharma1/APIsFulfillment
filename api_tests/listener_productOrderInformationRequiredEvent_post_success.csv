@@ -1,0 +1,11 @@
+order.associatedDocument^|^order.correlationOrder^|^order.id^|^order.issue.action^|^order.issue.code^|^order.issue.description^|^order.issue.fieldActivity^|^order.issue.observation^|^order.issue.reason^|^order.issue.task^|^order.issue.type^|^order.issue.updateDate^|^statusCode^|^scenario
+VTT001^|^10^|^20230315000001^|^abrir^|^7029^|^Pendencia de agendamento^|^true^|^observation1^|^PROJETO^|^task1^|^CLIENTE^|^2021-02-17T17:19:50-03:00^|^200^|^scenario1
+VTT002^|^20^|^20230315000002^|^fechar^|^7030^|^Pendencia de agendamento^|^false^|^observation2^|^MANUNTENÇÃO^|^task2^|^TECNICA^|^2022-02-25T11:50:50.566-03:00^|^201^|^scenario2
+VTT003^|^30^|^20230315000003^|^redirecionar^|^7031^|^Pendencia de agendamento^|^true^|^observation3^|^PROJETO^|^task3^|^CLIENTE^|^2022-02-20T13:29:50-03:00^|^202^|^scenario3
+VTT004^|^40^|^20230315000004^|^abrir^|^7032^|^Pendencia de agendamento^|^false^|^observation4^|^PROJETO^|^task4^|^TECNICA^|^2022-01-15T14:59:50-03:00^|^203^|^scenario4
+VTT005^|^50^|^20230315000005^|^fechar^|^7028^|^Pendencia de agendamento^|^true^|^observation5^|^MANUNTENÇÃO^|^task5^|^CLIENTE^|^2021-10-17T09:19:50-03:00^|^204^|^scenario5
+VTT006^|^60^|^20230315000006^|^redirecionar^|^7027^|^Pendencia de agendamento^|^false^|^observation6^|^PROJETO^|^task6^|^TECNICA^|^2021-11-25T21:39:50-03:00^|^205^|^scenario6
+VTT007^|^70^|^20230315000007^|^abrir^|^7026^|^Pendencia de agendamento^|^true^|^observation7^|^MANUNTENÇÃO^|^task7^|^CLIENTE^|^2022-03-12T16:19:50-03:00^|^206^|^scenario7
+VTT008^|^80^|^20230315000008^|^fechar^|^7025^|^Pendencia de agendamento^|^false^|^observation8^|^PROJETO^|^task8^|^TECNICA^|^2022-01-01T17:01:50-03:00^|^207^|^scenario8
+VTT009^|^90^|^20230315000009^|^redirecionar^|^7024^|^Pendencia de agendamento^|^true^|^observation9^|^MANUNTENÇÃO^|^task9^|^CLIENTE^|^2021-12-12T15:39:50-03:00^|^208^|^scenario9
+VTT010^|^100^|^20230315000010^|^abrir^|^7023^|^Pendencia de agendamento^|^false^|^observation10^|^PROJETO^|^task10^|^TECNICA^|^2021-03-17T11:19:50-03:00^|^209^|^scenario10
