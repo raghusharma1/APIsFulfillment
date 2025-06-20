@@ -1,0 +1,386 @@
+[
+  {
+    "order": {
+      "order": {
+        "correlationOrder": "ORD123456",
+        "associatedDocument": "DOC987654",
+        "associatedDocumentDate": "2023-10-05T10:25:00Z",
+        "type": "Service",
+        "infraType": "Fiber",
+        "customer": {
+          "customer": {
+            "name": "Jane Doe",
+            "subscriberId": "SUB987654",
+            "phoneNumber": {
+              "phoneNumbers_0": "+1234567890",
+              "phoneNumbers_1": "+0987654321"
+            },
+            "businessUnity": "North Region",
+            "fantasyName": "Fantasy Inc.",
+            "subscriberIdOld": "SUB543210",
+            "workContact": {
+              "email": "jane.doe@example.com",
+              "name": "Jane Doe",
+              "phone": "+1122334455"
+            }
+          }
+        },
+        "appointment": {
+          "appointment": {
+            "hasSlot": true,
+            "mandatoryType": "Required",
+            "date": "2023-10-10T12:00:00Z",
+            "workOrderId": "WO123456"
+          }
+        },
+        "addresses": {
+          "addresses": {
+            "address": {
+              "id": 123,
+              "inventoryId": "INV123456",
+              "reference": "Near Main Street"
+            }
+          }
+        },
+        "addressChange": {
+          "flag": true
+        },
+        "equipments": {
+          "equipments": {
+            "equipment_0": {
+              "action": "Install",
+              "code": 101,
+              "serialNumber": "SN123456",
+              "type": "Router"
+            },
+            "equipment_1": {
+              "action": "Replace",
+              "code": 102,
+              "serialNumber": "SN654321",
+              "type": "Modem"
+            }
+          }
+        },
+        "issue": {
+          "issue": {
+            "action": "Report",
+            "code": {
+              "code": "ISSUE001"
+            },
+            "description": {
+              "description": "Intermittent connectivity issues"
+            },
+            "fieldActivity": "Investigation",
+            "observation": "Observed fluctuating signal",
+            "reason": "Hardware fault",
+            "task": "Diagnostics",
+            "type": "Connectivity",
+            "updateDate": "2023-10-05T08:00:00Z"
+          }
+        },
+        "orderItem_0": {
+          "resource": {
+            "resourceSpecification_0": {
+              "name": "Bandwidth",
+              "value": "100Mbps"
+            },
+            "resourceSpecification_1": {
+              "name": "Latency",
+              "value": "5ms"
+            }
+          }
+        },
+        "orderItem_1": {
+          "resource": {
+            "resourceSpecification_0": {
+              "name": "Installation Time",
+              "value": "2 Hours"
+            },
+            "resourceSpecification_1": {
+              "name": "Warranty",
+              "value": "2 Years"
+            }
+          }
+        },
+        "products": {
+          "products": {
+            "product_0": {
+              "catalogId": "CAT123",
+              "action": "Activate"
+            },
+            "product_1": {
+              "catalogId": "CAT456",
+              "action": "Deactivate"
+            }
+          }
+        },
+        "task": {
+          "action": "Schedule",
+          "code": {
+            "code": "TASK123"
+          },
+          "description": "Schedule service appointment",
+          "updateDate": "2023-10-05T09:00:00Z"
+        }
+      }
+    },
+    "statusCode": 201,
+    "scenario": "Created"
+  },
+  {
+    "order": {
+      "order": {
+        "correlationOrder": "",
+        "associatedDocument": "InvalidDocumentID",
+        "associatedDocumentDate": "InvalidDateTime",
+        "type": "",
+        "infraType": "UnknownType",
+        "customer": {
+          "customer": {
+            "name": "",
+            "subscriberId": "InvalidSubscriberId",
+            "phoneNumber": {
+              "phoneNumbers_0": "1234",
+              "phoneNumbers_1": "abcd"
+            },
+            "businessUnity": "",
+            "fantasyName": "",
+            "subscriberIdOld": "InvalidOldId",
+            "workContact": {
+              "email": "invalidemail",
+              "name": "",
+              "phone": "InvalidPhone"
+            }
+          }
+        },
+        "appointment": {
+          "appointment": {
+            "hasSlot": false,
+            "mandatoryType": "",
+            "date": "InvalidDate",
+            "workOrderId": ""
+          }
+        },
+        "addresses": {
+          "addresses": {
+            "address": {
+              "id": "NotNumber",
+              "inventoryId": "",
+              "reference": ""
+            }
+          }
+        },
+        "addressChange": {
+          "flag": "InvalidBoolean"
+        },
+        "equipments": {
+          "equipments": {
+            "equipment_0": {
+              "action": "",
+              "code": "NotNumber",
+              "serialNumber": "",
+              "type": ""
+            },
+            "equipment_1": {
+              "action": "",
+              "code": "NotNumber",
+              "serialNumber": "",
+              "type": ""
+            }
+          }
+        },
+        "issue": {
+          "issue": {
+            "action": "",
+            "code": {
+              "code": ""
+            },
+            "description": {
+              "description": ""
+            },
+            "fieldActivity": "",
+            "observation": "",
+            "reason": "",
+            "task": "",
+            "type": "",
+            "updateDate": "InvalidDate"
+          }
+        },
+        "orderItem_0": {
+          "resource": {
+            "resourceSpecification_0": {
+              "name": "",
+              "value": ""
+            },
+            "resourceSpecification_1": {
+              "name": "",
+              "value": ""
+            }
+          }
+        },
+        "orderItem_1": {
+          "resource": {
+            "resourceSpecification_0": {
+              "name": "",
+              "value": ""
+            },
+            "resourceSpecification_1": {
+              "name": "",
+              "value": ""
+            }
+          }
+        },
+        "products": {
+          "products": {
+            "product_0": {
+              "catalogId": "",
+              "action": ""
+            },
+            "product_1": {
+              "catalogId": "",
+              "action": ""
+            }
+          }
+        },
+        "task": {
+          "action": "",
+          "code": {
+            "code": ""
+          },
+          "description": "",
+          "updateDate": "InvalidDate"
+        }
+      }
+    },
+    "statusCode": 400,
+    "scenario": "BadRequest"
+  },
+  {
+    "order": {
+      "order": {
+        "correlationOrder": "ORD789012",
+        "associatedDocument": "DOC654321",
+        "associatedDocumentDate": "2023-10-04T11:00:00Z",
+        "type": "Upgrade",
+        "infraType": "Copper",
+        "customer": {
+          "customer": {
+            "name": "John Smith",
+            "subscriberId": "SUB123456",
+            "phoneNumber": {
+              "phoneNumbers_0": "+1222333444",
+              "phoneNumbers_1": "+3444332211"
+            },
+            "businessUnity": "South Region",
+            "fantasyName": "Smith Solutions",
+            "subscriberIdOld": "SUB654321",
+            "workContact": {
+              "email": "john.smith@example.com",
+              "name": "John Smith",
+              "phone": "+9988776655"
+            }
+          }
+        },
+        "appointment": {
+          "appointment": {
+            "hasSlot": true,
+            "mandatoryType": "Preferred",
+            "date": "2023-10-11T14:00:00Z",
+            "workOrderId": "WO654321"
+          }
+        },
+        "addresses": {
+          "addresses": {
+            "address": {
+              "id": 456,
+              "inventoryId": "INV654321",
+              "reference": "Near High School"
+            }
+          }
+        },
+        "addressChange": {
+          "flag": true
+        },
+        "equipments": {
+          "equipments": {
+            "equipment_0": {
+              "action": "Replace",
+              "code": 201,
+              "serialNumber": "SN654987",
+              "type": "Switch"
+            },
+            "equipment_1": {
+              "action": "Remove",
+              "code": 202,
+              "serialNumber": "SN987321",
+              "type": "Router"
+            }
+          }
+        },
+        "issue": {
+          "issue": {
+            "action": "Escalate",
+            "code": {
+              "code": "ISSUE002"
+            },
+            "description": {
+              "description": "Network disruption"
+            },
+            "fieldActivity": "Repair",
+            "observation": "Major outage in core services",
+            "reason": "Server crash",
+            "task": "System Recovery",
+            "type": "Outage",
+            "updateDate": "2023-10-04T10:00:00Z"
+          }
+        },
+        "orderItem_0": {
+          "resource": {
+            "resourceSpecification_0": {
+              "name": "Uptime",
+              "value": "99.99%"
+            },
+            "resourceSpecification_1": {
+              "name": "Energy Consumption",
+              "value": "50kWh"
+            }
+          }
+        },
+        "orderItem_1": {
+          "resource": {
+            "resourceSpecification_0": {
+              "name": "Deployment Duration",
+              "value": "3 Days"
+            },
+            "resourceSpecification_1": {
+              "name": "Support Coverage",
+              "value": "24/7"
+            }
+          }
+        },
+        "products": {
+          "products": {
+            "product_0": {
+              "catalogId": "CAT789",
+              "action": "Upgrade"
+            },
+            "product_1": {
+              "catalogId": "CAT321",
+              "action": "Cancel"
+            }
+          }
+        },
+        "task": {
+          "action": "Assign",
+          "code": {
+            "code": "TASK654"
+          },
+          "description": "System recovery task",
+          "updateDate": "2023-10-04T08:00:00Z"
+        }
+      }
+    },
+    "statusCode": 503,
+    "scenario": "Service Unavailable"
+  }
+]
