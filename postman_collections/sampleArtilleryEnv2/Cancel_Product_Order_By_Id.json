@@ -1,0 +1,79 @@
+[
+  {
+    "order.Id": "ORD12345",
+    "order.associatedDocument": "DOC56789",
+    "order.customer.subscriberId": "SUB00123",
+    "statusCode": 200,
+    "scenario": "Success"
+  },
+  {
+    "order.Id": "INVALID_ORD",
+    "order.associatedDocument": "INVALID_DOC",
+    "order.customer.subscriberId": "INVALID_SUB",
+    "statusCode": 400,
+    "scenario": "Bad Request"
+  },
+  {
+    "order.Id": "ORD_UNAUTHORIZED",
+    "order.associatedDocument": "DOC_UNAUTHORIZED",
+    "order.customer.subscriberId": "SUB_UNAUTHORIZED",
+    "statusCode": 401,
+    "scenario": "Unauthorized"
+  },
+  {
+    "order.Id": "ORD_FORBIDDEN",
+    "order.associatedDocument": "DOC_FORBIDDEN",
+    "order.customer.subscriberId": "SUB_FORBIDDEN",
+    "statusCode": 403,
+    "scenario": "Forbidden - Scope Not Permitted"
+  },
+  {
+    "order.Id": "ORD_NOT_FOUND",
+    "order.associatedDocument": "DOC_NOT_FOUND",
+    "order.customer.subscriberId": "SUB_NOT_FOUND",
+    "statusCode": 404,
+    "scenario": "Not Found"
+  },
+  {
+    "order.Id": "ORD_INVALID_SYNTAX",
+    "order.associatedDocument": "DOC_INVALID_SYNTAX",
+    "order.customer.subscriberId": "SUB_INVALID_SYNTAX",
+    "statusCode": 406,
+    "scenario": "Not Found"
+  },
+  {
+    "order.Id": "ORD_LOCKED",
+    "order.associatedDocument": "DOC_LOCKED",
+    "order.customer.subscriberId": "SUB_LOCKED",
+    "statusCode": 423,
+    "scenario": "Locked"
+  },
+  {
+    "order.Id": "ORD_QUOTA_EXCEEDED",
+    "order.associatedDocument": "DOC_QUOTA_EXCEEDED",
+    "order.customer.subscriberId": "SUB_QUOTA_EXCEEDED",
+    "statusCode": 429,
+    "scenario": "Too Many Requests - Exceeded Quota"
+  },
+  {
+    "order.Id": "ORD_INTERNAL_ERROR",
+    "order.associatedDocument": "DOC_INTERNAL_ERROR",
+    "order.customer.subscriberId": "SUB_INTERNAL_ERROR",
+    "statusCode": 500,
+    "scenario": "Internal Server Error"
+  },
+  {
+    "order.Id": "ORD_SERVICE_UNAVAILABLE",
+    "order.associatedDocument": "DOC_SERVICE_UNAVAILABLE",
+    "order.customer.subscriberId": "SUB_SERVICE_UNAVAILABLE",
+    "statusCode": 503,
+    "scenario": "Service Unavailable"
+  },
+  {
+    "order.Id": "ORD_GATEWAY_TIMEOUT",
+    "order.associatedDocument": "DOC_GATEWAY_TIMEOUT",
+    "order.customer.subscriberId": "SUB_GATEWAY_TIMEOUT",
+    "statusCode": 504,
+    "scenario": "Gateway Timeout"
+  }
+]
