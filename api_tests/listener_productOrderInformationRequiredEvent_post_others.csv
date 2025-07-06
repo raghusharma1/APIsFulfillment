@@ -1,0 +1,11 @@
+correctFieldName^|^statusCode^|^scenario
+John Smith^|^200^|^Login
+Jane Doe^|^404^|^Update Profile
+Randall Pearson^|^500^|^Change Password
+Kevin Pearson^|^200^|^Logout
+Tess Pearson^|^400^|^Forgot Password
+Andy^|^200^|^Registration 
+Rebecca^|^302^|^Deletion 
+Beth^|^401^|^Login
+William^|^200^|^Update Profile
+Toby^|^204^|^Change Password

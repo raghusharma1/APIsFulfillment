@@ -1,0 +1,11 @@
+order.appointment.date^|^order.appointment.hasSlot^|^order.appointment.mandatoryType^|^order.appointment.workOrderId^|^order.associatedDocument^|^order.correlationOrder^|^order.issue.action^|^order.issue.code^|^order.issue.observation^|^order.issue.updateDate^|^order.task.updateDate
+2021-09-07T15:20:00^|^False^|^Permitido^|^ORD12345^|^VTT002^|^11^|^fechar^|^7016^|^Reagendamento por ausência^|^2021-09-09T16:20:00^|^2021-09-07T15:20:00
+2021-10-08T12:47:00^|^True^|^Obrigatorio^|^ORD23456^|^VTT003^|^12^|^fechar^|^7029^|^Resolução de pendência de agendamento^|^2021-10-09T12:20:00^|^2021-10-08T12:30:00
+2021-11-09T13:45:00^|^False^|^Permitido^|^ORD56789^|^VTT004^|^13^|^fechar^|^7100^|^Resolução de pendência de contato de obra^|^2021-11-09T16:25:00^|^2021-11-09T13:45:00
+2021-12-10T14:55:00^|^True^|^Obrigatorio^|^ORD67890^|^VTT005^|^14^|^redirecionar^|^7017^|^Cliente Solicita nova data de Agendamento^|^2021-12-10T18:20:00^|^2021-12-10T14:55:00
+2022-01-07T15:30:00^|^False^|^Permitido^|^ORD78901^|^VTT006^|^15^|^abrir^|^7036^|^Área de Risco Indeterminada 15 dias^|^2022-01-07T19:20:00^|^2022-01-07T15:30:00
+2022-02-06T12:35:00^|^True^|^Obrigatorio^|^ORD89101^|^VTT007^|^16^|^fechar^|^7043^|^Rede 3 dias^|^2022-02-06T20:20:00^|^2022-02-06T12:35:00
+2022-03-07T13:25:00^|^False^|^Permitido^|^ORD91011^|^VTT008^|^17^|^abrir^|^7095^|^agendamento não cumprido^|^2022-03-07T21:20:00^|^2022-03-07T13:25:00
+2022-04-08T14:15:00^|^True^|^Obrigatorio^|^ORD10112^|^VTT009^|^18^|^redirecionar^|^7107^|^Rede 3 dias^|^2022-04-08T22:20:00^|^2022-04-08T14:15:00
+2022-05-09T13:50:00^|^False^|^Permitido^|^ORD22113^|^VTT010^|^19^|^fechar^|^7082^|^Endereço Não Localizado^|^2022-05-09T23:20:00^|^2022-05-09T13:50:00
+2022-06-07T14:16:00^|^True^|^Obrigatorio^|^ORD32114^|^VTT011^|^20^|^redirecionar^|^7099^|^Endereço correto Inviável^|^2022-06-07T23:55:00^|^2022-06-07T14:16:00

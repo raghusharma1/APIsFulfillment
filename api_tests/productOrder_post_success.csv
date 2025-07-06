@@ -1,0 +1,11 @@
+order^|^statusCode^|^scenario
+1^|^200^|^Installation Order Type FTTP
+2^|^404^|^Partial Block Order Type FTTH
+3^|^500^|^Installation Order Type FTTH with partial viability
+4^|^200^|^Total Block Order Type FTTP
+5^|^404^|^Installation Order Type FTTH arising from a address change (flagged address change)
+6^|^200^|^Total Block Order Type FTTH
+7^|^404^|^Associate CPE Order Type FTTP
+8^|^200^|^Speed Modification Order Type FTTH
+9^|^404^|^Unblock Order Type FTTP
+10^|^200^|^Unblock Order Type FTTH
