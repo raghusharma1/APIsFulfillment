@@ -1,0 +1,2 @@
+requestBody
+"""{"order":{"associatedDocument":"VTT001","associatedDocumentDate":"2021-06-09T18:20:53-03:00","correlationOrder":"10","customer":{"businessUnity":"varejo","fantasyName":"InterHome Internet","name":"Sandbox V.tal","phoneNumber":{"phoneNumbers":["000000000","",""]},"subscriberId":"SVTAL001","workContact":{"email":"sindicovtal@vtal.com","name":"sindico Vtal","phone":"21999900000"}},"infraType":"FTTH","products":{"product":[{"action":"adicionar","catalogId":"BL_200MB"}]},"type":"Instalacao"}}"""
