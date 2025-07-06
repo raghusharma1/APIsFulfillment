@@ -1,0 +1,79 @@
+[
+  {
+    "order.Id": "ORD123456",
+    "order.associatedDocument_*string": "INV78901",
+    "order.customer.subscriberId_*string": "SUB00123",
+    "statusCode": 200,
+    "scenario": "Success"
+  },
+  {
+    "order.Id": "ORD_INVALID",
+    "order.associatedDocument_*string": "DOC_INVALID",
+    "order.customer.subscriberId_*string": "SUB_INVALID",
+    "statusCode": 400,
+    "scenario": "Bad Request"
+  },
+  {
+    "order.Id": "ORD_AUTH_FAIL",
+    "order.associatedDocument_*string": "DOC_AUTH_FAIL",
+    "order.customer.subscriberId_*string": "SUB_AUTH_FAIL",
+    "statusCode": 401,
+    "scenario": "Unauthorized"
+  },
+  {
+    "order.Id": "ORD_SCOPE_ERR",
+    "order.associatedDocument_*string": "DOC_SCOPE_ERR",
+    "order.customer.subscriberId_*string": "SUB_SCOPE_ERR",
+    "statusCode": 403,
+    "scenario": "Forbidden - Scope Not Permitted"
+  },
+  {
+    "order.Id": "ORD_NOT_FOUND",
+    "order.associatedDocument_*string": "DOC_NOT_FOUND",
+    "order.customer.subscriberId_*string": "SUB_NOT_FOUND",
+    "statusCode": 404,
+    "scenario": "Not Found"
+  },
+  {
+    "order.Id": "ORD_INVALID",
+    "order.associatedDocument_*string": "DOC_INVALID",
+    "order.customer.subscriberId_*string": "SUB_INVALID",
+    "statusCode": 406,
+    "scenario": "Not Found"
+  },
+  {
+    "order.Id": "ORD_LOCKED",
+    "order.associatedDocument_*string": "DOC_LOCKED",
+    "order.customer.subscriberId_*string": "SUB_LOCKED",
+    "statusCode": 423,
+    "scenario": "Locked"
+  },
+  {
+    "order.Id": "ORD_TOO_MANY",
+    "order.associatedDocument_*string": "DOC_TOO_MANY",
+    "order.customer.subscriberId_*string": "SUB_TOO_MANY",
+    "statusCode": 429,
+    "scenario": "Too Many Requests - Exceeded Quota"
+  },
+  {
+    "order.Id": "ORD_SERVER_ERR",
+    "order.associatedDocument_*string": "DOC_SERVER_ERR",
+    "order.customer.subscriberId_*string": "SUB_SERVER_ERR",
+    "statusCode": 500,
+    "scenario": "Internal Server Error"
+  },
+  {
+    "order.Id": "ORD_SERVICE_UNAVAIL",
+    "order.associatedDocument_*string": "DOC_SERVICE_UNAVAIL",
+    "order.customer.subscriberId_*string": "SUB_SERVICE_UNAVAIL",
+    "statusCode": 503,
+    "scenario": "Service Unavailable"
+  },
+  {
+    "order.Id": "ORD_GATEWAY_TIMEOUT",
+    "order.associatedDocument_*string": "DOC_GATEWAY_TIMEOUT",
+    "order.customer.subscriberId_*string": "SUB_GATEWAY_TIMEOUT",
+    "statusCode": 504,
+    "scenario": "Gateway Timeout"
+  }
+]
