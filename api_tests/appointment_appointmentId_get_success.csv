@@ -1,0 +1,11 @@
+id^|^lifeCycleStatus^|^creationDateTime^|^finishDate^|^reason^|^reasonDetail^|^startDate^|^comments^|^employeeID^|^code^|^message^|^type
+SA-562403^|^Não atribuÃ­do^|^2023-09-10T10:30:00^|^2023-09-10T18:00:00^|^Teste inicial^|^Detalhes iniciais^|^2023-09-10T13:00:00^|^Agendamento para testes iniciais.^|^EMP12345^|^200^|^Ok^|^S
+SA-562404^|^Concluído^|^2023-10-05T09:00:00^|^2023-10-05T17:00:00^|^Verificação^|^Verificar as condições^|^2023-10-05T12:00:00^|^Processo concluído com sucesso.^|^EMP12346^|^200^|^Ok^|^S
+SA-562405^|^Cancelado^|^2023-08-15T08:45:00^|^2023-08-15T15:30:00^|^Erro técnico^|^Problemas na execução^|^2023-08-15T10:00:00^|^Cancelado devido a problemas técnicos.^|^EMP12347^|^400^|^Erro técnico^|^E
+SA-562406^|^Pendente^|^2023-07-20T07:30:00^|^2023-07-20T16:00:00^|^Aguardando aprovação^|^Revisão pelo supervisor^|^2023-07-20T11:00:00^|^Pendente de revisão e aprovação.^|^EMP12348^|^201^|^Pendente^|^T
+SA-562407^|^Não concluído^|^2023-06-10T06:15:00^|^2023-06-10T14:00:00^|^Indisponibilidade^|^Falta de recursos^|^2023-06-10T09:30:00^|^Agenda interrompida por falta de equipamentos.^|^EMP12349^|^500^|^Erro inesperado^|^E
+SA-562408^|^Em andamento^|^2023-05-25T15:00:00^|^2023-05-25T21:00:00^|^Atualização^|^Inserir novos dados^|^2023-05-25T17:30:00^|^Atualizações em progresso durante agendamento.^|^EMP12350^|^200^|^Ok^|^S
+SA-562409^|^Concluído^|^2023-04-18T11:45:00^|^2023-04-18T19:00:00^|^Rotina^|^Checagem rotineira^|^2023-04-18T14:00:00^|^Executado de acordo com a rotina habitual.^|^EMP12351^|^200^|^Processo finalizado^|^S
+SA-562410^|^Cancelado^|^2023-03-12T13:20:00^|^2023-03-12T20:45:00^|^Alteração não permitida^|^Mudanças sem autorização^|^2023-03-12T16:30:00^|^Solicitação cancelada após mudança não autorizada.^|^EMP12352^|^401^|^Alteração não autorizada^|^T
+SA-562411^|^Atrasado^|^2023-02-10T12:00:00^|^2023-02-10T20:00:00^|^Conflito de programação^|^Reorganização necessária^|^2023-02-10T15:00:00^|^O agendamento foi atrasado devido a conflitos.^|^EMP12353^|^307^|^Atraso comunicado^|^T
+SA-562412^|^Pendente^|^2023-01-30T14:30:00^|^2023-01-30T22:30:00^|^Vistoria necessária^|^Avaliar condições locais^|^2023-01-30T18:00:00^|^Vistoria pendente até solicitação de aprovação.^|^EMP12354^|^202^|^Aguardando vistoria^|^T
