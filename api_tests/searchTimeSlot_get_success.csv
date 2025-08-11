@@ -1,0 +1,11 @@
+0^|^1^|^2^|^3^|^4^|^5^|^6^|^7^|^8^|^9
+001^|^John Doe^|^2023-10-01T08:00:00^|^2023-10-01T12:00:00^|^VTAL001^|^VTT001^|^Instalacao^|^true^|^Banda Larga^|^true
+002^|^Jane Smith^|^2023-10-02T09:00:00^|^2023-10-02T13:00:00^|^VTAL002^|^VTT002^|^ChamadoTecnico^|^false^|^Banda Larga^|^false
+003^|^Alice Johnson^|^2023-10-03T10:00:00^|^2023-10-03T14:00:00^|^VTAL003^|^VTT003^|^RemanejamentoPonto^|^false^|^Banda Larga^|^false
+004^|^Bob Brown^|^2023-10-04T08:30:00^|^2023-10-04T11:30:00^|^VTAL004^|^VTT004^|^Retirada^|^false^|^Banda Larga^|^false
+005^|^Eve Davis^|^2023-10-05T07:45:00^|^2023-10-05T11:45:00^|^VTAL005^|^VTT005^|^Instalacao^|^true^|^Banda Larga^|^true
+006^|^Frank White^|^2023-10-06T12:00:00^|^2023-10-06T16:00:00^|^VTAL006^|^VTT006^|^ChamadoTecnico^|^false^|^Banda Larga^|^false
+007^|^Grace Hall^|^2023-10-07T14:30:00^|^2023-10-07T18:30:00^|^VTAL007^|^VTT007^|^Instalacao^|^true^|^Banda Larga^|^true
+008^|^Henry Lee^|^2023-10-08T15:00:00^|^2023-10-08T19:00:00^|^VTAL008^|^VTT008^|^RemanejamentoPonto^|^false^|^Banda Larga^|^false
+009^|^Isabel Green^|^2023-10-09T16:00:00^|^2023-10-09T20:00:00^|^VTAL009^|^VTT009^|^Retirada^|^false^|^Banda Larga^|^false
+010^|^Jack Black^|^2023-10-10T17:30:00^|^2023-10-10T21:30:00^|^VTAL010^|^VTT010^|^Instalacao^|^true^|^Banda Larga^|^true
