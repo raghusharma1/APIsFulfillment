@@ -1,0 +1,11 @@
+addressId^|^subscriberId^|^associatedDocument^|^startDate^|^finishDate^|^orderType^|^addressChangeFlag^|^productType^|^priorityFlag^|^priorityReason
+17713^|^VTAL001^|^VTT001^|^2021-05-21T13:00:00^|^2021-06-04T13:00:00^|^Instalação^|^true^|^Banda Larga^|^true^|^Cliente Diamond
+28869^|^^|^2134XX^|^2022-08-15^|^2022-08-22T13:00:00^|^Retirada^|^false^|^Broadband^|^^|^
+742^|^VTFOOBAR^|^VTX0045^|^2021-01-01T00:00:00^|^2021-01-14T23:59:59^|^ChamadoTecnico^|^^|^Banda Larga^|^true^|^Urgent support
+^|^NULL^|^^|^2021-06-30T10:00:00^|^2021-07-14^|^RemanejamentoPonto^|^true^|^^|^false^|^
+12345^|^VTAL002^|^VTT999^|^2023-09-01T09:00:00^|^2023-09-15T18:00:00^|^RemanejamentoPonto^|^false^|^InvalidDataType^|^^|^
+20493^|^VTEXP2023^|^VTT123^|^2023-12-01T12:00:00^|^2023-12-14T14:00:00^|^Instalação^|^true^|^Banda Larga^|^^|^Premium Client
+6543^|^VT5678^|^VTT090^|^InvalidStartDate^|^2021/07/04^|^Removal^|^randomData^|^Banda Larga^|^false^|^^
+^|^^|^DOC_MISSING^|^^|^^|^^|^^|^true^|^High importance
+88371^|^VTUSER42^|^VTT567^|^2022-05-20T11:30:00^|^2022-06-03T15:30:00^|^ChamadoTecnico^|^false^|^Banda Larga^|^true^|^Emergency check
+52901^|^STRING_TOO_LONG_FOR_FIELD_TO_TEST_BORDER_CONSTRAINTS_123456789012345^|^VTT8901X^|^2021-09-20T10:00:00^|^2021-09-27T08:30:00^|^RemanejamentoPonto^|^^|^Banda Larga^|^false^|^^
